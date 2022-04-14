@@ -1,10 +1,10 @@
 ---
 layout: member
-category: staff
-title: Researcher Name
+category: Members
+title: Gaurav Nayak
 image: researcher.png
-role: Lab Director
-permalink: 'team/researcher-name'
+role: PhD
+permalink: 'team/gaurav-nayak'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/

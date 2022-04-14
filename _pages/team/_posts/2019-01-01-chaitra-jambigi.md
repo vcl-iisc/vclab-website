@@ -1,18 +1,19 @@
 ---
 layout: member
-category: student
-title: Researcher Name
-image: researcher.png
-role: PhD Student
-permalink: 'team/researcher-name'
+category: Members
+title: Chaitra Jambigi
+image: chaitra-jambigi.jpeg
+role: M.Tech (Research)
+year: 2019-Active
+permalink: 'team/chaitra-jambigi'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    twitter: 
+    linkedin:       www.linkedin.com/in/chaitra-jambigi
+    google-scholar: 
+    github: 
+    website:        http://chaitrasj.github.io/
+    orcid: 
+    research-gate: 
 education:
  - Education
 ---
