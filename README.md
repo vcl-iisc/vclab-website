@@ -1,6 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dcf3d5d0-a4a4-486f-bd9a-64b612392aad/deploy-status)](https://app.netlify.com/sites/brave-bell-c85a34/deploys)
 
 ## Todo
+- [ ] Replace image by its compressed counterparts
 - [ ] Update Team members name
 - [ ] Change Netlify build
 - [ ] Add Publication
@@ -32,8 +33,8 @@ bundle exec jekyll serve
 ## Contribute
 
 ### Add a new member
-
-Simply add details of members in [_data\lab_alumni.yml](_data\lab_alumni.yml) or [_data\lab_members.yml](_data\lab_members.yml). 
+- Save pic in [images/teampic](images/teampic). Image size must be less than 200 KB and should be square to maintain loading speed and proper alignment of website images
+- Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
 
 ### Add a new publication
 

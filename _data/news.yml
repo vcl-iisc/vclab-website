@@ -1,21 +1,23 @@
-- date: 05/09/19
-  title: "Another great thing"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+- date: 15 September 2021
+  headline: Amber will join us with Casimir-Nanofront PhD fellowship -- welcome Amber!
 
-- date: 03/09/19
-  title: "Something great"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+- date: 28 June 2021
+  headline: Welcome Jinwon!
+
+- date: 16 March 2021
+  headline: "Koen wrote about his research <a href='https://epn.eps.org/wp-content/uploads/2021/04/EPN-52-2.pdf'>in EurophysicsNews</a> (page 12)."
+
+- date: 16 February 2021
+  headline: "Our new paper on twisted bilayer graphene from our Leiden-ICFO collaboration <a href='https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153'>in PRR</a>."
+
+- date: 17 March 2016
+  headline: Koen, Irene & Vitaly present a poster at Sun Sailing Science.
+
+- date: 17 Jan 2016
+  headline: We discover electronic order and pseudogap in a non-cuprate materal!
+
+- date: 01 Jan 2016
+  headline: Welcome Vitaly!
+
+- date: 17 June 2015
+  headline: Welcome Kees!
