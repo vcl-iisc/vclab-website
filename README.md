@@ -9,19 +9,23 @@
 
 ## Setup
 
+### For Mac/Linux
+
 ``` bash
 brew install ruby
 gem install bundler jekyll
 ```
 
+### For windows Install 
+- Download Ruby+Devkit 2.6.9-1 [Link to Download](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.9-1/rubyinstaller-devkit-2.6.9-1-x64.exe)
+  
 Clone this repository, then install the dependencies:
+
 
 ``` bash
 bundle install
 ```
 
-For windows Install 
-- Download Ruby+Devkit 2.6.9-1 https://rubyinstaller.org/downloads/archives/
 ## Run
 
 Run the local webserver with:

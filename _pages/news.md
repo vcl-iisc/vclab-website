@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "VCL News"
 sitemap: false
-permalink: /news/
+permalink: /allnews/
 ---
 
 # News

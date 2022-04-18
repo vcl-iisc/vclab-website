@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Master students, Project Assistants and Inters to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administrative support](#administrative-support)
@@ -24,9 +24,11 @@ Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administ
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive img-thumbnail" width="35%" style="float: left; padding: 5px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
   <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }} <br><a href="{{ member.url }}" target="_blank">Website</a></i>
+  <i><br>E-Mail: {{ member.email }}</i>
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -88,9 +90,9 @@ Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administ
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive img-thumbnail" width="35%" style="float: left; padding: 5px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
   <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }} <br><a href="{{ member.url }}" target="_blank">Website</a></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -153,9 +155,9 @@ Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administ
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive img-thumbnail" width="35%" style="float: left; padding: 5px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
   <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }} <br><a href="{{ member.url }}" target="_blank">Website</a></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
