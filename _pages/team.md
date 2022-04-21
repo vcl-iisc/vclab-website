@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administrative support](#administrative-support)

@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: homelay
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "VCLab, CDS, IISc"
 sitemap: false
 permalink: /
 ---

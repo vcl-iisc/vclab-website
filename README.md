@@ -1,11 +1,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dcf3d5d0-a4a4-486f-bd9a-64b612392aad/deploy-status)](https://app.netlify.com/sites/brave-bell-c85a34/deploys)
 
 ## Todo
-- [ ] Replace image by its compressed counterparts
-- [ ] Update Team members name
+
 - [ ] Change Netlify build
 - [ ] Add Publication
-- [ ] Change news section
 
 ## Setup
 
@@ -90,8 +88,8 @@ News are stored as `.yml` file under [_data/news.yml](_data/news.yml).
 An entry looks like the following:
 
 ```yaml
-- date: 03/09/19
-  title: "Something great"
+- date: 15 August 2021
+  title: "Something great happened!"
 ```
 
 ### Edit template
