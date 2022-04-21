@@ -8,10 +8,10 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administrative support](#administrative-support)
+Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni)
 
 ## Lab Head
 {% assign number_printed = 0 %}
@@ -233,5 +233,5 @@ Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administ
 {% endif %}
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<!-- ## Administrative Support
+<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration. -->

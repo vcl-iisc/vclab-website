@@ -37,7 +37,7 @@ bundle exec jekyll serve
 ### Add a new member
 - Save pic in [images/teampic](images/teampic). 
 - Image size must be less than 100 KB
-- Image should be **square** of size (200 x 200)
+- Image should be **square** of size (200 x 200). First crop your image to square shape then resize it to (200 x 200) size using https://www.iloveimg.com/resize-image 
 - If photo is not available then use `researcher.png` placeholder image (already there).
 This will help in maintaining loading speed and proper alignment of website images
 
