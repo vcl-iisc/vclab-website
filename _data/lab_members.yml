@@ -1,5 +1,5 @@
 - name: Gaurav Nayak
-  photo: researcher.png 
+  photo: gaurav-nayak.png
   info: PhD, (2019-Active)
   url: https://dellaert.github.io/
   
@@ -23,6 +23,11 @@
   info: M.Tech (Research) (2019-Active)
   url: http://chaitrasj.github.io/
 
+- name: Shaurya Tiwari
+  photo: shaurya-tiwari.jpeg
+  info: M.Tech Coursework (2020-Active)
+  url: https://www.linkedin.com/in/shauryat97/
+
 - name: Rohit Lal
   photo: rohit-lal.jpg 
   info: Project Assistant (2021-Active)
@@ -32,3 +37,18 @@
   photo: ruchit-rawal.jpg 
   info: Project Assistant (2021-Active)
   url: http://ruchitrawal.github.io/
+
+- name: Himanshu Patil
+  photo: himanshu-patil.jpg
+  info: Intern (2021-Active)
+  url: http://linkedin.com/hipatil
+
+- name: Umar Masud
+  photo: umar-masud.jpg 
+  info: Intern (2022-Active)
+  url: https://umar07.github.io/
+
+- name: Inder Khatri
+  photo: researcher.png 
+  info: Intern (2021-Active)
+  url: https://umar07.github.io/

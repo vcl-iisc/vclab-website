@@ -1,17 +1,48 @@
-- name: Alumni 1
+- name: Aditi Shanmugam
+  photo: aditi-shanmugam.png 
+  info: Intern (2021-Active)
+  url: https://aditishanmugam.github.io
+  affiliation:
+
+- name: Monish Keswani
   photo: researcher.png 
-  info: Professor, started Aug 2001
-  email: dellaert@gmail.com
-  url: https://dellaert.github.io/
-  
-- name: Alumni 2
+  info: Project Assistant (2020-21)
+  # url: https://dellaert.github.io/
+  affiliation: Visual Recognition Group, Czech Technical University
+
+- name: Aditya Kumar Pal 
   photo: researcher.png 
-  info: Professor, started Aug 2001
-  email: dellaert@gmail.com
-  url: https://dellaert.github.io/
-  
-- name: Alumni 3
+  info: M. Tech (2018-21)
+  # url: https://dellaert.github.io/
+  affiliation: Walmart Labs
+
+- name: Saksham Jain
   photo: researcher.png 
-  info: Professor, started Aug 2001
-  email: dellaert@gmail.com
-  url: https://dellaert.github.io/
+  info: Project Assistant (2020-21)
+  # url: https://dellaert.github.io/
+  affiliation: Duke University (M.S., ECE)
+
+- name: Sharan Seshadri
+  photo: researcher.png 
+  info: Project Assistant (2019)
+  # url: https://dellaert.github.io/
+  affiliation: SDE, Juniper Networks
+
+- name: Het Shah
+  photo: researcher.png 
+  info: Intern (2020-21)
+  # url: https://dellaert.github.io/
+  affiliation: Research Intern, Microsoft Research India 
+
+- name: Vignesh Nagarajan
+  photo: researcher.png 
+  info: Intern (2021)
+  # url: https://dellaert.github.io/
+  affiliation: IIITDM Kancheepuram
+
+- name: Anirudh Kannan
+  photo: researcher.png 
+  info: Intern (2020-21)
+  # url: https://dellaert.github.io/
+  affiliation: NA
+

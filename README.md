@@ -37,8 +37,12 @@ bundle exec jekyll serve
 ## Contribute
 
 ### Add a new member
-- Save pic in [images/teampic](images/teampic). Image size must be less than 200 KB and should be square to maintain loading speed and proper alignment of website images
-- Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
+- Save pic in [images/teampic](images/teampic). 
+- Image size must be less than 100 KB
+- Image should be **square** of size (200 x 200)
+This will help in maintaining loading speed and proper alignment of website images
+
+Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
 
 ### Add a new publication
 
