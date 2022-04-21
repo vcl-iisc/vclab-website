@@ -40,6 +40,7 @@ bundle exec jekyll serve
 - Save pic in [images/teampic](images/teampic). 
 - Image size must be less than 100 KB
 - Image should be **square** of size (200 x 200)
+- If photo is not available then use `researcher.png` placeholder image (already there).
 This will help in maintaining loading speed and proper alignment of website images
 
 Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
@@ -91,14 +92,6 @@ An entry looks like the following:
 ```yaml
 - date: 03/09/19
   title: "Something great"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
 ```
 
 ### Edit template
@@ -112,4 +105,4 @@ Feel free to modify either the [_pages](_pages/) or the
 This website is built with [Jekyll](https://jekyllrb.com/).
 It is derived from the great template provided by the
 [Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
-##### Template was modified by Rohit Lal and Himanshu Patil
+##### Template modified by Rohit Lal and Himanshu Patil

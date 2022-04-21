@@ -25,8 +25,16 @@ Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administ
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
-  <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
-  <i>{{ member.info }} <br><a href="{{ member.url }}" target="_blank">Website</a></i>
+  {% if member.url %}
+  <h4><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></h4>
+  {% else %}
+  <h4>{{ member.name }}</h4>
+  {% endif %}
+
+  {% if member.url %}
+  <i>{{ member.info }}</i>
+  {% endif %}
+  <a href="{{ member.url }}" target="_blank">Website</a>
   <i><br>E-Mail: {{ member.email }}</i>
 
   <ul style="overflow: hidden">
@@ -91,8 +99,17 @@ Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administ
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
-  <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
-  <i>{{ member.info }} <br><a href="{{ member.url }}" target="_blank">Website</a></i>
+  {% if member.url %}
+  <h4><a href="{{ member.url }} " target="_blank">{{ member.name }}</a></h4>
+  {% else %}
+  <h4>{{ member.name }}</h4>
+  {% endif %}
+
+  <i>{{ member.info }} <br></i>
+  {% if member.url %}
+  <a href="{{ member.url }}" target="_blank">Website</a>
+  {% endif %}
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -156,8 +173,17 @@ Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni), [administ
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
-  <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
-  <i>{{ member.info }} <br><a href="{{ member.url }}" target="_blank">Website</a></i>
+  {% if member.url %}
+  <h4><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></h4>
+  {% else %}
+  <h4>{{ member.name }}</h4>
+  {% endif %}
+
+  <i>{{ member.info }}</i><br>
+  <i>{{ member.affiliation }}</i><br>
+  {% if member.url %}
+  <a href="{{ member.url }}" target="_blank">Website</a>
+  {% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
