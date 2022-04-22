@@ -44,42 +44,8 @@ This will help in maintaining loading speed and proper alignment of website imag
 Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
 
 ### Add a new publication
-
-Publications are stored as `.json` file under
-[_data/publications.json](_data/publications.json).
-This json file is exported from [Zotero](https://www.zotero.org/)
-bibliography tool.
-
-Just add a new entry to the list like this:
-
-``` json
-{
-  "id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-  "type": "article-journal",
-  "title": "Foo",
-  "container-title": "IEEE Transactions on Medical Imaging",
-  "page": "448-459",
-  "volume": "38",
-  "issue": "2",
-  "source": "IEEE Xplore",
-  "abstract": "Bar",
-  "DOI": "10.1109/TMI.2018.2865709",
-  "author": [
-    {
-      "family": "",
-      "given": ""
-    },
-  ],
-  "issued": {
-    "date-parts": [
-      [
-        "2019",
-        2
-      ]
-    ]
-  }
-}
-```
+Publication will be automatically generate once you add bibtex.
+Bibtex can be added in `.bib` file under [_pages/bibtex_publications.bib]
 
 ### Add news
 
