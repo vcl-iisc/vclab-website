@@ -3,9 +3,8 @@
 ## Todo
 
 - [ ] Twtitter Page
+- [ ] Add links/project page/code for publications
 - [ ] Add redirection to /home
-- [ ] Add Supriyo and Sarthak in teams
-- [ ] Correct info and images in teams page
 - [ ] Increase width of all pages
 
 ## Contribute
