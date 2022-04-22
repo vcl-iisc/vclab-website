@@ -1,3 +1,9 @@
+
+- paper:
+  author: 
+  pub: 
+  type:
+
 - paper: Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data
   author: G. K. Nayak, M. K. Reddy, S. Jain, A. Chakraborty
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022) [In press]
@@ -213,22 +219,42 @@
   pub: 'Molecular Plant (2011) 4(5): 922-931'
   type: journal
 
-- paper:
-  author: 
-  pub: 
+- paper: Person Re-identification Using Multiple First-Person-Views on Wearable Devices
+  author: A. Chakraborty, B. Mandal, H. K. Galoogahi
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2016
   type: conference
 
-- paper:
-  author: 
-  pub: 
+- paper: A Poisson Process Model for Activity Forecasting
+  author: T. Mahmud, M. Hasan, A. Chakraborty, A. K. Roy-Chowdhury
+  pub: International Conference on Image Processing (ICIP), 2016
   type: conference
 
-- paper:
-  author: 
-  pub: 
+- paper: Consistent Re-identification in a Camera Network
+  author: A. Das*, A. Chakraborty*, A. K. Roy-Chowdhury (* Jointly first authored)
+  pub: European Conference on Computer Vision (ECCV), 2014
   type: conference
 
-- paper:
-  author: 
-  pub: 
+- paper: Context-Aware Activity Forecasting
+  author: A. Chakraborty, A. K. Roy-Chowdhury
+  pub: Asian Conference on Computer Vision (ACCV), 2014.
+  type: conference
+
+- paper: A Conditional Random Field Model For Tracking In Densely Packed Cell Structures
+  author: A. Chakraborty, A. K. Roy-Chowdhury
+  pub: IEEE International Conference on Image Processing (ICIP), 2014.
+  type: conference
+
+- paper: Automated registration of live imaging stacks of Arabidopsis
+  author: K. Mkrtchyan, A. Chakraborty, A. K. Roy-Chowdhury
+  pub: International Symposium on Biomedical Imaging (ISBI), 2013
+  type: conference
+
+- paper: Cell Resolution 3D Reconstruction of Developing Multilayer Tissues from Sparsely Sampled Volumetric Microscopy Images
+  author: A. Chakraborty, R. Yadav, G. V. Reddy, A. K. Roy-Chowdhury
+  pub: International Conference on Bioinformatics and Biomedicine (BIBM), 2011 (Oral)
+  type: conference
+
+- paper: Cell Volume Estimation From A Sparse Collection of Noisy Confocal Image Slices
+  author: A. Chakraborty, M. Liu, K. Mkrtchyan, G. V. Reddy, A. K. Roy-Chowdhury
+  pub: Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), 2010.
   type: conference
