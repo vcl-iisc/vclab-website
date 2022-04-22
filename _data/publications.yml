@@ -78,22 +78,62 @@
   pub: International Conference on Image Processing (ICIP), 2021
   type: conference
 
-- paper:
-  author: 
-  pub: 
-  type: 
+- paper: Effectiveness of Arbitrary Transfer Sets for Data Free Knowledge Distillation
+  author:  G. K. Nayak*, M. K. Reddy*, A. Chakraborty (* Jointly first authored)
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2021
+  type: conference
+
+- paper: 'HFCER: Hybrid Fusion for Cultural Event Recognition in Images'
+  author: S. Srivastava, B. Mandal, A. Chakraborty
+  pub: International Conference of Pattern Recognition Systems (ICPRS), 2021
+  type: conference
+
+- paper: Density Estimation of Heterogeneous Crowd in Mass Religious Gatherings Using Image Processing and Denoising Filter
+  author: N. Choubey, A. Prajapati, A. Verma, A. Chakraborty
+  pub: Soft Computing for Problem Solving (SocProS), Advances in Intelligent Systems and Computing, 2020.
+  type: conference
+
+- paper:  'WAMDA: Weighted Alignment of Sources for Multi-source Domain Adaptation'
+  author: S. Aggarwal, J. N. Kundu, R. Venkatesh Babu, A. Chakraborty
+  pub: British Machine Vision Conference (BMVC), 2020 (Oral)
+  type: conference
+
+- paper:  Fusion of Deep and Non-Deep Methods for Fast Super-Resolution of Satellite Images
+  author: G. K. Nayak, S. Jain, R. Venkatesh Babu, A. Chakraborty
+  pub: IEEE International Conference on Multimedia Big Data (BigMM), 2020 (Oral)
+  type: conference
+
+- paper: Sketch-Guided Object Localization in Natural Images
+  author: A. Tripathi, R. R. Dani, A. Mishra, A. Chakraborty
+  pub: European Conference on Computer Vision (ECCV), 2020 (Spotlight)
+  type: conference
+
+- paper: Self-Supervised 3D Human Pose Estimation Via Part Guided Novel Image Synthesis
+  author: J. N. Kundu*, S. Seth*, V. Jampani, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
+  pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 (Oral)
+  type: conference
+
+- paper: Kinematic-Structure-Preserved Representation for Unsupervised 3D Human Pose Estimation
+  author: J. N. Kundu*, S. Seth*, R. M. Venkatesh*, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
+  pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020 (Oral)
+  type: conference
+
+- paper: S. Addepalli, G. K. Nayak, A. Chakraborty, R. Venkatesh Babu
+  author: 'DeGAN : Data-enriching GAN for retrieving Representative Samples from a Trained Classifier'
+  pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020
+  type: conference
+
+- paper: Text-based Person Search via Attributeaided Matching
+  author: S. Aggarwal, R. Venkatesh Babu, A. Chakraborty
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2020
+  type: conference
 
 - paper:
   author: 
   pub: 
-  type: 
+  type: conference
 
 - paper:
   author: 
   pub: 
-  type: 
-
-- paper:
-  author: 
-  pub: 
-  type: 
+  type: conference
