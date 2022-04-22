@@ -4,6 +4,11 @@
   pub: 
   type:
 
+- paper: Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems
+  author: Gaurav Kumar Nayak*, Ruchit Rawal*, Rohit Lal*, Himanshu Patil, Anirban Chakraborty (* Jointly first authored)
+  pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2022
+  type: conference
+
 - paper: Automatic Image Analysis Pipeline for Studying Growth in Arabidopsis
   author: K. Mkrtchyan, A. Chakraborty, M. Liu, A. Roy-Chowdhury
   pub: Video Bioinformatics, Springer International Publishing, 2015
@@ -81,7 +86,7 @@
 
 - paper: 'Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions'
   author: V. Vinod, K. Ram Prabhakar, R. Venkatesh Babu, A. Chakraborty
-  pub: International Conference on Computer Vision Workshops (ICCV-W), 2021.
+  pub: International Conference on Computer Vision Workshops (ICCV-W), 2021
   type: conference
 
 - paper: 'CAFT: Class Aware Frequency Transform for Reducing Domain Gap'
@@ -171,7 +176,7 @@
 
 - paper: Enhancing Salient Object Segmentation Through Attention
   author: A. Pahuja, A. Majumder, A. Chakraborty, R. Venkatesh Babu
-  pub: Computer Vision and Pattern Recognition Workshops (Deep Vision), pp. 27-36, 2019.
+  pub: Computer Vision and Pattern Recognition Workshops (Deep Vision), pp. 27-36, 2019
   type: conference
 
 - paper: 'All for One: Frame-wise Rank Loss for Improving Video-based Person Re-identification'
