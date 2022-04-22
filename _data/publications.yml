@@ -163,7 +163,7 @@
   pub: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2472-2476, 2019 (Oral)
   type: conference
 
-- paper: n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surface
+- paper: 'n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surface'
   author: B. R. Pradhan, Y. Bethi, S. Narayanan, A. Chakraborty, C. S. Thakur
   pub: IEEE International Symposium on Circuits and Systems (ISCAS), 2019
   type: conference
@@ -173,10 +173,45 @@
   pub: NCVPRIPG, 2017 (Oral)
   type: conference
 
-- paper:
-  author: 
-  pub: 
-  type: conference
+- paper: Person Re-identification Using Multiple Egocentric Views
+  author: A. Chakraborty, B. Mandal, J. Yuan
+  pub: IEEE Transactions on Circuits and Systems for Video Technology (2017) 27(3):484-498
+  type: journal
+
+- paper: Optimal Landmark Selection for Registration of 4D Confocal Image Stacks in Arabidopsis
+  author: K. Mkrtchyan, A. Chakraborty, A. K. Roy-Chowdhury
+  pub: IEEE/ ACM Transactions on Computational Biology and Bioinformatics (2017) 14(2):457-467
+  type: journal
+
+- paper: A. Chakraborty, A. Das, A. K. Roy-Chowdhury
+  author: A. Chakraborty, A. Das, A. K. Roy-Chowdhury
+  pub: Network Consistent Data Association”, IEEE Transactions on Pattern Analysis and Machine Intelligence (2016) 38(9):1859-1871
+  type: journal
+
+- paper: Context Aware Spatio-temporal Cell Tracking In Densely Packed Multilayer Tissues
+  author: A. Chakraborty, A. K. Roy-Chowdhury
+  pub: Medical Image Analysis (2015) 19(1):149-163
+  type: journal
+
+- paper: “A Context-Aware Delayed Agglomeration Framework for Electron Microscopy Segmentation
+  author: T. Parag, A. Chakraborty, S. Plaza, L. Sche↵er
+  pub: 'PLoS ONE (2015) 10(5): e0125825'
+  type: journal
+
+- paper: 'Graph-based Active Learning of Agglomeration (GALA): a Python library to segment 2D and 3D neuroimages'
+  author: J. Nunez-Iglesias, R. Kennedy, S. M. Plaza, A. Chakraborty, W. T. Katz
+  pub: Frontiers in Neuroinformatics (2014) 8(00034)
+  type: journal
+
+- paper: Adaptive Geometric Tessellation for 3D Reconstruction of Anisotropically Developing Cells in Multilayer Tissues from Sparse Volumetric Microscopy Images
+  author: A. Chakraborty, M. M. Perales, G. V. Reddy, A. K. Roy-Chowdhury
+  pub: 'PLoS ONE (2013) 8(8): e67202'
+  type: journal
+
+- paper: Adaptive Cell Segmentation and Tracking for Volumetric Confocal Microscopy Images of A Developing Plant Meristem
+  author: M. Liu*, A. Chakraborty*, D. Singh, M. Gopi, R. Yadav, G.V. Reddy, A. K. Roy-Chowdhury  (* Jointly first authored)
+  pub: 'Molecular Plant (2011) 4(5): 922-931'
+  type: journal
 
 - paper:
   author: 
@@ -197,4 +232,3 @@
   author: 
   pub: 
   type: conference
-
