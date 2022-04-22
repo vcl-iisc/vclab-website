@@ -1,8 +1,17 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dcf3d5d0-a4a4-486f-bd9a-64b612392aad/deploy-status)](https://app.netlify.com/sites/brave-bell-c85a34/deploys)
+# Visual Computing Lab Official Website
+
+## Todo
+
+- [ ] Twtitter Page
+- [ ] Add redirection to /home
+- [ ] Add more bibtex
+- [ ] Add Supriyo and Sarthak in teams
+- [ ] Correct info and images in teams page
 
 ## Contribute
 
 ### Add a new member
+
 - Save pic in [images/teampic](images/teampic). 
 - Image size must be less than 100 KB
 - Image should be **square** of size (200 x 200). First crop your image to square shape then resize it to (200 x 200) size using https://www.iloveimg.com/resize-image 
@@ -12,6 +21,7 @@ This will help in maintaining loading speed and proper alignment of website imag
 Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
 
 ### Add a new publication
+
 Publication will be automatically generate once you add bibtex.
 Bibtex for new papers must be added in `.bib` file under [_pages/bibtex_publications.bib]
 
@@ -30,14 +40,10 @@ You can update image by going to [_layouts/homelay.html ](_layouts/homelay.html)
 The slider image should be of size (640 x 360) px. Compress any image before adding to website in order to maintain loading speed.
 
 ```html
-			<div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/slider/new_image.jpg" alt="Slide 3" />
-			</div>
+<div class="item">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/slider/new_image.jpg" alt="Slide 3" />
+</div>
 ```
-
-## Todo
-
-- [ ] Change Netlify build
 
 ## Setup
 
@@ -66,16 +72,14 @@ Run the local webserver with:
 bundle exec jekyll serve
 ```
 
-### Edit template
+### Template Info
 
 We use [Bootstrap](https://getbootstrap.com/) for designing the website.
 Feel free to modify either the [_pages](_pages/) or the
 [_layouts](_layouts/) components.
 
-# VCLab website template
-
 This website is built with [Jekyll](https://jekyllrb.com/).
 It is derived from the great template provided by the
 [Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
 
-##### Template modified by Rohit Lal and Himanshu Patil
+##### Template modified by [Rohit Lal](https://rohitlal.net) and Himanshu Patil
