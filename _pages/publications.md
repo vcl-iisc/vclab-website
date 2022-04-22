@@ -14,45 +14,58 @@ permalink: /publications/
 <summary>
 ## Book Chapters
 </summary>
-<ul>
+<!-- <ul> -->
+
 {% for article in site.data.publications %}
 {% if article.type=="Book Chapters" %}
-<li><b>{{ article.paper }}</b>
-<br>{{ article.author }}
-<br><i>{{ article.pub }}</i></li>
+<!-- <li> -->
+<b><font size='4'>{{ article.paper }}</font></b>
+<br><font size='4'>{{ article.author }}</font>
+<br><i><font size='4'>{{ article.pub }}</font></i>
+<!-- </li> -->
+<br><br>
+
 {% endif %}
 {% endfor %}
-</ul>
+
+<!-- </ul> -->
 </details>
 
 <details open>
 <summary>
 ## Journals
 </summary>
-<ul>
+<!-- <ul> -->
 {% for article in site.data.publications %}
 {% if article.type=="journal" %}
-<li><b>{{ article.paper }}</b>
-<br>{{ article.author }}
-<br><i>{{ article.pub }}</i></li>
+<!-- <li> -->
+
+<b><font size='4'>{{ article.paper }}</font></b>
+<br><font size='4'>{{ article.author }}</font>
+<br><i><font size='4'>{{ article.pub }}</font></i>
+<!-- </li> -->
+<br><br>
 {% endif %}
 {% endfor %}
-</ul>
+<!-- </ul> -->
 </details>
 
 <details open>
 <summary>
 ## Conferences
 </summary>
-<ul>
+<!-- <ul> -->
 {% for article in site.data.publications %}
 {% if article.type=="conference" %}
-<li><b>{{ article.paper }}</b>
-<br>{{ article.author }}
-<br><i>{{ article.pub }}</i></li>
+<!-- <li> -->
+<b><font size='4'>{{ article.paper }}</font></b>
+<br><font size='4'>{{ article.author }}</font>
+<br><i><font size='4'>{{ article.pub }}</font></i>
+<!-- </li> -->
+<br><br>
 {% endif %}
 {% endfor %}
-</ul>
+<!-- </ul> -->
 </details>
 
 
