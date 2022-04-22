@@ -128,6 +128,51 @@
   pub: Winter Conference on Applications of Computer Vision (WACV), 2020
   type: conference
 
+- paper: 'QUICKSAL: A small and sparse visual saliency model for ecient inference in resource constrained hardware'
+  author: V. Ramanathan, P. Dwivedi, B. Katabathuni, A. Chakraborty, C. S. Thakur
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2020 
+  type: conference
+
+- paper: 'From Strings to Things: Knowledgeenabled VQA Model that can Read and Reason'
+  author: A. K. Singh, A. Mishra, S. Shekhar, A. Chakraborty
+  pub: International Conference on Computer Vision (ICCV), 2019 (Oral)
+  type: conference
+
+- paper: Zero Shot Knowledge Distillation in Deep Networks
+  author: G. K. Nayak*, M. K. Reddy*, V. Shaj*, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
+  pub: International Conference on Machine Learning (ICML), 2019
+  type: conference
+
+- paper: 'OCR-VQA: Visual Question Answering by Reading Text in Images'
+  author: A. Mishra, S. Shekhar, A. K. Singh, A. Chakraborty
+  pub: International Conference on Document Analysis and Recognition (ICDAR), 2019 
+  type: conference
+
+- paper: Ecient Person Reidentification in Videos Using Sequence Lazy Greedy Determinantal Point Process (SLGDPP)
+  author: G. K. Nayak, U. Shreemali, R. Venkatesh Babu, A. Chakraborty
+  pub: International Conference on Image Processing (ICIP), 2019
+  type: conference
+
+- paper: Enhancing Salient Object Segmentation Through Attention
+  author: A. Pahuja, A. Majumder, A. Chakraborty, R. Venkatesh Babu
+  pub: Computer Vision and Pattern Recognition Workshops (Deep Vision), pp. 27-36, 2019.
+  type: conference
+
+- paper: 'All for One: Frame-wise Rank Loss for Improving Video-based Person Re-identification'
+  author: Navaneet, K. L., V. Todi, R. Venkatesh Babu, A. Chakraborty
+  pub: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2472-2476, 2019 (Oral)
+  type: conference
+
+- paper: n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surface
+  author: B. R. Pradhan, Y. Bethi, S. Narayanan, A. Chakraborty, C. S. Thakur
+  pub: IEEE International Symposium on Circuits and Systems (ISCAS), 2019
+  type: conference
+
+- paper: 'Anomaly from Motion: Unsupervised Extraction of Visual Irregularity via Motion Prediction'
+  author: A. Majumder, R. Venkatesh Babu, A. Chakraborty
+  pub: NCVPRIPG, 2017 (Oral)
+  type: conference
+
 - paper:
   author: 
   pub: 
@@ -137,3 +182,19 @@
   author: 
   pub: 
   type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: conference
+
