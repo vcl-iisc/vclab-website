@@ -21,9 +21,15 @@ This will help in maintaining loading speed and proper alignment of website imag
 Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
 
 ### Add a new publication
+Generate Pull request to add your publications.
+Publication can be added in [_data/publications.yml] in follwing format.
+```yml
+- paper: (paper name)
+  author: (Auhtors name)
+  pub: (Place where work is published)
+  type: (Book Chapters / journal / conference)
 
-Publication will be automatically generate once you add bibtex.
-Bibtex for new papers must be added in `.bib` file under [_pages/bibtex_publications.bib]
+```
 
 ### Add news
 
