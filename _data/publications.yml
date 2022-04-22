@@ -1,0 +1,44 @@
+- paper: Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data
+  author: G. K. Nayak, M. K. Reddy, S. Jain, A. Chakraborty
+  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022) [In press]
+  type: journal
+
+- paper: 'EvAn: Neuromorphic Event-Based Sparse Anomaly Detection'
+  author: A. Lakshmi, A. Chakraborty, C. S. Thakur
+  pub: 'Frontiers in Neuroscience (2022) 15 (2021): 853.'
+  type: journal
+
+- paper: Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation
+  author: J. N. Kundu, S. Seth, Y. M. Pradyumna, V. Jampani, A. Chakraborty, R. Venkatesh Babu
+  pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+  type: conference
+
+- paper: 'DAD: Data-free Adversarial Defense at Test Time'
+  author: G. K. Nayak*, R. Rawal*, A. Chakraborty (*Jointly first authored)
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2022
+  type: conference
+
+- paper: Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation
+  author: J. N. Kundu, S. Seth, A. Jamkhandi, Y. M. Pradyumna, V. Jampani, A. Chakraborty, R. Venkatesh Babu
+  pub: Advances in Neural Information Processing Systems (NeurIPS), 2021.
+  type: conference
+
+- paper: 'MMD-ReID: A Simple but E↵ective Solution for Visible-Thermal Person ReID'
+  author: C. Jambigi*, R. Rawal*, A. Chakraborty (* Jointly first authored)
+  pub: British Machine Vision Conference (BMVC), 2021 (Oral)
+  type: conference
+
+- paper: Robust Gait Based Human Identification on Incomplete and Multi-view Sequences
+  author: U. Shreemali, A. Chakraborty
+  pub: 'Multimedia Tools and Applications (2020) 80(7): 10141-10166.'
+  type: journal
+
+- paper: 'PerSeg: Segmenting Salient Objects From Bag of Single Image Perturbations'
+  author: A. Majumder, R. Venkatesh Babu, A. Chakraborty
+  pub: 'Multimedia Tools and Applications (2020) 79(3): 2473-2493.'
+  type: journal
+
+- paper:
+  author: 
+  pub: 
+  type: 
