@@ -1,18 +1,21 @@
+############################ PHD STUDENTS ############################
+
 - name: Gaurav Nayak
   photo: gaurav-nayak.png
   info: PhD, (2017-Active)
   url: https://sites.google.com/view/gauravnayak/
   
 - name: Aditay Tripathi
-  photo: researcher.png 
+  photo: aditay.png 
   info: PhD, (2018-Active)
   url: https://www.linkedin.com/in/aditay-tripathi-930889122
-
 
 - name: M. Yashwanth
   photo: researcher.png 
   info: PhD, (2021-Active)
   url: https://www.linkedin.com/in/yashwanth-mandula-aba700a5/
+
+############################ MTECH STUDENTS ############################
 
 - name: Vikash Kumar
   photo: vikash-kumar.jpg 
@@ -29,6 +32,13 @@
   info: M.Tech Coursework (2020-Active)
   url: https://www.linkedin.com/in/shauryat97/
 
+- name: Supriya Mandal
+  photo: supriya.jpg
+  info: M.Tech (Coursework) (2021-Active)
+  url: https://www.linkedin.com/in/supriya09
+
+########################## Project Assistants ##########################
+
 - name: Rohit Lal
   photo: rohit-lal.jpg 
   info: Project Assistant (2021-Active)
@@ -38,6 +48,8 @@
   photo: ruchit-rawal.jpg 
   info: Project Assistant (2021-Active)
   url: http://ruchitrawal.github.io/
+
+############################### Interns ###############################
 
 - name: Himanshu Patil
   photo: himanshu-patil.jpg
