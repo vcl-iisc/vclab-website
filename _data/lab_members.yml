@@ -54,7 +54,7 @@
 - name: Himanshu Patil
   photo: himanshu-patil.jpg
   info: Intern (2021-Active)
-  url: http://linkedin.com/hipatil
+  url: https://www.linkedin.com/in/hipatil/
 
 - name: Umar Masud
   photo: umar-masud.jpg 
@@ -64,4 +64,4 @@
 - name: Inder Khatri
   photo: researcher.png 
   info: Intern (2021-Active)
-  url: https://umar07.github.io/
+  # url: https://umar07.github.io/
