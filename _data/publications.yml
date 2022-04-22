@@ -38,7 +38,163 @@
   pub: 'Multimedia Tools and Applications (2020) 79(3): 2473-2493.'
   type: journal
 
+- paper: Operator-in-the-Loop Deep Sequential Multi-Camera Feature Fusion for Person Re-Identification
+  author: K. L. Navaneet, R. K. Sarvadevabhatla, S. Shekhar, R. Venkatesh Babu
+  pub: 'IEEE Transactions on Information Forensics & Security (2019) 15: 2375-2385'
+  type: journal
+
+- paper: 'Neuromorphic vision: From sensors to eventbased algorithms'
+  author: A. Lakshmi, A. Chakraborty, C. S. Thakur
+  pub: 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery (2019) 9(4): p.e1310.'
+  type:  journal
+
+- paper: Pose Transformation and Radial Distance Clustering for Unsupervised Person Re-identification
+  author: S. Seth, A. Sonth, A. Chakraborty
+  pub: British Machine Vision Conference (BMVC), 2021
+  type: conference
+
+- paper: Incremental Learning for Animal Pose Estimation using RBF k-DPP
+  author: G. K. Nayak*, H. Shah*, A. Chakraborty  (* Jointly first authored)
+  pub: British Machine Vision Conference (BMVC), 2021
+  type: conference
+
+- paper: 'Beyond Classification: Knowledge Distillation using Multi-Object Impressions'
+  author: G. K. Nayak⇤, M. Keswani⇤, S. Seshadri, A. Chakraborty (* Jointly first authored)
+  pub: British Machine Vision Conference (BMVC), 2021
+  type: conference
+
+- paper: 'Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions'
+  author: V. Vinod, K. Ram Prabhakar, R. Venkatesh Babu, A. Chakraborty
+  pub: International Conference on Computer Vision Workshops (ICCV-W), 2021.
+  type: conference
+
+- paper: 'CAFT: Class Aware Frequency Transform for Reducing Domain Gap'
+  author: V. Kumar, S. Srivastava*, R. Lal*, A. Chakraborty (* Jointly second authored)
+  pub: International Conference on Computer Vision Workshops (ICCV-W), 2021
+  type: conference
+
+- paper: Real-Time Object Detection and Localization in Compressive Sensed Video
+  author: Y. Bethi, S. Narayanan, V. Rangan, A. Chakraborty, C. S. Thakur
+  pub: International Conference on Image Processing (ICIP), 2021
+  type: conference
+
+- paper: Effectiveness of Arbitrary Transfer Sets for Data Free Knowledge Distillation
+  author:  G. K. Nayak*, M. K. Reddy*, A. Chakraborty (* Jointly first authored)
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2021
+  type: conference
+
+- paper: 'HFCER: Hybrid Fusion for Cultural Event Recognition in Images'
+  author: S. Srivastava, B. Mandal, A. Chakraborty
+  pub: International Conference of Pattern Recognition Systems (ICPRS), 2021
+  type: conference
+
+- paper: Density Estimation of Heterogeneous Crowd in Mass Religious Gatherings Using Image Processing and Denoising Filter
+  author: N. Choubey, A. Prajapati, A. Verma, A. Chakraborty
+  pub: Soft Computing for Problem Solving (SocProS), Advances in Intelligent Systems and Computing, 2020.
+  type: conference
+
+- paper:  'WAMDA: Weighted Alignment of Sources for Multi-source Domain Adaptation'
+  author: S. Aggarwal, J. N. Kundu, R. Venkatesh Babu, A. Chakraborty
+  pub: British Machine Vision Conference (BMVC), 2020 (Oral)
+  type: conference
+
+- paper:  Fusion of Deep and Non-Deep Methods for Fast Super-Resolution of Satellite Images
+  author: G. K. Nayak, S. Jain, R. Venkatesh Babu, A. Chakraborty
+  pub: IEEE International Conference on Multimedia Big Data (BigMM), 2020 (Oral)
+  type: conference
+
+- paper: Sketch-Guided Object Localization in Natural Images
+  author: A. Tripathi, R. R. Dani, A. Mishra, A. Chakraborty
+  pub: European Conference on Computer Vision (ECCV), 2020 (Spotlight)
+  type: conference
+
+- paper: Self-Supervised 3D Human Pose Estimation Via Part Guided Novel Image Synthesis
+  author: J. N. Kundu*, S. Seth*, V. Jampani, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
+  pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 (Oral)
+  type: conference
+
+- paper: Kinematic-Structure-Preserved Representation for Unsupervised 3D Human Pose Estimation
+  author: J. N. Kundu*, S. Seth*, R. M. Venkatesh*, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
+  pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020 (Oral)
+  type: conference
+
+- paper: S. Addepalli, G. K. Nayak, A. Chakraborty, R. Venkatesh Babu
+  author: 'DeGAN : Data-enriching GAN for retrieving Representative Samples from a Trained Classifier'
+  pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020
+  type: conference
+
+- paper: Text-based Person Search via Attributeaided Matching
+  author: S. Aggarwal, R. Venkatesh Babu, A. Chakraborty
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2020
+  type: conference
+
+- paper: 'QUICKSAL: A small and sparse visual saliency model for ecient inference in resource constrained hardware'
+  author: V. Ramanathan, P. Dwivedi, B. Katabathuni, A. Chakraborty, C. S. Thakur
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2020 
+  type: conference
+
+- paper: 'From Strings to Things: Knowledgeenabled VQA Model that can Read and Reason'
+  author: A. K. Singh, A. Mishra, S. Shekhar, A. Chakraborty
+  pub: International Conference on Computer Vision (ICCV), 2019 (Oral)
+  type: conference
+
+- paper: Zero Shot Knowledge Distillation in Deep Networks
+  author: G. K. Nayak*, M. K. Reddy*, V. Shaj*, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
+  pub: International Conference on Machine Learning (ICML), 2019
+  type: conference
+
+- paper: 'OCR-VQA: Visual Question Answering by Reading Text in Images'
+  author: A. Mishra, S. Shekhar, A. K. Singh, A. Chakraborty
+  pub: International Conference on Document Analysis and Recognition (ICDAR), 2019 
+  type: conference
+
+- paper: Ecient Person Reidentification in Videos Using Sequence Lazy Greedy Determinantal Point Process (SLGDPP)
+  author: G. K. Nayak, U. Shreemali, R. Venkatesh Babu, A. Chakraborty
+  pub: International Conference on Image Processing (ICIP), 2019
+  type: conference
+
+- paper: Enhancing Salient Object Segmentation Through Attention
+  author: A. Pahuja, A. Majumder, A. Chakraborty, R. Venkatesh Babu
+  pub: Computer Vision and Pattern Recognition Workshops (Deep Vision), pp. 27-36, 2019.
+  type: conference
+
+- paper: 'All for One: Frame-wise Rank Loss for Improving Video-based Person Re-identification'
+  author: Navaneet, K. L., V. Todi, R. Venkatesh Babu, A. Chakraborty
+  pub: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2472-2476, 2019 (Oral)
+  type: conference
+
+- paper: n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surface
+  author: B. R. Pradhan, Y. Bethi, S. Narayanan, A. Chakraborty, C. S. Thakur
+  pub: IEEE International Symposium on Circuits and Systems (ISCAS), 2019
+  type: conference
+
+- paper: 'Anomaly from Motion: Unsupervised Extraction of Visual Irregularity via Motion Prediction'
+  author: A. Majumder, R. Venkatesh Babu, A. Chakraborty
+  pub: NCVPRIPG, 2017 (Oral)
+  type: conference
+
 - paper:
   author: 
   pub: 
-  type: 
+  type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: conference
+
