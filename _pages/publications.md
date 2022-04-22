@@ -14,6 +14,9 @@ permalink: /publications/
 <summary>
 ## Book Chapters
 </summary>
+
+---
+
 <!-- <ul> -->
 
 {% for article in site.data.publications %}
@@ -35,6 +38,9 @@ permalink: /publications/
 <summary>
 ## Journals
 </summary>
+
+---
+
 <!-- <ul> -->
 {% for article in site.data.publications %}
 {% if article.type=="journal" %}
@@ -54,6 +60,9 @@ permalink: /publications/
 <summary>
 ## Conferences
 </summary>
+
+---
+
 <!-- <ul> -->
 {% for article in site.data.publications %}
 {% if article.type=="conference" %}
