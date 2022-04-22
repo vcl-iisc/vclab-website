@@ -4,9 +4,9 @@
 
 - [ ] Twtitter Page
 - [ ] Add redirection to /home
-- [ ] Add more bibtex
 - [ ] Add Supriyo and Sarthak in teams
 - [ ] Correct info and images in teams page
+- [ ] Increase width of all pages
 
 ## Contribute
 
