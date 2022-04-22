@@ -53,6 +53,36 @@
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
 
+- paper: Incremental Learning for Animal Pose Estimation using RBF k-DPP
+  author: G. K. Nayak*, H. Shah*, A. Chakraborty  (* Jointly first authored)
+  pub: British Machine Vision Conference (BMVC), 2021
+  type: conference
+
+- paper: 'Beyond Classification: Knowledge Distillation using Multi-Object Impressions'
+  author: G. K. Nayak⇤, M. Keswani⇤, S. Seshadri, A. Chakraborty (* Jointly first authored)
+  pub: British Machine Vision Conference (BMVC), 2021
+  type: conference
+
+- paper: 'Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions'
+  author: V. Vinod, K. Ram Prabhakar, R. Venkatesh Babu, A. Chakraborty
+  pub: International Conference on Computer Vision Workshops (ICCV-W), 2021.
+  type: conference
+
+- paper: 'CAFT: Class Aware Frequency Transform for Reducing Domain Gap'
+  author: V. Kumar, S. Srivastava*, R. Lal*, A. Chakraborty (* Jointly second authored)
+  pub: International Conference on Computer Vision Workshops (ICCV-W), 2021
+  type: conference
+
+- paper: Real-Time Object Detection and Localization in Compressive Sensed Video
+  author: Y. Bethi, S. Narayanan, V. Rangan, A. Chakraborty, C. S. Thakur
+  pub: International Conference on Image Processing (ICIP), 2021
+  type: conference
+
+- paper:
+  author: 
+  pub: 
+  type: 
+
 - paper:
   author: 
   pub: 
