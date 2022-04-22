@@ -75,7 +75,7 @@
   type: conference
 
 - paper: 'Beyond Classification: Knowledge Distillation using Multi-Object Impressions'
-  author: G. K. Nayak⇤, M. Keswani⇤, S. Seshadri, A. Chakraborty (* Jointly first authored)
+  author: G. K. Nayak*, M. Keswani*, S. Seshadri, A. Chakraborty (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
 
