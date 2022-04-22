@@ -4,6 +4,7 @@
 
 - [ ] Twtitter Page
 - [ ] Add links/project page/code for publications
+- [ ] Logo for github/webpage/linkedin for Team page
 - [ ] Add redirection to /home
 - [ ] Increase width of all pages
 
