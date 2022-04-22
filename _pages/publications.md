@@ -6,11 +6,13 @@ sitemap: false
 permalink: /publications/
 ---
 
+<html>
+<body>
 
-# Publications
+<h1>Publications</h1>
 <details open>
 <summary>
-## Book Chapters
+<h2>Book Chapters</h2>
 </summary>
 <ul>
 {% for article in site.data.publications %}
@@ -25,7 +27,7 @@ permalink: /publications/
 
 <details open>
 <summary>
-## Journal
+<h2>Journal</h2>
 </summary>
 <ul>
 {% for article in site.data.publications %}
@@ -40,7 +42,7 @@ permalink: /publications/
 
 <details open>
 <summary>
-## Conference
+<h2>Conference</h2>
 </summary>
 <ul>
 {% for article in site.data.publications %}
@@ -52,6 +54,9 @@ permalink: /publications/
 {% endfor %}
 </ul>
 </details>
+</body>
+</html>
+
 
 
 <!-- [Google Scholar](https://scholar.google.com/citations?user=q-UUrywAAAAJ&hl=en&citsig=AMD79opm_sa8KYqgVRnFOuKMZr6efInG_Q) -->
