@@ -8,7 +8,25 @@ permalink: /publications/
 
 
 # Publications
+<details open>
+<summary>
+## Book Chapters
+</summary>
+<ul>
+{% for article in site.data.publications %}
+{% if article.type=="Book Chapters" %}
+<li><b>{{ article.paper }}</b>
+<br>{{ article.author }}
+<br><i>{{ article.pub }}</i></li>
+{% endif %}
+{% endfor %}
+</ul>
+</details>
+
+<details open>
+<summary>
 ## Journal
+</summary>
 <ul>
 {% for article in site.data.publications %}
 {% if article.type=="journal" %}
@@ -18,8 +36,12 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 </ul>
+</details>
 
+<details open>
+<summary>
 ## Conference
+</summary>
 <ul>
 {% for article in site.data.publications %}
 {% if article.type=="conference" %}
@@ -29,6 +51,7 @@ permalink: /publications/
 {% endif %}
 {% endfor %}
 </ul>
+</details>
 
 
 <!-- [Google Scholar](https://scholar.google.com/citations?user=q-UUrywAAAAJ&hl=en&citsig=AMD79opm_sa8KYqgVRnFOuKMZr6efInG_Q) -->

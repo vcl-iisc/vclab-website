@@ -4,6 +4,16 @@
   pub: 
   type:
 
+- paper: Automatic Image Analysis Pipeline for Studying Growth in Arabidopsis
+  author: K. Mkrtchyan, A. Chakraborty, M. Liu, A. Roy-Chowdhury
+  pub: Video Bioinformatics, Springer International Publishing, 2015
+  type: Book Chapters
+
+- paper: Computational Tools For Quantitative Analysis of Cell Growth Patterns And Morphogenesis in Actively Developing Plant Stem Cell Niches
+  author: A. Chakraborty, R. Yadav, M. Liu, M. Tataw, K. Mkrtchyan, A.K. Roy Chowdhury, G. V. Reddy
+  pub: 'Plant Signalling Networks: Methods and Protocols, Springer Protocols 2012'
+  type: Book Chapters
+
 - paper: Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data
   author: G. K. Nayak, M. K. Reddy, S. Jain, A. Chakraborty
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022) [In press]
