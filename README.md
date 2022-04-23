@@ -22,12 +22,12 @@ Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data
 
 ### Add a new publication
 Generate Pull request to add your publications.
-Publication can be added in [_data/publications.yml] in follwing format.
+Publication can be added in [_data/publications.yml](data/publications.yml) in follwing format.
 ```yml
-- paper: (paper name)
-  author: (Auhtors name)
-  pub: (Place where work is published)
-  type: (Book Chapters / journal / conference)
+- paper: Your Paper Name
+  author: List of authors 
+  pub: Place where work is published
+  type: Book Chapters / journal / conference (choose anyone)
 
 ```
 
