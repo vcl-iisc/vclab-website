@@ -44,7 +44,7 @@
   pub: Advances in Neural Information Processing Systems (NeurIPS), 2021.
   type: conference
 
-- paper: 'MMD-ReID: A Simple but E↵ective Solution for Visible-Thermal Person ReID'
+- paper: 'MMD-ReID: A Simple but Effective Solution for Visible-Thermal Person ReID'
   author: C. Jambigi*, R. Rawal*, A. Chakraborty (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021 (Oral)
   type: conference
@@ -204,9 +204,9 @@
   pub: IEEE/ ACM Transactions on Computational Biology and Bioinformatics (2017) 14(2):457-467
   type: journal
 
-- paper: A. Chakraborty, A. Das, A. K. Roy-Chowdhury
+- paper: Network Consistent Data Association
   author: A. Chakraborty, A. Das, A. K. Roy-Chowdhury
-  pub: Network Consistent Data Association”, IEEE Transactions on Pattern Analysis and Machine Intelligence (2016) 38(9):1859-1871
+  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (2016) 38(9):1859-1871
   type: journal
 
 - paper: Context Aware Spatio-temporal Cell Tracking In Densely Packed Multilayer Tissues
@@ -214,8 +214,8 @@
   pub: Medical Image Analysis (2015) 19(1):149-163
   type: journal
 
-- paper: “A Context-Aware Delayed Agglomeration Framework for Electron Microscopy Segmentation
-  author: T. Parag, A. Chakraborty, S. Plaza, L. Sche↵er
+- paper: A Context-Aware Delayed Agglomeration Framework for Electron Microscopy Segmentation
+  author: T. Parag, A. Chakraborty, S. Plaza, L. Scheffer
   pub: 'PLoS ONE (2015) 10(5): e0125825'
   type: journal
 
