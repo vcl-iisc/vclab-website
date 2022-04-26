@@ -1,95 +1,101 @@
 ############################ MTECH STUDENTS ############################
 
 - name: Aditya Kumar Pal 
-  photo: researcher.png 
-  info: M. Tech (2018-21)
+  position: M. Tech
+  year: 2018-21
   # url: https://dellaert.github.io/
   affiliation: Walmart Labs
 
 - name: Shivansh Srivastava
-  photo: researcher.png 
-  info: M. Tech (2017-19)
+  position: M. Tech
+  year: 2017-19
   url: https://in.linkedin.com/in/shivansh-srivastava-profile
   affiliation: JPMorgan Chase & Co.
 
 - name: Utkarsh Shreemali
-  photo: researcher.png 
-  info: M. Tech (2017-19)
+  position: M. Tech
+  year: 2017-19
   url: https://www.linkedin.com/in/utkarshshreemali
   affiliation: Qualcomm
 
 - name: Bibrat Ranjan Pradhan
-  photo: researcher.png 
-  info: M. Tech (2017-19)
+  position: M. Tech
+  year: 2017-19
   url: https://www.linkedin.com/in/bibratranjan-pradhan
   affiliation: Mercedes-Benz R&D
 
 ########################## Project Assistants ##########################
 
 - name: Monish Keswani
-  photo: researcher.png 
-  info: Project Assistant (2020-21)
+  position: Project Assistant
+  year: 2020-21
   # url: https://dellaert.github.io/
   affiliation: Visual Recognition Group, Czech Technical University
   
 - name: Sarthak Srivastava
-  photo: researcher.png 
-  info: Project Assistant (2020-21)
+  position: Project Assistant
+  year: 2020-21
   url: https://www.linkedin.com/in/ssarthak/
   affiliation: Amazon
 
 - name: Saksham Jain
-  photo: researcher.png 
-  info: Project Assistant (2020-21)
+  position: Project Assistant
+  year: 2020-21
   url: https://www.linkedin.com/in/saksham-jain01/
   affiliation: Duke University (M.S., ECE)
 
 - name: Sharan Seshadri
-  photo: researcher.png 
-  info: Project Assistant (2019)
+  position: Project Assistant
+  year: 2019
   url: https://www.linkedin.com/in/sharan-seshadri/
   affiliation: SDE, Juniper Networks
 
 - name: Rajath R. Dani
-  photo: rajath.png 
-  info: Project Assistant
+  position: Project Assistant
+  year: 
   url: https://www.linkedin.com/in/rajath-r-dani-51b34382
   affiliation: New York University
 
 - name: Shashank Shekhar
-  photo: shashank.jpg 
-  info: Project Assistant (2018-19)
+  position: Project Assistant
+  year: 2018-19
   url: https://www.linkedin.com/in/sshkhr
   affiliation: Facebook AI
 
 - name: Akash Sonth
-  photo: akash.jpg 
-  info: Project Assistant
+  position: Project Assistant
+  year: 
   url: https://www.linkedin.com/in/akashsonth/
   affiliation: Virginia Tech
 
 ############################### Interns ###############################
 
 - name: Aditi Shanmugam
-  photo: aditi-shanmugam.png 
-  info: Intern (2021)
+  position: Intern
+  year: 2021
   url: https://aditishanmugam.github.io
   affiliation: NA
 
+- name: Amandeep Kumar
+  position: Intern
+  year: 2021
+  url: https://virobo-15.github.io/
+  affiliation: NA
+
 - name: Het Shah
-  photo: researcher.png 
-  info: Intern (2020-21)
-  # url: https://dellaert.github.io/
+  position: Intern
+  year: 2021
+  url: https://www.linkedin.com/in/het-shah163
   affiliation: Research Intern, Microsoft Research India 
 
 - name: Vignesh Nagarajan
-  photo: researcher.png 
-  info: Intern (2021)
+  position: Intern
+  year: 2021
   # url: https://dellaert.github.io/
   affiliation: IIITDM Kancheepuram
 
 - name: Anirudh Kannan
-  photo: researcher.png 
-  info: Intern (2020-21)
+  position: Intern
+  year: 2020-21
   # url: https://dellaert.github.io/
   affiliation: NA

@@ -3,273 +3,497 @@
   author: 
   pub: 
   type:
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex: 
+
+################### Coferences and Journals ###################
 
 - paper: Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems
   author: Gaurav Kumar Nayak*, Ruchit Rawal*, Rohit Lal*, Himanshu Patil, Anirban Chakraborty (* Jointly first authored)
   pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2022
   type: conference
-
-- paper: Automatic Image Analysis Pipeline for Studying Growth in Arabidopsis
-  author: K. Mkrtchyan, A. Chakraborty, M. Liu, A. Roy-Chowdhury
-  pub: Video Bioinformatics, Springer International Publishing, 2015
-  type: Book Chapters
-
-- paper: Computational Tools For Quantitative Analysis of Cell Growth Patterns And Morphogenesis in Actively Developing Plant Stem Cell Niches
-  author: A. Chakraborty, R. Yadav, M. Liu, M. Tataw, K. Mkrtchyan, A.K. Roy Chowdhury, G. V. Reddy
-  pub: 'Plant Signalling Networks: Methods and Protocols, Springer Protocols 2012'
-  type: Book Chapters
+  project_page: https://sites.google.com/view/sample-adv-trustworthy/home
+  paper_link: 
+  code_link: https://github.com/vcl-iisc/Trustworthy_systems
+  bibtex: https://github.com/vcl-iisc/Trustworthy_systems/blob/master/biblography.tex
 
 - paper: Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data
   author: G. K. Nayak, M. K. Reddy, S. Jain, A. Chakraborty
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022) [In press]
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'EvAn: Neuromorphic Event-Based Sparse Anomaly Detection'
   author: A. Lakshmi, A. Chakraborty, C. S. Thakur
   pub: 'Frontiers in Neuroscience (2022) 15 (2021): 853.'
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation
   author: J. N. Kundu, S. Seth, Y. M. Pradyumna, V. Jampani, A. Chakraborty, R. Venkatesh Babu
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'DAD: Data-free Adversarial Defense at Test Time'
   author: G. K. Nayak*, R. Rawal*, A. Chakraborty (*Jointly first authored)
   pub: Winter Conference on Applications of Computer Vision (WACV), 2022
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation
   author: J. N. Kundu, S. Seth, A. Jamkhandi, Y. M. Pradyumna, V. Jampani, A. Chakraborty, R. Venkatesh Babu
   pub: Advances in Neural Information Processing Systems (NeurIPS), 2021.
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'MMD-ReID: A Simple but Effective Solution for Visible-Thermal Person ReID'
   author: C. Jambigi*, R. Rawal*, A. Chakraborty (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Robust Gait Based Human Identification on Incomplete and Multi-view Sequences
   author: U. Shreemali, A. Chakraborty
   pub: 'Multimedia Tools and Applications (2020) 80(7): 10141-10166.'
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'PerSeg: Segmenting Salient Objects From Bag of Single Image Perturbations'
   author: A. Majumder, R. Venkatesh Babu, A. Chakraborty
   pub: 'Multimedia Tools and Applications (2020) 79(3): 2473-2493.'
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Operator-in-the-Loop Deep Sequential Multi-Camera Feature Fusion for Person Re-Identification
   author: K. L. Navaneet, R. K. Sarvadevabhatla, S. Shekhar, R. Venkatesh Babu
   pub: 'IEEE Transactions on Information Forensics & Security (2019) 15: 2375-2385'
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'Neuromorphic vision: From sensors to eventbased algorithms'
   author: A. Lakshmi, A. Chakraborty, C. S. Thakur
   pub: 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery (2019) 9(4): p.e1310.'
   type:  journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Pose Transformation and Radial Distance Clustering for Unsupervised Person Re-identification
   author: S. Seth, A. Sonth, A. Chakraborty
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Incremental Learning for Animal Pose Estimation using RBF k-DPP
   author: G. K. Nayak*, H. Shah*, A. Chakraborty  (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'Beyond Classification: Knowledge Distillation using Multi-Object Impressions'
   author: G. K. Nayak*, M. Keswani*, S. Seshadri, A. Chakraborty (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'Multi-Domain Conditional Image Translation: Translating Driving Datasets from Clear-Weather to Adverse Conditions'
   author: V. Vinod, K. Ram Prabhakar, R. Venkatesh Babu, A. Chakraborty
   pub: International Conference on Computer Vision Workshops (ICCV-W), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'CAFT: Class Aware Frequency Transform for Reducing Domain Gap'
   author: V. Kumar, S. Srivastava*, R. Lal*, A. Chakraborty (* Jointly second authored)
   pub: International Conference on Computer Vision Workshops (ICCV-W), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Real-Time Object Detection and Localization in Compressive Sensed Video
   author: Y. Bethi, S. Narayanan, V. Rangan, A. Chakraborty, C. S. Thakur
   pub: International Conference on Image Processing (ICIP), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Effectiveness of Arbitrary Transfer Sets for Data Free Knowledge Distillation
   author:  G. K. Nayak*, M. K. Reddy*, A. Chakraborty (* Jointly first authored)
   pub: Winter Conference on Applications of Computer Vision (WACV), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'HFCER: Hybrid Fusion for Cultural Event Recognition in Images'
   author: S. Srivastava, B. Mandal, A. Chakraborty
   pub: International Conference of Pattern Recognition Systems (ICPRS), 2021
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Density Estimation of Heterogeneous Crowd in Mass Religious Gatherings Using Image Processing and Denoising Filter
   author: N. Choubey, A. Prajapati, A. Verma, A. Chakraborty
   pub: Soft Computing for Problem Solving (SocProS), Advances in Intelligent Systems and Computing, 2020.
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper:  'WAMDA: Weighted Alignment of Sources for Multi-source Domain Adaptation'
   author: S. Aggarwal, J. N. Kundu, R. Venkatesh Babu, A. Chakraborty
   pub: British Machine Vision Conference (BMVC), 2020 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper:  Fusion of Deep and Non-Deep Methods for Fast Super-Resolution of Satellite Images
   author: G. K. Nayak, S. Jain, R. Venkatesh Babu, A. Chakraborty
   pub: IEEE International Conference on Multimedia Big Data (BigMM), 2020 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Sketch-Guided Object Localization in Natural Images
   author: A. Tripathi, R. R. Dani, A. Mishra, A. Chakraborty
   pub: European Conference on Computer Vision (ECCV), 2020 (Spotlight)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Self-Supervised 3D Human Pose Estimation Via Part Guided Novel Image Synthesis
   author: J. N. Kundu*, S. Seth*, V. Jampani, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Kinematic-Structure-Preserved Representation for Unsupervised 3D Human Pose Estimation
   author: J. N. Kundu*, S. Seth*, R. M. Venkatesh*, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
   pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: S. Addepalli, G. K. Nayak, A. Chakraborty, R. Venkatesh Babu
   author: 'DeGAN : Data-enriching GAN for retrieving Representative Samples from a Trained Classifier'
   pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Text-based Person Search via Attributeaided Matching
   author: S. Aggarwal, R. Venkatesh Babu, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2020
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'QUICKSAL: A small and sparse visual saliency model for ecient inference in resource constrained hardware'
   author: V. Ramanathan, P. Dwivedi, B. Katabathuni, A. Chakraborty, C. S. Thakur
   pub: Winter Conference on Applications of Computer Vision (WACV), 2020 
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'From Strings to Things: Knowledgeenabled VQA Model that can Read and Reason'
   author: A. K. Singh, A. Mishra, S. Shekhar, A. Chakraborty
   pub: International Conference on Computer Vision (ICCV), 2019 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Zero Shot Knowledge Distillation in Deep Networks
   author: G. K. Nayak*, M. K. Reddy*, V. Shaj*, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
   pub: International Conference on Machine Learning (ICML), 2019
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'OCR-VQA: Visual Question Answering by Reading Text in Images'
   author: A. Mishra, S. Shekhar, A. K. Singh, A. Chakraborty
   pub: International Conference on Document Analysis and Recognition (ICDAR), 2019 
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Ecient Person Reidentification in Videos Using Sequence Lazy Greedy Determinantal Point Process (SLGDPP)
   author: G. K. Nayak, U. Shreemali, R. Venkatesh Babu, A. Chakraborty
   pub: International Conference on Image Processing (ICIP), 2019
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Enhancing Salient Object Segmentation Through Attention
   author: A. Pahuja, A. Majumder, A. Chakraborty, R. Venkatesh Babu
   pub: Computer Vision and Pattern Recognition Workshops (Deep Vision), pp. 27-36, 2019
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'All for One: Frame-wise Rank Loss for Improving Video-based Person Re-identification'
   author: Navaneet, K. L., V. Todi, R. Venkatesh Babu, A. Chakraborty
   pub: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2472-2476, 2019 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surface'
   author: B. R. Pradhan, Y. Bethi, S. Narayanan, A. Chakraborty, C. S. Thakur
   pub: IEEE International Symposium on Circuits and Systems (ISCAS), 2019
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'Anomaly from Motion: Unsupervised Extraction of Visual Irregularity via Motion Prediction'
   author: A. Majumder, R. Venkatesh Babu, A. Chakraborty
   pub: NCVPRIPG, 2017 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Person Re-identification Using Multiple Egocentric Views
   author: A. Chakraborty, B. Mandal, J. Yuan
   pub: IEEE Transactions on Circuits and Systems for Video Technology (2017) 27(3):484-498
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Optimal Landmark Selection for Registration of 4D Confocal Image Stacks in Arabidopsis
   author: K. Mkrtchyan, A. Chakraborty, A. K. Roy-Chowdhury
   pub: IEEE/ ACM Transactions on Computational Biology and Bioinformatics (2017) 14(2):457-467
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Network Consistent Data Association
   author: A. Chakraborty, A. Das, A. K. Roy-Chowdhury
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (2016) 38(9):1859-1871
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Context Aware Spatio-temporal Cell Tracking In Densely Packed Multilayer Tissues
   author: A. Chakraborty, A. K. Roy-Chowdhury
   pub: Medical Image Analysis (2015) 19(1):149-163
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: A Context-Aware Delayed Agglomeration Framework for Electron Microscopy Segmentation
   author: T. Parag, A. Chakraborty, S. Plaza, L. Scheffer
   pub: 'PLoS ONE (2015) 10(5): e0125825'
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: 'Graph-based Active Learning of Agglomeration (GALA): a Python library to segment 2D and 3D neuroimages'
   author: J. Nunez-Iglesias, R. Kennedy, S. M. Plaza, A. Chakraborty, W. T. Katz
   pub: Frontiers in Neuroinformatics (2014) 8(00034)
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Adaptive Geometric Tessellation for 3D Reconstruction of Anisotropically Developing Cells in Multilayer Tissues from Sparse Volumetric Microscopy Images
   author: A. Chakraborty, M. M. Perales, G. V. Reddy, A. K. Roy-Chowdhury
   pub: 'PLoS ONE (2013) 8(8): e67202'
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Adaptive Cell Segmentation and Tracking for Volumetric Confocal Microscopy Images of A Developing Plant Meristem
   author: M. Liu*, A. Chakraborty*, D. Singh, M. Gopi, R. Yadav, G.V. Reddy, A. K. Roy-Chowdhury  (* Jointly first authored)
   pub: 'Molecular Plant (2011) 4(5): 922-931'
   type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Person Re-identification Using Multiple First-Person-Views on Wearable Devices
   author: A. Chakraborty, B. Mandal, H. K. Galoogahi
   pub: Winter Conference on Applications of Computer Vision (WACV), 2016
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: A Poisson Process Model for Activity Forecasting
   author: T. Mahmud, M. Hasan, A. Chakraborty, A. K. Roy-Chowdhury
   pub: International Conference on Image Processing (ICIP), 2016
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Consistent Re-identification in a Camera Network
   author: A. Das*, A. Chakraborty*, A. K. Roy-Chowdhury (* Jointly first authored)
   pub: European Conference on Computer Vision (ECCV), 2014
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Context-Aware Activity Forecasting
   author: A. Chakraborty, A. K. Roy-Chowdhury
   pub: Asian Conference on Computer Vision (ACCV), 2014.
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: A Conditional Random Field Model For Tracking In Densely Packed Cell Structures
   author: A. Chakraborty, A. K. Roy-Chowdhury
   pub: IEEE International Conference on Image Processing (ICIP), 2014.
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Automated registration of live imaging stacks of Arabidopsis
   author: K. Mkrtchyan, A. Chakraborty, A. K. Roy-Chowdhury
   pub: International Symposium on Biomedical Imaging (ISBI), 2013
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Cell Resolution 3D Reconstruction of Developing Multilayer Tissues from Sparsely Sampled Volumetric Microscopy Images
   author: A. Chakraborty, R. Yadav, G. V. Reddy, A. K. Roy-Chowdhury
   pub: International Conference on Bioinformatics and Biomedicine (BIBM), 2011 (Oral)
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
 
 - paper: Cell Volume Estimation From A Sparse Collection of Noisy Confocal Image Slices
   author: A. Chakraborty, M. Liu, K. Mkrtchyan, G. V. Reddy, A. K. Roy-Chowdhury
   pub: Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), 2010.
   type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
+################### BOOK CHAPTERS ###################
+
+- paper: Automatic Image Analysis Pipeline for Studying Growth in Arabidopsis
+  author: K. Mkrtchyan, A. Chakraborty, M. Liu, A. Roy-Chowdhury
+  pub: Video Bioinformatics, Springer International Publishing, 2015
+  type: Book Chapters
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
+- paper: Computational Tools For Quantitative Analysis of Cell Growth Patterns And Morphogenesis in Actively Developing Plant Stem Cell Niches
+  author: A. Chakraborty, R. Yadav, M. Liu, M. Tataw, K. Mkrtchyan, A.K. Roy Chowdhury, G. V. Reddy
+  pub: 'Plant Signalling Networks: Methods and Protocols, Springer Protocols 2012'
+  type: Book Chapters
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
