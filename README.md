@@ -16,18 +16,34 @@
 - Image size must be less than 100 KB
 - Image should be **square** of size (200 x 200). First crop your image to square shape then resize it to (200 x 200) size using https://www.iloveimg.com/resize-image 
 - If photo is not available then use `researcher.png` placeholder image (already there).
+- `url`, `linkedin` and `google_scholar` are optional
 This will help in maintaining loading speed and proper alignment of website images
 
 Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
+Sample example for adding a current member.
+```yml
+- name: Your Name
+  photo: Your Pic
+  position: You Position (Must be PhD/M. Tech/Project Assistant/Intern)
+  year: 201X-Active
+  url: https://sites.google.com/view/your_id
+  linkedin: https://www.linkedin.com/in/your_id/
+  google_scholar: https://scholar.google.com/citations?hl=en&user=your_id
+```
 
 ### Add a new publication
 Generate Pull request to add your publications.
-Publication can be added in [_data/publications.yml](_data/publications.yml) in follwing format.
+Publication can be added in [_data/publications.yml](_data/publications.yml) in follwing format. 
+`project_page`, `paper_link`, `code_link`, `bibtex` are optional fields
 ```yml
 - paper: Your Paper Name
   author: List of authors 
   pub: Place where work is published
   type: Book Chapters / journal / conference (choose anyone)
+  project_page: https://sites.google.com/project_link
+  paper_link: https://sites.google.com/paper_link
+  code_link: https://github.com/code_link
+  bibtex: https://github.com/username/bibtex.tex
 
 ```
 
