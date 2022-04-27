@@ -14,7 +14,7 @@ We seek solutions to computer vision and machine learning problems arising in nu
 
 <figure class="centered">
   <p align="center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cds_logo.png" style="padding-right:68px;width: 280px" >
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/iisc_logo.png" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cds_logo.png" style="margin-right:50px;margin-left:50px;width: 220px" >
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logo/iisc_logo.png" style="margin-right:10px;margin-left:10px;width: 110px">
     </p>
 </figure>
