@@ -24,7 +24,7 @@
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022) [In press]
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/9540299
   code_link: 
   bibtex:
 
@@ -50,8 +50,8 @@
   author: G. K. Nayak*, R. Rawal*, A. Chakraborty (*Jointly first authored)
   pub: Winter Conference on Applications of Computer Vision (WACV), 2022
   type: conference
-  project_page:
-  paper_link: 
+  project_page: https://sites.google.com/view/dad-wacv22
+  paper_link: https://openaccess.thecvf.com/content/WACV2022/papers/Nayak_DAD_Data-Free_Adversarial_Defense_at_Test_Time_WACV_2022_paper.pdf
   code_link: 
   bibtex:
 
@@ -122,17 +122,17 @@
   author: G. K. Nayak*, H. Shah*, A. Chakraborty  (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://sites.google.com/view/ilape-rbf-kdpp/home
+  paper_link: https://www.bmvc2021-virtualconference.com/assets/papers/0912.pdf
+  code_link: https://github.com/vcl-iisc/ILAPE-RBF-k-DPP
   bibtex:
 
 - paper: 'Beyond Classification: Knowledge Distillation using Multi-Object Impressions'
   author: G. K. Nayak*, M. Keswani*, S. Seshadri, A. Chakraborty (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
-  project_page:
-  paper_link: 
+  project_page: https://sites.google.com/view/kd-with-mois/home
+  paper_link: https://www.bmvc2021-virtualconference.com/assets/papers/0906.pdf
   code_link: 
   bibtex:
 
@@ -168,7 +168,7 @@
   pub: Winter Conference on Applications of Computer Vision (WACV), 2021
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://openaccess.thecvf.com/content/WACV2021/papers/Nayak_Effectiveness_of_Arbitrary_Transfer_Sets_for_Data-Free_Knowledge_Distillation_WACV_2021_paper.pdf
   code_link: 
   bibtex:
 
@@ -204,7 +204,7 @@
   pub: IEEE International Conference on Multimedia Big Data (BigMM), 2020 (Oral)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/abstract/document/9232612
   code_link: 
   bibtex:
 
@@ -240,8 +240,8 @@
   pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020
   type: conference
   project_page:
-  paper_link: 
-  code_link: 
+  paper_link: https://ojs.aaai.org//index.php/AAAI/article/view/5709
+  code_link: https://github.com/vcl-iisc/DeGAN
   bibtex:
 
 - paper: Text-based Person Search via Attributeaided Matching
@@ -276,8 +276,8 @@
   pub: International Conference on Machine Learning (ICML), 2019
   type: conference
   project_page:
-  paper_link: 
-  code_link: 
+  paper_link: http://proceedings.mlr.press/v97/nayak19a/nayak19a.pdf
+  code_link: https://github.com/vcl-iisc/ZSKD
   bibtex:
 
 - paper: 'OCR-VQA: Visual Question Answering by Reading Text in Images'
@@ -294,7 +294,7 @@
   pub: International Conference on Image Processing (ICIP), 2019
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/8803674
   code_link: 
   bibtex:
 
