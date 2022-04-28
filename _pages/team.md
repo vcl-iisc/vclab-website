@@ -240,11 +240,11 @@ permalink: /team/
 
 <ul>
 {% for member in site.data.lab_alumni %}
-  {% if member.position=="M. Tech" or member.position=="PhD" %}
+  {% if member.position=="M. Tech. (CDS)" or member.position=="Ph. D. student" or member.position=="M. Tech. (research)" %}
     {% if member.url %}
       <li><b><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
     {% else %}
-      <li><b>{{ member.name }}</b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
+      <li><b>{{ member.name }}</b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i></li>
     {% endif %}
   {% endif %}
 {% endfor %}
