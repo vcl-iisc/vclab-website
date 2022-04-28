@@ -1,59 +1,73 @@
 ############################ PHD STUDENTS ############################
 
 - name: Gaurav Nayak
+  research_area: Data-efficient deep learning
   photo: gaurav-nayak.png
-  position: PhD
-  year: 2017-Active
+  position: Ph. D. student
+  year: 2017-Present
   url: https://sites.google.com/view/gauravnayak/
   linkedin: https://www.linkedin.com/in/gaurav-nayak-6227ba53/
   google_scholar: https://scholar.google.com/citations?hl=en&user=cLCeKTkAAAAJ
   
 - name: Aditay Tripathi
+  research_area: Cross-modal learning in computer vision applications
   photo: aditay.png 
-  position: PhD
-  year: 2018-Active
+  position: Ph. D. student
+  year: 2018-Present
   linkedin: https://www.linkedin.com/in/aditay-tripathi-930889122
   google_scholar: https://scholar.google.com/citations?user=rDCT8xQAAAAJ&hl=en
 
 - name: M. Yashwanth
+  research_area: Federated machine learning for computer vision
   photo: m-yashwanth.jpg 
-  position: PhD
-  year: 2021-Active
+  position: Ph. D. student
+  year: 2021-Present
   linkedin: https://www.linkedin.com/in/yashwanth-mandula-aba700a5/
 
 ############################ MTECH STUDENTS ############################
 
 - name: Vikash Kumar
+  research_area: Unsupervised domain adaptation
   photo: vikash-kumar.jpg 
-  position: M. Tech
-  year: 2019-Active
+  position: M. Tech.
+  year: 2019-Present
   linkedin: https://www.linkedin.com/in/vikash0837/
   
-- name: Chaitra Jambigi
+- name: Chaitra Sheshgiri Jambigi
+  research_area: Person re-ID across modalities and domains
   photo: chaitra-jambigi.jpeg 
-  position: M. Tech
-  year: 2019-Active
+  position: M. Tech.
+  year: 2019-Present
   url: http://chaitrasj.github.io/
   linkedin: https://www.linkedin.com/in/chaitra-jambigi/
 
 - name: Shaurya Tiwari
+  research_area: Data-free knowledge distillation
   photo: shaurya-tiwari.jpeg
-  position: M. Tech
-  year: 2020-Active
+  position: M. Tech.
+  year: 2020-Present
   linkedin: https://www.linkedin.com/in/shauryat97/
 
 - name: Supriya Mandal
+  research_area: Video anomaly detection
   photo: supriya.jpg
-  position: M. Tech
+  position:  M. Tech.
   year: 2021-Active
   linkedin: https://www.linkedin.com/in/supriya09
+
+- name: Sai Patro Shankar
+  research_area: Few-shot learning, Semantic segmentation
+  photo: researcher.png
+  position: M. Tech.
+  year: 2021-Present
+  # linkedin: https://www.linkedin.com/in/supriya09
 
 ########################## Project Assistants ##########################
 
 - name: Rohit Lal
   photo: rohit-lal.jpg 
   position: Project Assistant
-  year: 2021-Active
+  year: 2021-Present
   url: http://take2rohit.github.io/
   linkedin: https://www.linkedin.com/in/rohit-lal
   google_scholar: https://scholar.google.com/citations?user=q2nc3QoAAAAJ&hl=en#
@@ -62,7 +76,7 @@
 - name: Ruchit Rawal
   photo: ruchit-rawal.jpg 
   position: Project Assistant
-  year: 2021-Active
+  year: 2021-Present
   url: http://ruchitrawal.github.io/
   linkedin: https://scholar.google.com/citations?user=q2nc3QoAAAAJ&hl=en#
   google_scholar: https://scholar.google.com/citations?user=ilDc7ssAAAAJ&hl=en
@@ -73,17 +87,17 @@
 - name: Himanshu Patil
   photo: himanshu-patil.jpg
   position: Intern
-  year: 2021-Active
+  year: 2021-Present
   linkedin: https://www.linkedin.com/in/hipatil/
 
 - name: Umar Masud
   photo: umar-masud.jpg 
   position: Intern
-  year: 2022-Active
+  year: 2022-Present
   url: https://umar07.github.io/
 
 - name: Inder Khatri
   photo: researcher.png 
   position: Intern
-  year: 2021-Active
+  year: 2021-Present
   # url: https://umar07.github.io/

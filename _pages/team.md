@@ -88,7 +88,7 @@ permalink: /team/
 
 {% assign number_printed = 0 %}
 {% for member in site.data.lab_members %}
-{% if member.position=="M. Tech" or member.position=="PhD" %}
+{% if member.position=="Ph. D. student" or member.position=="M. Tech." %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -97,11 +97,11 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
-  <h4><b>{{ member.name }} </b></h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
+  <h5><b>{{ member.name }} </b></h5>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
-
+  Research Area: <i>{{ member.research_area }} <br></i>
   <ul class="list-inline list-unstyled">
     <!-- Twitter -->
     {% if member.url %}
@@ -147,7 +147,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
   <h4><b>{{ member.name }} </b></h4>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
@@ -198,7 +198,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
   <h4><b>{{ member.name }} </b></h4>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
