@@ -11,7 +11,7 @@ permalink: /team/
  **We are looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-##### Jump to [Lab Head](#lab-head), [Members](#members), [Alumni](#alumni)
+##### Jump to [Lab Head](#lab-head), [PhD/Masters student](#phd-masters-student), [Research Project Assistants](#research-project-assistants), [Alumni](#alumni)
 
 ## Lab Head
 {% assign number_printed = 0 %}
@@ -240,11 +240,16 @@ permalink: /team/
 
 <ul>
 {% for member in site.data.lab_alumni %}
-  {% if member.position=="M. Tech. (CDS)" or member.position=="Ph. D. student" or member.position=="M. Tech. (research)" %}
-    {% if member.url %}
-      <li><b><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
+  {% if member.position=="M. Tech. (CDS)" or member.position=="Ph. D." or member.position=="M. Tech. (research)" %}
+    {% if member.position=="M. Tech. (CDS)" %}
+      {% assign work_type = "Dissertation" %}
     {% else %}
-      <li><b>{{ member.name }}</b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i></li>
+      {% assign work_type = "Thesis" %}   
+    {% endif %}
+    {% if member.url %}
+      <li><b><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i><br>{{ work_type }}: <i>{{ member.worked_on }}</i></li>
+    {% else %}
+      <li><b>{{ member.name }}</b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i><br>{{ work_type }}: <i>{{ member.worked_on }}</i></li>
     {% endif %}
   {% endif %}
 {% endfor %}

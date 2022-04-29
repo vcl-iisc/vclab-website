@@ -149,9 +149,9 @@
   author: V. Kumar, S. Srivastava*, R. Lal*, A. Chakraborty (* Jointly second authored)
   pub: International Conference on Computer Vision Workshops (ICCV-W), 2021
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://vclab-dev.github.io/CAFT/
+  paper_link: https://openaccess.thecvf.com/content/ICCV2021W/TradiCV/papers/Kumar_CAFT_Class_Aware_Frequency_Transform_for_Reducing_Domain_Gap_ICCVW_2021_paper.pdf
+  code_link: https://github.com/vclab-dev/CAFT
   bibtex:
 
 - paper: Real-Time Object Detection and Localization in Compressive Sensed Video

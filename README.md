@@ -10,6 +10,11 @@
 
 ### Add a new member
 
+Adding new member is as simple as adding a new entry in yml file
+
+#### Add Current member
+
+- Add details of members [_data/lab_members.yml](_data/lab_members.yml). 
 - Save pic in [images/teampic](images/teampic). 
 - Image size must be less than 100 KB
 - Image should be **square** of size (200 x 200). First crop your image to square shape then resize it to (200 x 200) size using https://www.iloveimg.com/resize-image 
@@ -17,7 +22,6 @@
 - `url`, `linkedin` and `google_scholar` are optional
 This will help in maintaining loading speed and proper alignment of website images
 
-Add details of members in [_data/lab_alumni.yml](_data/lab_alumni.yml) or [_data/lab_members.yml](_data/lab_members.yml). 
 Sample example for adding a current member.
 ```yml
 - name: Your Name
@@ -28,8 +32,24 @@ Sample example for adding a current member.
   linkedin: https://www.linkedin.com/in/your_id/
   google_scholar: https://scholar.google.com/citations?hl=en&user=your_id
 ```
+#### Add Alumni
+
+- Add detauks in [_data/lab_alumni.yml](_data/lab_alumni.yml)
+- The `position` field accepts only values `M. Tech. (CDS)`, `Ph. D.`, `M. Tech. (research)`, `Project Assistant`, `Intern`. These are case case sensitive
+- On website it will automatically show Dissertation/Thesis based on qualification.
+
+Sample example for adding a current member.
+```yml
+- name: Aditya Kumar Pal 
+  position: M. Tech. (CDS)
+  year: 2018-21
+  url: https://www.linkedin.com/in/adityakumarpal17059
+  affiliation: Walmart Labs
+  worked_on: Anomaly Detection and Localization Using Image Inpainting
+```
 
 ### Add a new publication
+
 Generate Pull request to add your publications.
 Publication can be added in [_data/publications.yml](_data/publications.yml) in follwing format. 
 `project_page`, `paper_link`, `code_link`, `bibtex` are optional fields
@@ -42,7 +62,6 @@ Publication can be added in [_data/publications.yml](_data/publications.yml) in 
   paper_link: https://sites.google.com/paper_link
   code_link: https://github.com/code_link
   bibtex: https://github.com/username/bibtex.tex
-
 ```
 
 ### Add news
@@ -54,7 +73,7 @@ An entry looks like the following:
   title: "Something great happened!"
 ```
 
-### Add Slider
+### Update Slider
 
 You can update image by going to [_layouts/homelay.html ](_layouts/homelay.html).
 The slider image should be of size (640 x 360) px. Compress any image before adding to website in order to maintain loading speed.
