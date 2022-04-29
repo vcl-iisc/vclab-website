@@ -240,7 +240,7 @@ permalink: /team/
 
 <ul>
 {% for member in site.data.lab_alumni %}
-  {% if member.position=="M. Tech. (CDS)" or member.position=="Ph. D." or member.position=="M. Tech. (research)" %}
+  {% if member.position=="Ph. D." or member.position=="M. Tech. (research)" or member.position=="M. Tech. (CDS)"%}
     {% if member.position=="M. Tech. (CDS)" %}
       {% assign work_type = "Dissertation" %}
     {% else %}

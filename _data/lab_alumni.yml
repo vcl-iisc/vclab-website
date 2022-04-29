@@ -1,11 +1,46 @@
 ############################ MTECH STUDENTS ############################
 
+- name: Siddharth Seth
+  position: M. Tech. (research)
+  year: 2018-21
+  url: https://www.linkedin.com/in/sethssiddharth/
+  affiliation: Verisk
+  worked_on: "Learning to Perceive Humans From Appearance and Pose"
+
+- name: Shreya Roy
+  position: M. Tech. (research)
+  year: 2017-21
+  # url: https://www.linkedin.com/in/bibratranjan-pradhan
+  affiliation: Publicis Sapient
+  worked_on: "Deep Learning in Computer Vision: Studies in Neuro-image Segmentation and Satellite Image Super-resolution"
+
+- name: Surbhi Aggarwal
+  position: M. Tech. (research)
+  year: 2017-20
+  # url: https://www.linkedin.com/in/bibratranjan-pradhan
+  # affiliation: Mercedes-Benz R&D
+  worked_on: "Learning Across Domains: Applications to Text-Based Person Search and Multi-Source Domain Adaptation"
+
 - name: Aditya Kumar Pal 
   position: M. Tech. (CDS)
   year: 2018-21
   url: https://www.linkedin.com/in/adityakumarpal17059
   affiliation: Walmart Labs
   worked_on: Anomaly Detection and Localization Using Image Inpainting
+
+- name: Sunny Anand 
+  position: M. Tech. (CDS)
+  year: 2019-21
+  # url: https://www.linkedin.com/in/adityakumarpal17059
+  # affiliation: Walmart Labs
+  worked_on: Efficient Utilization of Communication Channel in Federated Learning
+
+- name: Sourav Mishra 
+  position: M. Tech. (CDS)
+  year: 2018-20
+  # url: https://www.linkedin.com/in/adityakumarpal17059
+  # affiliation: Walmart Labs
+  worked_on: Feature Augmentation for Anomaly Detection
 
 - name: Shivansh Srivastava
   position: M. Tech. (CDS)
@@ -28,19 +63,6 @@
   affiliation: Mercedes-Benz R&D
   worked_on: Activity Recognition in Neuromorphic Videos
 
-- name: Shreya Roy
-  position: M. Tech. (research)
-  year: 2017-21
-  # url: https://www.linkedin.com/in/bibratranjan-pradhan
-  # affiliation: Mercedes-Benz R&D
-  worked_on: "Deep Learning in Computer Vision: Studies in Neuro-image Segmentation and Satellite Image Super-resolution"
-
-- name: Surbhi Aggarwal
-  position: M. Tech. (research)
-  year: 2017-20
-  # url: https://www.linkedin.com/in/bibratranjan-pradhan
-  # affiliation: Mercedes-Benz R&D
-  worked_on: "Learning Across Domains: Applications to Text-Based Person Search and Multi-Source Domain Adaptation"
 
 ########################## Project Assistants ##########################
 
