@@ -27,12 +27,10 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
 
 
-  <h4> <b>{{ member.name }}</b></h4>
+  <h4><b>{{ member.name }}</b></h4>
 
-  {% if member.url %}
-  <i>{{ member.info }}</i>
-  {% endif %}
-  <a href="{{ member.url }}" target="_blank">Website</a>
+  <i><b>{{ member.info }}</b></i>
+  <i><br><b>{{ member.affl }}</b></i>
   <i><br>E-Mail: {{ member.email }}</i>
 
   <ul style="overflow: hidden">
