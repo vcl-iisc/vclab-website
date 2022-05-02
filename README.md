@@ -38,7 +38,7 @@ Sample example for adding a current member.
 - The `position` field accepts only values `M. Tech. (CDS)`, `Ph. D.`, `M. Tech. (research)`, `Project Assistant`, `Intern`. These are case case sensitive
 - On website it will automatically show Dissertation/Thesis based on qualification.
 
-Sample example for adding a current member.
+Sample example for adding an alumnus.
 ```yml
 - name: Aditya Kumar Pal 
   position: M. Tech. (CDS)

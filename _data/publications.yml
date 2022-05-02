@@ -68,10 +68,10 @@
   author: C. Jambigi*, R. Rawal*, A. Chakraborty (* Jointly first authored)
   pub: British Machine Vision Conference (BMVC), 2021 (Oral)
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
-  bibtex:
+  project_page: https://vcl-iisc.github.io/mmd-reid-web/
+  paper_link: https://www.bmvc2021-virtualconference.com/assets/papers/1497.pdf
+  code_link: https://github.com/vcl-iisc/MMD-ReID
+  bibtex:   
 
 - paper: Robust Gait Based Human Identification on Incomplete and Multi-view Sequences
   author: U. Shreemali, A. Chakraborty
