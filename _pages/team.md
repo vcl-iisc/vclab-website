@@ -82,6 +82,7 @@ permalink: /team/
 {% endif %}
 
 ## Current Members
+
 ### PhD/Masters student
 
 {% assign number_printed = 0 %}
@@ -146,7 +147,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
-  <h4><b>{{ member.name }} </b></h4>
+  <h5><b>{{ member.name }} </b></h5>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
   Past: <i>{{ member.past }} <br></i>
@@ -197,7 +198,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
-  <h4><b>{{ member.name }} </b></h4>
+  <h5><b>{{ member.name }} </b></h5>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
 
