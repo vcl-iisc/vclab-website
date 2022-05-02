@@ -4,6 +4,9 @@ layout: homelay
 excerpt: "VCLab, CDS, IISc"
 sitemap: false
 permalink: /
+redirect_from: 
+  - /home/
+  - /about/
 ---
 
 ### Welcome to Visual Computing Lab at IISc
