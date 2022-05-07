@@ -11,9 +11,9 @@ permalink: /team/
  **We are looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-##### Jump to [Lab Head](#lab-head), [PhD/Masters student](#phd-masters-student), [Research Project Assistants](#research-project-assistants), [Alumni](#alumni)
+##### Jump to [Convenor](#lab-head), [PhD/Masters student](#phd-masters-student), [Research Project Assistants](#research-project-assistants), [Alumni](#alumni)
 
-## Lab Head
+## Convenor
 {% assign number_printed = 0 %}
 {% for member in site.data.lab_head %}
 
