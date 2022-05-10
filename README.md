@@ -1,13 +1,5 @@
 # Visual Computing Lab Official Website
 
-## Todo
-
-- [ ] Twtitter Page
-- [ ] Add redirection to /home
-- [ ] Increase width of all pages
-
-## Contribute
-
 ### Add a new member
 
 Adding new member is as simple as adding a new entry in yml file
@@ -76,7 +68,7 @@ An entry looks like the following:
 ### Update Slider
 
 You can update image by going to [_layouts/homelay.html ](_layouts/homelay.html).
-The slider image should be of size (640 x 360) px. Compress any image before adding to website in order to maintain loading speed.
+The slider image should be of size (640 x 360) px (16:9 ratio). Compress any image before adding to website in order to maintain loading speed.
 
 ```html
 <div class="item">
