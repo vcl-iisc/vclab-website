@@ -14,6 +14,6 @@ Requirements for Internship and Project Assistant roles:
 
 1. Graduated or about to graduate with B. Tech/M. Tech degree.
 2. Proficient in Python, PyTorch, Wandb, matplotlib, and various ML frameworks. 
-3. Completed college coursework/MOOCs on Linear Algebra, Probability ad Statistics, Deep Learning, Machine Learning, and Artificial Intelligence.
+3. Completed college coursework/MOOCs on Linear Algebra, Probability and Statistics, Deep Learning, Machine Learning, and Artificial Intelligence.
 4. Previously worked with advanced computer vision and deep learning projects.
 5. Candidates with multiple papers at top-tier conferences will be given priority.
