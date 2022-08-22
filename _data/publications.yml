@@ -10,6 +10,15 @@
 
 ################### Coferences and Journals ###################
 
+- paper: DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers
+  author: Gaurav Kumar Nayak, Ruchit Rawal, Anirban Chakraborty
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
+  type: conference
+  project_page:
+  paper_link: 
+  code_link:
+  bibtex:
+
 - paper: Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems
   author: Gaurav Kumar Nayak*, Ruchit Rawal*, Rohit Lal*, Himanshu Patil, Anirban Chakraborty (* Jointly first authored)
   pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2022
