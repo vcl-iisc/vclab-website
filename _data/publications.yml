@@ -10,7 +10,7 @@
 
 ################### Coferences and Journals ###################
 
-- paper: DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers
+- paper: "DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers"
   author: Gaurav Kumar Nayak, Ruchit Rawal, Anirban Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
   type: conference
