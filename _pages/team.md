@@ -32,7 +32,20 @@ permalink: /team/
   <i><b>{{ member.info }}</b></i>
   <i><br><b>{{ member.affl }}</b></i>
   <i><br>E-Mail: {{ member.email }}</i>
-  <i><br>Webpage: href="{{member.url}}"</i>
+  
+  <ul class="list-inline list-unstyled">
+    <!-- Twitter -->
+    {% if member.url %}
+        <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
+    {% endif %}
+    <!-- Linkedin -->
+    {% if member.linkedin %}
+        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+    {% endif %}
+    {% if member.google_scholar %}
+        <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
+    {% endif %}
+  </ul>
 
   <ul style="overflow: hidden">
 
