@@ -32,6 +32,7 @@ permalink: /team/
   <i><b>{{ member.info }}</b></i>
   <i><br><b>{{ member.affl }}</b></i>
   <i><br>E-Mail: {{ member.email }}</i>
+  <i><br>Webpage: href="{{member.url}}"</i>
 
   <ul style="overflow: hidden">
 
