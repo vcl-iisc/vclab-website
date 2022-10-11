@@ -1,4 +1,3 @@
-
 - paper:
   author: 
   pub: 
@@ -8,7 +7,26 @@
   code_link: 
   bibtex: 
 
+
 ################### Coferences and Journals ###################
+
+- paper: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing"
+  author: Aditay Tripathi, Anand Mishra, Anirban Chakraborty
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex: 
+  
+- paper: "CoNMix for Source-free Single and Multi-target Domain Adaptation"
+  author: Vikash Kumar, Rohit Lal, Himanshu Patil, Anirban Chakraborty
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex: 
 
 - paper: "DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers"
   author: Gaurav Kumar Nayak, Ruchit Rawal, Anirban Chakraborty
