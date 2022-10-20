@@ -14,9 +14,9 @@
   author: Aditay Tripathi, Anand Mishra, Anirban Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
   type: conference
-  project_page:
+  project_page: https://iiscaditaytripathi.github.io/sgl/
   paper_link: 
-  code_link: 
+  code_link: https://github.com/IISCAditayTripathi/Scene-graph-localization
   bibtex: 
   
 - paper: "CoNMix for Source-free Single and Multi-target Domain Adaptation"
