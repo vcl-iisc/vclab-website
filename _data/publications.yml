@@ -10,6 +10,15 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "G-PReDICT: Generalizable Person Re-ID using Domain Invariant Contrastive Techniques"
+  author: Chaitra Jambigi, Umar Masud, Anirban Chakraborty 
+  pub: Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex: 
+
 - paper: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing"
   author: Aditay Tripathi, Anand Mishra, Anirban Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
