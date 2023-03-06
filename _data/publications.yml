@@ -10,12 +10,12 @@
 
 ################### Coferences and Journals ###################
 
-- paper: "Edges to shapes to concepts: Adversarial augmentation for robust vision"
+- paper: "Edges to Shapes to Concepts: Adversarial Augmentation for Robust Vision"
   author: Aditay Tripathi, Rishubh Singh, Anirban Chakraborty, Pradeep Shenoy
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
   type: conference
-  project_page:
-  paper_link: https://arxiv.org/pdf/2211.07277.pdf
+  project_page: https://arxiv.org/abs/2211.07277
+  paper_link: 
   code_link: 
   bibtex:
 
@@ -30,7 +30,7 @@
 
 - paper: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing"
   author: Aditay Tripathi, Anand Mishra, Anirban Chakraborty
-  pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
   project_page: https://iiscaditaytripathi.github.io/sgl/
   paper_link: 
@@ -39,7 +39,7 @@
   
 - paper: "CoNMix for Source-free Single and Multi-target Domain Adaptation"
   author: Vikash Kumar, Rohit Lal, Himanshu Patil, Anirban Chakraborty
-  pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
   project_page:
   paper_link: 
@@ -48,7 +48,7 @@
 
 - paper: "DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers"
   author: Gaurav Kumar Nayak, Ruchit Rawal, Anirban Chakraborty
-  pub: Winter Conference on Applications of Computer Vision (WACV), 2023 (accepted)
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
   project_page:
   paper_link: 
