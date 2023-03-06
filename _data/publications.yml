@@ -10,6 +10,15 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Edges to shapes to concepts: Adversarial augmentation for robust vision"
+  author: Aditay Tripathi, Rishubh Singh, Anirban Chakraborty, Pradeep Shenoy
+  pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+  type: conference
+  project_page:
+  paper_link: https://arxiv.org/pdf/2211.07277.pdf
+  code_link: 
+  bibtex:
+
 - paper: "G-PReDICT: Generalizable Person Re-ID using Domain Invariant Contrastive Techniques"
   author: Chaitra Jambigi, Umar Masud, Anirban Chakraborty 
   pub: Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (Oral)
