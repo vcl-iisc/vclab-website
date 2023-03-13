@@ -10,6 +10,15 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Improving Domain Adaptation through Class Aware Frequency Transformation" (accepted)
+  author: Vikash Kumar, Himanshu Patil, Rohit Lal, Anirban Chakraborty
+  pub: International Journal of Computer Vision (IJCV)
+  type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
 - paper: "Edges to Shapes to Concepts: Adversarial Augmentation for Robust Vision"
   author: Aditay Tripathi, Rishubh Singh, Anirban Chakraborty, Pradeep Shenoy
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
