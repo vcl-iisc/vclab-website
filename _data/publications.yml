@@ -10,9 +10,9 @@
 
 ################### Coferences and Journals ###################
 
-- paper: "Improving Domain Adaptation through Class Aware Frequency Transformation" (accepted)
+- paper: "Improving Domain Adaptation through Class Aware Frequency Transformation" 
   author: Vikash Kumar, Himanshu Patil, Rohit Lal, Anirban Chakraborty
-  pub: International Journal of Computer Vision (IJCV)
+  pub: International Journal of Computer Vision (IJCV) [In Press]
   type: journal
   project_page:
   paper_link: 
