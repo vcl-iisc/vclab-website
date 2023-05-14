@@ -11,8 +11,17 @@
 ################### Coferences and Journals ###################
 
 - paper: "Improving Domain Adaptation through Class Aware Frequency Transformation" 
-  author: Vikash Kumar, Himanshu Patil, Rohit Lal, Anirban Chakraborty
+  author: V. Kumar, H. Patil, R. Lal, A. Chakraborty
   pub: International Journal of Computer Vision (IJCV) [In Press]
+  type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+  
+- paper: "Multimodal Query-guided Object Localization" 
+  author: A. Tripathi, R. R. Dani, A. Mishra, A. Chakraborty
+  pub: Multimedia Tools and Applications [In Press]
   type: journal
   project_page:
   paper_link: 
@@ -20,7 +29,7 @@
   bibtex:
 
 - paper: "Edges to Shapes to Concepts: Adversarial Augmentation for Robust Vision"
-  author: Aditay Tripathi, Rishubh Singh, Anirban Chakraborty, Pradeep Shenoy
+  author: A. Tripathi, R. Singh, A. Chakraborty, P. Shenoy
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
   type: conference
   project_page: https://arxiv.org/abs/2211.07277
@@ -29,7 +38,7 @@
   bibtex:
 
 - paper: "G-PReDICT: Generalizable Person Re-ID using Domain Invariant Contrastive Techniques"
-  author: Chaitra Jambigi, Umar Masud, Anirban Chakraborty 
+  author: C. Jambigi, U. Masud, A. Chakraborty 
   pub: Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (Oral)
   type: conference
   project_page:
@@ -38,7 +47,7 @@
   bibtex: 
 
 - paper: "Grounding Scene Graphs on Natural Images via Visio-Lingual Message Passing"
-  author: Aditay Tripathi, Anand Mishra, Anirban Chakraborty
+  author: A. Tripathi, A. Mishra, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
   project_page: https://iiscaditaytripathi.github.io/sgl/
@@ -47,7 +56,7 @@
   bibtex: 
   
 - paper: "CoNMix for Source-free Single and Multi-target Domain Adaptation"
-  author: Vikash Kumar, Rohit Lal, Himanshu Patil, Anirban Chakraborty
+  author: V. Kumar, R. Lal, H. Patil, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
   project_page:
@@ -56,7 +65,7 @@
   bibtex: 
 
 - paper: "DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers"
-  author: Gaurav Kumar Nayak, Ruchit Rawal, Anirban Chakraborty
+  author: G. K. Nayak, R. Rawal, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
   project_page:
@@ -65,7 +74,7 @@
   bibtex:
 
 - paper: Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems
-  author: Gaurav Kumar Nayak*, Ruchit Rawal*, Rohit Lal*, Himanshu Patil, Anirban Chakraborty (* Jointly first authored)
+  author: G. K. Nayak*, R. Rawal*, R. Lal*, H. Patil, A. Chakraborty (* Jointly first authored)
   pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2022
   type: conference
   project_page: https://sites.google.com/view/sample-adv-trustworthy/home
