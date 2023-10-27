@@ -10,6 +10,24 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Minimizing Layerwise Activation Norm Improves Generalization in Federated Learning"
+  author: A. Tripathi, A. Mishra, A. Chakraborty
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2024
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
+- paper: "Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch"
+  author: M. Yashwanth, G. K. Nayak, H. Rangwani, A. Singh, R. V. Babu, A. Chakraborty
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2024
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex: 
+
 - paper: "Improving Domain Adaptation through Class Aware Frequency Transformation" 
   author: V. Kumar, H. Patil, R. Lal, A. Chakraborty
   pub: International Journal of Computer Vision (IJCV) [In Press]
