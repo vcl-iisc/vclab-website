@@ -10,7 +10,7 @@
 
 ################### Coferences and Journals ###################
 
-- paper: "Minimizing Layerwise Activation Norm Improves Generalization in Federated Learning"
+- paper: "Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch"
   author: A. Tripathi, A. Mishra, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2024
   type: conference
@@ -19,7 +19,7 @@
   code_link: 
   bibtex:
 
-- paper: "Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch"
+- paper: "Minimizing Layerwise Activation Norm Improves Generalization in Federated Learning"
   author: M. Yashwanth, G. K. Nayak, H. Rangwani, A. Singh, R. V. Babu, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2024
   type: conference
