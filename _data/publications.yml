@@ -10,6 +10,15 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Robust Few-shot Learning Without Using any Adversarial Samples" 
+  author: G. K. Nayak, R. Rawal, I. Khatri, A. Chakraborty
+  pub: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)  [In Press]
+  type: journal
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
 - paper: "Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch"
   author: A. Tripathi, A. Mishra, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2024
