@@ -101,7 +101,7 @@ permalink: /team/
 
 {% assign number_printed = 0 %}
 {% for member in site.data.lab_members %}
-{% if member.position=="Ph. D. student" or member.position=="M. Tech." %}
+{% if member.position=="Ph. D. student" or member.position=="M. Tech. (research)" or member.position=="M. Tech. (CDS)" %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
