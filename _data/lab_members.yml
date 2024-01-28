@@ -1,13 +1,4 @@
 ############################ PHD STUDENTS ############################
-
-- name: Gaurav Nayak
-  research_area: Data-efficient deep learning
-  photo: gaurav-nayak.png
-  position: Ph. D. student
-  year: 2017-Present
-  url: https://sites.google.com/view/gauravnayak/
-  linkedin: https://www.linkedin.com/in/gaurav-nayak-6227ba53/
-  google_scholar: https://scholar.google.com/citations?hl=en&user=cLCeKTkAAAAJ
   
 - name: Aditay Tripathi
   research_area: Cross-modal learning in computer vision applications
@@ -18,7 +9,7 @@
   google_scholar: https://scholar.google.com/citations?user=rDCT8xQAAAAJ&hl=en
 
 - name: M. Yashwanth
-  research_area: Federated machine learning for computer vision
+  research_area: Federated learning under data heterogeneity
   photo: m-yashwanth.jpg 
   position: Ph. D. student
   year: 2021-Present
@@ -26,78 +17,57 @@
 
 ############################ MTECH STUDENTS ############################
 
-- name: Vikash Kumar
-  research_area: Unsupervised domain adaptation
-  photo: vikash-kumar.jpg 
-  position: M. Tech.
-  year: 2019-Present
-  linkedin: https://www.linkedin.com/in/vikash0837/
-  
-- name: Chaitra Sheshgiri Jambigi
-  research_area: Person re-ID across modalities and domains
-  photo: chaitra-jambigi.jpeg 
-  position: M. Tech.
-  year: 2019-Present
-  url: http://chaitrasj.github.io/
-  linkedin: https://www.linkedin.com/in/chaitra-jambigi/
+- name: Arka Haldi
+  research_area: Conditional generative modeling, text-guided image editting
+  photo: arka-haldi.jpg 
+  position: M. Tech. (research)
+  year: 2023-Present
+  linkedin: https://in.linkedin.com/in/arkahaldi
+  google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=nCG3kQkAAAAJ
 
-- name: Shaurya Tiwari
-  research_area: Data-free knowledge distillation
-  photo: shaurya-tiwari.jpeg
-  position: M. Tech.
-  year: 2020-Present
-  linkedin: https://www.linkedin.com/in/shauryat97/
+- name: Sai Dharma Srinidhi Sheryala
+  research_area: Neural radiance fields, Medical image reconstruction
+  photo: sai-dharma.jpg
+  position: M. Tech. (research)
+  year: 2023-Present
+  linkedin: https://www.linkedin.com/in/sai-dharma-srinidhi-2b470817a
 
-- name: Supriya Mandal
-  research_area: Video anomaly detection
-  photo: supriya.jpg
-  position:  M. Tech.
-  year: 2021-Active
-  linkedin: https://www.linkedin.com/in/supriya09
+- name: Rahul Pradeep Gohil
+  research_area: Adversarial robustness of generative models
+  photo: rahul-gohil.jpg
+  position: M. Tech. (research)
+  year: 2023-Present
+  linkedin: https://www.linkedin.com/in/rahul-gohil-036429190
 
-- name: P. Sai Shankar Patro
-  research_area: Few-shot learning, Semantic segmentation
-  photo: sai_shankar.jpeg
+- name: Batakala Ashok
+  research_area: Reshaping humans in video
+  photo: batakala-ashok.jpg
   position: M. Tech.
-  year: 2021-Present
-  linkedin: https://www.linkedin.com/in/p-sai-shankar-patro-00b4a2175/
+  year: 2022-Present
+  linkedin: https://www.linkedin.com/in/ashok-batakala/
+  url: https://ashokbatakala.github.io/
+
+- name: Vikramaditya Mishra
+  research_area: FL for battery health monitoring in electric vehicles
+  photo: vikramaditya.jpg
+  position: M. Tech.
+  year: 2022-Present
+  linkedin: https://www.linkedin.com/in/vikramaditya-mishra/
 
 ########################## Project Assistants ##########################
 
-- name: Rohit Lal
-  photo: rohit-lal.jpg 
+- name: Sampath Koti
+  photo: sampath.jpg 
   position: Project Assistant
-  year: 2021-Present
-  url: http://take2rohit.github.io/
-  linkedin: https://www.linkedin.com/in/rohit-lal
-  google_scholar: https://scholar.google.com/citations?user=q2nc3QoAAAAJ&hl=en#
-  past: VNIT Nagpur
-
-- name: Ruchit Rawal
-  photo: ruchit-rawal.jpg 
-  position: Project Assistant
-  year: 2021-Present
-  url: http://ruchitrawal.github.io/
-  linkedin: https://scholar.google.com/citations?user=q2nc3QoAAAAJ&hl=en#
-  google_scholar: https://scholar.google.com/citations?user=ilDc7ssAAAAJ&hl=en
-  past: NSIT, Delhi
+  year: 2023-Present
+  linkedin: https://www.linkedin.com/in/sampath-koti-b63a4813b/
   
 ############################### Interns ###############################
 
-- name: Himanshu Patil
-  photo: himanshu-patil.jpg
-  position: Intern
-  year: 2021-Present
-  linkedin: https://www.linkedin.com/in/hipatil/
-
-- name: Umar Masud
-  photo: umar-masud.jpg 
+- name: Arya Singh
+  photo: arya.jpg 
   position: Intern
   year: 2022-Present
-  url: https://umar07.github.io/
+  url: https://github.com/unix-master
 
-- name: Inder Khatri
-  photo: researcher.png 
-  position: Intern
-  year: 2021-Present
-  # url: https://umar07.github.io/
+
