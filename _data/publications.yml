@@ -111,7 +111,7 @@
 
 - paper: Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data
   author: G. K. Nayak, M. K. Reddy, S. Jain, A. Chakraborty
-  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022) [In press]
+  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022)
   type: journal
   project_page:
   paper_link: https://ieeexplore.ieee.org/document/9540299
@@ -190,7 +190,7 @@
   code_link: 
   bibtex:
 
-- paper: 'Neuromorphic vision: From sensors to eventbased algorithms'
+- paper: 'Neuromorphic vision: From sensors to event-based algorithms'
   author: A. Lakshmi, A. Chakraborty, C. S. Thakur
   pub: 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery (2019) 9(4): p.e1310.'
   type:  journal
@@ -262,6 +262,15 @@
   code_link: 
   bibtex:
 
+- paper: Automated Crowd Parameter Estimation and Crowd Movement Analysis in Kumbh Mela
+  author: N. Choubey, A. Verma, A. Chakraborty
+  pub: Proceedings of the Sixth International Conference of Transportation Research Group of India (CTRG).
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
 - paper: 'HFCER: Hybrid Fusion for Cultural Event Recognition in Images'
   author: S. Srivastava, B. Mandal, A. Chakraborty
   pub: International Conference of Pattern Recognition Systems (ICPRS), 2021
@@ -273,7 +282,7 @@
 
 - paper: Density Estimation of Heterogeneous Crowd in Mass Religious Gatherings Using Image Processing and Denoising Filter
   author: N. Choubey, A. Prajapati, A. Verma, A. Chakraborty
-  pub: Soft Computing for Problem Solving (SocProS), Advances in Intelligent Systems and Computing, 2020.
+  pub: Soft Computing for Problem Solving (SocProS), Advances in Intelligent Systems and Computing, 2021.
   type: conference
   project_page:
   paper_link: 
@@ -325,8 +334,8 @@
   code_link: 
   bibtex:
 
-- paper: S. Addepalli, G. K. Nayak, A. Chakraborty, R. Venkatesh Babu
-  author: 'DeGAN : Data-enriching GAN for retrieving Representative Samples from a Trained Classifier'
+- paper: 'DeGAN : Data-enriching GAN for retrieving Representative Samples from a Trained Classifier'
+  author: S. Addepalli, G. K. Nayak, A. Chakraborty, R. Venkatesh Babu
   pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020
   type: conference
   project_page:
@@ -334,7 +343,7 @@
   code_link: https://github.com/vcl-iisc/DeGAN
   bibtex:
 
-- paper: Text-based Person Search via Attributeaided Matching
+- paper: Text-based Person Search via Attribute-aided Matching
   author: S. Aggarwal, R. Venkatesh Babu, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2020
   type: conference
@@ -343,7 +352,7 @@
   code_link: 
   bibtex:
 
-- paper: 'QUICKSAL: A small and sparse visual saliency model for ecient inference in resource constrained hardware'
+- paper: 'QUICKSAL: A small and sparse visual saliency model for efficient inference in resource constrained hardware'
   author: V. Ramanathan, P. Dwivedi, B. Katabathuni, A. Chakraborty, C. S. Thakur
   pub: Winter Conference on Applications of Computer Vision (WACV), 2020 
   type: conference
@@ -352,7 +361,7 @@
   code_link: 
   bibtex:
 
-- paper: 'From Strings to Things: Knowledgeenabled VQA Model that can Read and Reason'
+- paper: 'From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason'
   author: A. K. Singh, A. Mishra, S. Shekhar, A. Chakraborty
   pub: International Conference on Computer Vision (ICCV), 2019 (Oral)
   type: conference
@@ -379,7 +388,7 @@
   code_link: 
   bibtex:
 
-- paper: Ecient Person Reidentification in Videos Using Sequence Lazy Greedy Determinantal Point Process (SLGDPP)
+- paper: Efficient Person Re-identification in Videos Using Sequence Lazy Greedy Determinantal Point Process (SLGDPP)
   author: G. K. Nayak, U. Shreemali, R. Venkatesh Babu, A. Chakraborty
   pub: International Conference on Image Processing (ICIP), 2019
   type: conference
@@ -406,7 +415,7 @@
   code_link: 
   bibtex:
 
-- paper: 'n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surface'
+- paper: 'n-HAR: A Neuromorphic Event-Based Human Activity Recognition System Using Memory Surfaces'
   author: B. R. Pradhan, Y. Bethi, S. Narayanan, A. Chakraborty, C. S. Thakur
   pub: IEEE International Symposium on Circuits and Systems (ISCAS), 2019
   type: conference
