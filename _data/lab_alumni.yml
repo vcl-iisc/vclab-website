@@ -1,10 +1,31 @@
-############################ MTECH STUDENTS ############################
+############################ PHD/MTECH STUDENTS ############################
+
+- name: Gaurav Kumar nayak
+  position: Ph.D.
+  year: 2017-23
+  url: https://sites.google.com/view/gauravnayak/
+  affiliation: CRCV, University of Central Florida (Post-doc)
+  worked_on: "Data-efficient Deep Learning Algorithms for Computer Vision Applications"
+
+- name: Vikash Kumar
+  position: M. Tech. (research)
+  year: 2019-22
+  url: https://www.linkedin.com/in/vikash0837
+  affiliation: Amazon
+  worked_on: "Mitigating Domain Shift via Self-training for Unsupervised Single and Multi-target Domain Adaptation"
+
+- name: Chaitra Sheshgiri Jambigi
+  position: M. Tech. (research)
+  year: 2019-22
+  url: http://chaitrasj.github.io/
+  affiliation: Flipkart Pvt. Ltd.
+  worked_on: "Towards Robust and Scalable Video Surveillance: Cross-modal and Domain Generalizable Person Re-identification"
 
 - name: Siddharth Seth
   position: M. Tech. (research)
   year: 2018-21
   url: https://www.linkedin.com/in/sethssiddharth/
-  affiliation: Verisk
+  affiliation: University of California, Merced (Ph.D. student)
   worked_on: "Learning to Perceive Humans From Appearance and Pose"
 
 - name: Shreya Roy
@@ -18,21 +39,42 @@
   position: M. Tech. (research)
   year: 2017-20
   # url: https://www.linkedin.com/in/bibratranjan-pradhan
-  # affiliation: Mercedes-Benz R&D
+  affiliation: Microsoft
   worked_on: "Learning Across Domains: Applications to Text-Based Person Search and Multi-Source Domain Adaptation"
 
+- name: Sai Shankar Patro
+  position: M. Tech. (CDS)
+  year: 2021-23
+  url: https://www.linkedin.com/in/p-sai-shankar-patro-00b4a2175
+  affiliation: Bajaj Auto Ltd.
+  worked_on: Incremental Learning in Semantic Segmentation
+
+- name: Supriya Mandal
+  position: M. Tech. (CDS)
+  year: 2021-23
+  url: https://www.linkedin.com/in/supriya09/
+  affiliation: Chargebee
+  worked_on: Unsupervised Deep Learning Based Video Anomaly Detection & Localization
+
+- name: Shaurya Tiwari 
+  position: M. Tech. (CDS)
+  year: 2020-22
+  url: https://www.linkedin.com/in/shauryat97
+  affiliation: Ernst & Young
+  worked_on: Composing Effective Arbitrary Transfer Sets for Data Free Knowledge Distillation
+  
 - name: Aditya Kumar Pal 
   position: M. Tech. (CDS)
   year: 2018-21
   url: https://www.linkedin.com/in/adityakumarpal17059
-  affiliation: Walmart Labs
+  affiliation: Walmart Global Tech India
   worked_on: Anomaly Detection and Localization Using Image Inpainting
 
 - name: Sunny Anand 
   position: M. Tech. (CDS)
   year: 2019-21
   url: https://www.linkedin.com/in/sunny-anand-442755102
-  affiliation: Uniphore
+  affiliation: ARKRAY, Inc.
   worked_on: Efficient Utilization of Communication Channel in Federated Learning
 
 - name: Sourav Mishra 
@@ -66,23 +108,41 @@
 
 ########################## Project Assistants ##########################
 
+- name: Shubham Randive
+  position: Project Assistant
+  year: 2022-2023
+  url: https://www.linkedin.com/in/shubham-randive-303
+  affiliation: Streamingo.ai
+
+- name: Rohit Lal
+  position: Project Assistant
+  year: 2021-2022
+  url: http://take2rohit.github.io/
+  affiliation: University of California, Riverside
+
+- name: Ruchit Rawal
+  position: Project Assistant
+  year: 2021-2022
+  url: http://ruchitrawal.github.io/
+  affiliation: Max Planck Institute for Software Systems, Saarbrücken
+
 - name: Monish Keswani
   position: Project Assistant
   year: 2020-21
   url: https://www.linkedin.com/in/monish-keswani-30331bb5
-  affiliation: Visual Recognition Group, Czech Technical University
-  
-- name: Sarthak Srivastava
-  position: Project Assistant
-  year: 2020-21
-  url: https://www.linkedin.com/in/ssarthak/
-  affiliation: Amazon
+  affiliation:  IIT Hyderabad
 
 - name: Saksham Jain
   position: Project Assistant
   year: 2020-21
   url: https://www.linkedin.com/in/saksham-jain01/
-  affiliation: Duke University (M.S., ECE)
+  affiliation: University of Washington, Seattle
+
+- name: Akash Sonth
+  position: Project Assistant
+  year: 2020-21
+  url: https://www.linkedin.com/in/akashsonth/
+  affiliation: Aspen Technology
 
 - name: Sharan Seshadri
   position: Project Assistant
@@ -94,21 +154,57 @@
   position: Project Assistant
   year: 2019-21
   url: https://www.linkedin.com/in/rajath-r-dani-51b34382
-  affiliation: New York University
+  affiliation: Amazon Web Services
 
 - name: Shashank Shekhar
   position: Project Assistant
   year: 2018-19
   url: https://www.linkedin.com/in/sshkhr
-  affiliation: Facebook AI
-
-- name: Akash Sonth
-  position: Project Assistant
-  year: 2020-21
-  url: https://www.linkedin.com/in/akashsonth/
-  affiliation: Virginia Tech
+  affiliation: Meta AI Research
 
 ############################### Interns ###############################
+
+- name: Arhat Amitabh
+  position: Intern
+  year: 2023
+  url: https://www.linkedin.com/in/arhat-amitabh
+  affiliation: IIT Kharagpur
+
+- name: Soumyajyoti Dey
+  position: Intern
+  year: 2023
+  url: https://www.linkedin.com/in/soumyajyoti-dey-24202b136
+  affiliation: Jadavpur University
+
+- name: Pooja Kumari
+  position: Intern
+  year: 2023
+  url: https://www.linkedin.com/in/pooja-kumari-a33032123
+  affiliation: IIT Madras
+
+- name: Himanshu Patil
+  position: Intern
+  year: 2021-2022
+  url: https://www.linkedin.com/in/hipatil/
+  affiliation: Boston University
+
+- name: Umar Masud
+  position: Intern
+  year: 2022
+  url: https://umar07.github.io/
+  affiliation: University of Toronto
+
+- name: Inder Khatri
+  position: Intern
+  year: 2021-2023
+  url: https://www.linkedin.com/in/inder-khatri-341760171
+  affiliation: New York University
+
+- name: Sarthak Srivastava
+  position: Intern
+  year: 2020-2021
+  url: https://www.linkedin.com/in/ssarthak/
+  affiliation: Amazon
 
 - name: Aditi Shanmugam
   position: Intern
@@ -120,22 +216,28 @@
   position: Intern
   year: 2021
   url: https://virobo-15.github.io/
-  affiliation: NA
+  affiliation: MBZUAI
 
 - name: Het Shah
   position: Intern
   year: 2021
   url: https://www.linkedin.com/in/het-shah163
-  affiliation: Research Intern, Microsoft Research India 
+  affiliation: RA, Google Research India 
 
 - name: Vignesh Nagarajan
   position: Intern
   year: 2021
   url: https://www.linkedin.com/in/vignesh-nagarajan-63793b1a4/
-  affiliation: IIITDM Kancheepuram
+  affiliation: University of California, Los Angeles
 
 - name: Anirudh Kannan
   position: Intern
-  year: 2020-21
-  url: 
-  affiliation: NA
+  year: 2020-2021
+  url: https://www.linkedin.com/in/anirudhkannan/
+  affiliation: Carnegie Mellon University
+
+- name: Zaid Pervaiz Bhat
+  position: Intern
+  year: 2019-2020
+  url: https://www.linkedin.com/in/bhatzaid/
+  affiliation: NVIDIA
