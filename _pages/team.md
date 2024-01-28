@@ -97,7 +97,7 @@ permalink: /team/
 
 ## Current Members
 
-### PhD/Masters student
+### PhD/Master's student
 
 {% assign number_printed = 0 %}
 {% for member in site.data.lab_members %}
