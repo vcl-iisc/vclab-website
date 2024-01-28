@@ -249,7 +249,7 @@ permalink: /team/
 
 ## Alumni
 
-### PhD/Masters student
+### PhD/Master's Students
 
 <ul>
 {% for member in site.data.lab_alumni %}
