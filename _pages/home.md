@@ -14,9 +14,9 @@ redirect_from:
 Welcome to the Visual Computing Lab (VCL) at the Indian Institute of Science, Bangalore. We are a part of Department of Computational and Data Sciences (CDS). The group was established in June 2017 with Anirban Chakraborty as the convenor. 
 
 In Visual Computing Lab, we are interested in developing novel computer vision and machine learning algorithms to solve visual analytics problems arising from diverse real-world applications. Majority of our ongoing research projects can be categorized into one of the following three areas 
-1. *Data-efficient deep learning* (zero-shot/few shot learning for tasks such as knowledge distillation, continual learning, design models with adversarial robustness etc.)
+1. *Data-efficient & privacy-preserving deep learning* (zero-shot/few-shot knowledge distillation, continual learning, source-free/unsupervised domain adaptation, data-free adversarial defense, federated learning etc.)
 2. *Cross-modal computer vision* (text-based image retrieval, sketch-guided localization, scene-graph generation, visual question answering etc.) 
-3. *Video surveillance* (robust and scalable person-reidentification, anomaly detection, human gait and pose analysis etc.)
+3. *Perceiving humans and their actions* (robust and scalable person-reidentification, video anomaly detection, human gait and pose analysis etc.)
 
 <figure class="centered">
   <p align="center">
