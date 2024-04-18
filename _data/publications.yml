@@ -30,7 +30,7 @@
 
 - paper: "Robust Few-shot Learning Without Using any Adversarial Samples" 
   author: G. K. Nayak, R. Rawal, I. Khatri, A. Chakraborty
-  pub: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)  [In Press]
+  pub: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2024  [In Press]
   type: journal
   project_page:
   paper_link: 
@@ -57,7 +57,7 @@
 
 - paper: "Improving Domain Adaptation through Class Aware Frequency Transformation" 
   author: V. Kumar, H. Patil, R. Lal, A. Chakraborty
-  pub: International Journal of Computer Vision (IJCV) [In Press]
+  pub: International Journal of Computer Vision (IJCV), 131, 2888–2907 (2023)
   type: journal
   project_page:
   paper_link: 
@@ -75,7 +75,7 @@
 
 - paper: "Edges to Shapes to Concepts: Adversarial Augmentation for Robust Vision"
   author: A. Tripathi, R. Singh, A. Chakraborty, P. Shenoy
-  pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+  pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
   type: conference
   project_page: https://arxiv.org/abs/2211.07277
   paper_link: 
