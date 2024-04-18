@@ -10,6 +10,24 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Data-free Defense of Black Box Models Against Adversarial Attacks" 
+  author: G. K. Nayak, I. Khatri, R. Rawal, A. Chakraborty
+  pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2024
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
+- paper: "Sketch-guided Image Inpainting with Partial Discrete Diffusion Process" 
+  author: N. Sharma, A. Tripathi, A. Chakraborty, A. Mishra
+  pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2024
+  type: conference
+  project_page:
+  paper_link: 
+  code_link: 
+  bibtex:
+
 - paper: "Robust Few-shot Learning Without Using any Adversarial Samples" 
   author: G. K. Nayak, R. Rawal, I. Khatri, A. Chakraborty
   pub: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)  [In Press]
