@@ -10,6 +10,15 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Dynamic Data Selection for Efficient SSL via Coarse-to-Fine Refinement"
+  author: A. Tripathi, P. Shenoy, A. Chakraborty
+  pub: European Conference on Computer Vision (ECCV), 2024 [Accepted]
+  type: conference
+  project_page:
+  paper_link:
+  code_link:
+  bibtex:
+
 - paper: "Data-free Defense of Black Box Models Against Adversarial Attacks" 
   author: G. K. Nayak, I. Khatri, R. Rawal, A. Chakraborty
   pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2024
