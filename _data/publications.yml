@@ -10,9 +10,18 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Enhancing 3D Referential Grounding by Learning Coarse Spatial Relationships"
+  author: S. Joshi, A. Tripathi, V. Gopalakrishnan, A. Chakraborty
+  pub: International Conference on Pattern Recognition (ICPR), 2024 [Accepted]
+  type: conference
+  project_page:
+  paper_link:
+  code_link:
+  bibtex:
+
 - paper: "Dynamic Data Selection for Efficient SSL via Coarse-to-Fine Refinement"
   author: A. Tripathi, P. Shenoy, A. Chakraborty
-  pub: European Conference on Computer Vision (ECCV), 2024 [Accepted]
+  pub: European Conference on Computer Vision (ECCV), 2024
   type: conference
   project_page:
   paper_link:
