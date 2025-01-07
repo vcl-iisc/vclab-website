@@ -10,9 +10,27 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Adaptive Self-Distillation for Minimizing Client Drift in Heterogeneous Federated Learning"
+  author: M. Yashwanth, G. K. Nayak, A. Singh, Y. Simmhan, A. Chakraborty
+  pub: Transactions on Machine Learning Research (TMLR) [Accepted]
+  type: journal
+  project_page:
+  paper_link:
+  code_link:
+  bibtex:
+
+- paper: "CARL: Cost-optimized Online Container Placement on VMs using Adversarial Reinforcement Learning"
+  author: P. S. Vinayak, S. S. Mallick, J. Lakshmi, A. Chakraborty, Y. Simmhan
+  pub: IEEE Transactions on Cloud Computing (TCC) [Accepted]
+  type: journal
+  project_page:
+  paper_link:
+  code_link:
+  bibtex:
+
 - paper: "An Unsupervised Group Detection Method for Understanding Group Dynamics in Crowds"
   author: N. Choubey, A. Verma, A. Chakraborty
-  pub: Physica A: Statistical Mechanics and its Applications 655 (2024): 130195
+  pub: Physica A:Statistical Mechanics and its Applications 655 (2024):130195
   type: journal
   project_page:
   paper_link:
