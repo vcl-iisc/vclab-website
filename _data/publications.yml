@@ -19,7 +19,7 @@
   code_link:
   bibtex:
 
-- paper: "DAD++: Improved data-free test time adversarial defense"
+- paper: "DAD++: Improved Data-free Test Time Adversarial Defense"
   author: G. K. Nayak, I. Khatri, S. Randive, R. Rawal, A. Chakraborty
   pub: Neurocomputing [In press]
   type: journal
