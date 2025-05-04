@@ -15,7 +15,7 @@ Welcome to the Visual Computing Lab (VCL) at the Indian Institute of Science, Ba
 
 In Visual Computing Lab, we are interested in developing novel computer vision and machine learning algorithms to solve visual analytics problems arising from diverse real-world applications. Majority of our ongoing research projects can be categorized into one of the following three areas 
 1. *Data-efficient & privacy-preserving deep learning* (zero-shot/few-shot knowledge distillation, continual learning, source-free/unsupervised domain adaptation, data-free adversarial defense, federated learning etc.). We are specially interested in the theoretical foundations of federated learning under distribution shifts, with a focus on generalization, domain adaptation and efficient fine-tuning of foundational models.
-2. *Cross-modal computer vision and generative learning* (text-based image retrieval, sketch-guided localization, scene-graph generation, visual question answering, video to audio generation etc.) 
+2. *Cross-modal computer vision and generative models* (text-based image retrieval, sketch-guided localization, scene-graph generation, visual question answering, video to audio synthesis etc.) 
 3. *Perceiving humans and their actions* (robust and scalable person-reidentification, video anomaly detection, human gait and pose analysis etc.)
 
 <figure class="centered">
