@@ -10,6 +10,15 @@
 
 ################### Coferences and Journals ###################
 
+- paper: "Optimizing Federated Learning for Scalable Power-demand Forecasting in Microgrids"
+  author: R. Banerjee, S. Koti, G. Singh, A. Chakraborty, G. Gurrala, B. Jagyasi and Y. Simmhan
+  pub: IEEE Conference on eScience (eScience), 2025 [Accepted]
+  type: conference
+  project_page:
+  paper_link:
+  code_link:
+  bibtex:
+
 - paper: "Adaptive Self-Distillation for Minimizing Client Drift in Heterogeneous Federated Learning"
   author: M. Yashwanth, G. K. Nayak, A. Singh, Y. Simmhan, A. Chakraborty
   pub: Transactions on Machine Learning Research (TMLR) [Accepted]
@@ -48,7 +57,7 @@
 
 - paper: "Enhancing 3D Referential Grounding by Learning Coarse Spatial Relationships"
   author: S. Joshi, A. Tripathi, V. Gopalakrishnan, A. Chakraborty
-  pub: International Conference on Pattern Recognition (ICPR), 2024 [Accepted]
+  pub: International Conference on Pattern Recognition (ICPR), 2024
   type: conference
   project_page:
   paper_link:
