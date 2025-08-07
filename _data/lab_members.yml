@@ -15,13 +15,13 @@
   linkedin: https://www.linkedin.com/in/akanksha-sharma-047506194/
 
 ############################ MTECH STUDENTS ############################
+
 - name: Shyam Marjit
+  research_area: Generative models, Large Vision-Language Models
   photo: shyam.png 
-  position: M. Tech. (Research)
+  position: M. Tech. (research)
   year: 2025-Present
   linkedin: https://www.linkedin.com/in/shyam-marjit
-  past: CVIT, IIITH
-  research_area: Generative models, Large Vision-Language Models
   google_scholar: https://scholar.google.com/citations?user=tg4LJ94AAAAJ&hl=en
   url: https://shyammarjit.github.io/
   
@@ -30,7 +30,6 @@
   position: M. Tech.
   year: 2025-Present
   linkedin: https://www.linkedin.com/in/sampath-koti-b63a4813b/
-  past: Qualcomm
   research_area: Federated learning
 
 # - name: Rishi Gupta
