@@ -32,13 +32,12 @@
 #   linkedin: https://www.linkedin.com/in/sampath-koti-b63a4813b/
 #   research_area: Federated learning
 
-# - name: Rishi Gupta
-#   research_area: 
-#   photo: rishi_gupta.jpg 
-#   position: M. Tech. (Research)
-#   year: 2024-Present
-#   linkedin: https://www.linkedin.com/in/rishi-gupta-96a314202/
-#   url: https://openreview.net/profile?id=~Rishi_Gupta3
+- name: Rishi Gupta
+  research_area: Large Vision-Language Models, interpretability
+  photo: rishi_gupta.png 
+  position: M. Tech. (research)
+  year: 2024-Present
+  linkedin: https://www.linkedin.com/in/rishi-gupta-96a314202/
 
 
 - name: Arka Haldi
