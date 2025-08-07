@@ -4,7 +4,7 @@
   position: Ph. D.
   year: 2018-24
   affiliation: Research Scientist at Google DeepMind
-  google_scholar: https://scholar.google.com/citations?user=rDCT8xQAAAAJ&hl=en
+  url: https://scholar.google.com/citations?user=rDCT8xQAAAAJ&hl=en
   
 - name: Gaurav Kumar Nayak
   position: Ph. D.
@@ -21,7 +21,7 @@
 #   linkedin: https://www.linkedin.com/in/rahul-gohil-036429190
 
 - name: Batakala Ashok
-  research_area: Reshaping humans in video
+  worked_on: Reshaping humans in video
   photo: batakala-ashok.jpg
   position: M. Tech. (CDS)
   year: 2022-24
@@ -29,11 +29,11 @@
   url: https://ashokbatakala.github.io/
 
 - name: Vikramaditya Mishra
-  research_area: FL for battery health monitoring in electric vehicles
+  worked_on: FL for battery health monitoring in electric vehicles
   photo: vikramaditya.jpg
   position: M. Tech. (CDS)
   year: 2022-24
-  linkedin: https://www.linkedin.com/in/vikramaditya-mishra/
+  url: https://www.linkedin.com/in/vikramaditya-mishra/
   
 - name: Vikash Kumar
   position: M. Tech. (research)
