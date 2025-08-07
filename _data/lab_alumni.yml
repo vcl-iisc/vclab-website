@@ -1,5 +1,11 @@
 ############################ PHD/MTECH STUDENTS ############################
-
+- name: Aditay Tripathi
+  worked_on: "Integrating Coarse Semantic Information with Deep Image Representations for Object Localization, Model Generalization and Efficient Training"
+  position: Ph. D.
+  year: 2018-24
+  affiliation: Research Scientist at Google DeepMind
+  google_scholar: https://scholar.google.com/citations?user=rDCT8xQAAAAJ&hl=en
+  
 - name: Gaurav Kumar Nayak
   position: Ph. D.
   year: 2017-23
@@ -7,6 +13,28 @@
   affiliation: Assistant Professor, Indian Institute of Technology Roorkee (IIT Roorkee)
   worked_on: "Data-efficient Deep Learning Algorithms for Computer Vision Applications"
 
+# - name: Rahul Pradeep Gohil
+#   research_area: Adversarial robustness of generative models
+#   photo: rahul-gohil.jpg
+#   position: M. Tech. (research)
+#   year: 2023-Present
+#   linkedin: https://www.linkedin.com/in/rahul-gohil-036429190
+
+- name: Batakala Ashok
+  research_area: Reshaping humans in video
+  photo: batakala-ashok.jpg
+  position: M. Tech. (CDS)
+  year: 2022-24
+  affiliation: Data Scientist at Netradyne
+  url: https://ashokbatakala.github.io/
+
+- name: Vikramaditya Mishra
+  research_area: FL for battery health monitoring in electric vehicles
+  photo: vikramaditya.jpg
+  position: M. Tech. (CDS)
+  year: 2022-24
+  linkedin: https://www.linkedin.com/in/vikramaditya-mishra/
+  
 - name: Vikash Kumar
   position: M. Tech. (research)
   year: 2019-22
