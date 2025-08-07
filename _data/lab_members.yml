@@ -1,12 +1,4 @@
 ############################ PHD STUDENTS ############################
-  
-- name: Aditay Tripathi
-  research_area: Cross-modal learning in computer vision applications
-  photo: aditay.png 
-  position: Ph. D. student
-  year: 2018-Present
-  linkedin: https://www.linkedin.com/in/aditay-tripathi-930889122
-  google_scholar: https://scholar.google.com/citations?user=rDCT8xQAAAAJ&hl=en
 
 - name: M. Yashwanth
   research_area: Federated learning under data heterogeneity
@@ -15,12 +7,44 @@
   year: 2021-Present
   linkedin: https://www.linkedin.com/in/yashwanth-mandula-aba700a5/
 
-############################ MTECH STUDENTS ############################
+- name: Akansha Sharma
+  research_area: Synchronized and temporally aligned video-to-audio generation
+  photo: akansha.jpg 
+  position: Ph. D. student
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/akanksha-sharma-047506194/
 
+############################ MTECH STUDENTS ############################
+- name: Shyam Marjit
+  photo: shyam.jpg 
+  position: M. Tech. (Research)
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/shyam-marjit
+  past: CVIT, IIITH
+  research_area: Generative models, Large Vision-Language Models
+  google_scholar: https://scholar.google.com/citations?user=tg4LJ94AAAAJ&hl=en
+  url: https://shyammarjit.github.io/
+  
+- name: Sampath Koti
+  photo: sampath.jpg 
+  position: M. Tech.
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/sampath-koti-b63a4813b/
+  past: Qualcomm
+  research_area: Federated learning
+
+# - name: Rishi Gupta
+#   research_area: 
+#   photo: rishi_gupta.jpg 
+#   position: M. Tech. (Research)
+#   year: 2024-Present
+#   linkedin: https://www.linkedin.com/in/rishi-gupta-96a314202/
+#   url: https://openreview.net/profile?id=~Rishi_Gupta3
+  
 - name: Arka Haldi
   research_area: Conditional generative modeling, text-guided image editting
   photo: arka-haldi.jpg 
-  position: M. Tech. (research)
+  position: M. Tech. (Research)
   year: 2023-Present
   linkedin: https://in.linkedin.com/in/arkahaldi
   google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=nCG3kQkAAAAJ
@@ -28,40 +52,28 @@
 - name: Sai Dharma Srinidhi Sheryala
   research_area: Neural radiance fields, Medical image reconstruction
   photo: sai-dharma.jpg
-  position: M. Tech. (research)
+  position: M. Tech. (Research)
   year: 2023-Present
   linkedin: https://www.linkedin.com/in/sai-dharma-srinidhi-2b470817a
 
-- name: Rahul Pradeep Gohil
-  research_area: Adversarial robustness of generative models
-  photo: rahul-gohil.jpg
-  position: M. Tech. (research)
-  year: 2023-Present
-  linkedin: https://www.linkedin.com/in/rahul-gohil-036429190
 
-- name: Batakala Ashok
-  research_area: Reshaping humans in video
-  photo: batakala-ashok.jpg
-  position: M. Tech. (CDS)
-  year: 2022-Present
-  linkedin: https://www.linkedin.com/in/ashok-batakala/
-  url: https://ashokbatakala.github.io/
-
-- name: Vikramaditya Mishra
-  research_area: FL for battery health monitoring in electric vehicles
-  photo: vikramaditya.jpg
-  position: M. Tech. (CDS)
-  year: 2022-Present
-  linkedin: https://www.linkedin.com/in/vikramaditya-mishra/
 
 ########################## Project Assistants ##########################
 
-- name: Sampath Koti
-  photo: sampath.jpg 
+- name: Mukilan K
+  photo: mukil.jpg 
   position: Project Assistant
-  year: 2023-Present
-  linkedin: https://www.linkedin.com/in/sampath-koti-b63a4813b/
-  past: Qualcomm
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/mukilan-k-3261121b9/
+  past: CVIT, IIITH
+
+- name: Ruthvik Bokkasam
+  photo: ruthvik_bokkasam.jpg 
+  position: Project Assistant
+  year: 2024-Present
+  linkedin: https://www.linkedin.com/in/ruthvik-bokkasam-97021b215
+  past: CVIT, IIITH
+
   
 ############################### Interns ###############################
 
