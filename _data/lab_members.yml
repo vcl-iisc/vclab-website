@@ -39,7 +39,13 @@
   year: 2024-Present
   linkedin: https://www.linkedin.com/in/rishi-gupta-96a314202/
 
-
+- name: Sai Dharma Srinidhi Sheryala
+  research_area: Neural radiance fields, Medical image reconstruction
+  photo: sai-dharma.jpg
+  position: M. Tech. (research)
+  year: 2023-Present
+  linkedin: https://www.linkedin.com/in/sai-dharma-srinidhi-2b470817a
+  
 - name: Arka Haldi
   research_area: Conditional generative modeling, text-guided image editting
   photo: arka-haldi.jpg 
@@ -48,12 +54,7 @@
   linkedin: https://in.linkedin.com/in/arkahaldi
   google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=nCG3kQkAAAAJ
 
-- name: Sai Dharma Srinidhi Sheryala
-  research_area: Neural radiance fields, Medical image reconstruction
-  photo: sai-dharma.jpg
-  position: M. Tech. (research)
-  year: 2023-Present
-  linkedin: https://www.linkedin.com/in/sai-dharma-srinidhi-2b470817a
+
 
 
 
