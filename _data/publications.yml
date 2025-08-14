@@ -15,7 +15,7 @@
   pub: IEEE Conference on eScience (eScience), 2025 [Accepted]
   type: conference
   project_page: 
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/2508.08022
   code_link: 
   bibtex: 
 
@@ -96,17 +96,17 @@
   pub: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2024  [In Press]
   type: journal
   project_page:
-  paper_link: 
-  code_link: 
+  paper_link: https://arxiv.org/pdf/2211.01598
+  code_link: https://github.com/vcl-iisc/robust-few-shot-learning
   bibtex:
 
 - paper: "Query-guided Attention in Vision Transformers for Localizing Objects Using a Single Sketch"
   author: A. Tripathi, A. Mishra, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2024
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://vcl-iisc.github.io/locformer/
+  paper_link: https://arxiv.org/pdf/2303.08784
+  code_link: https://github.com/vcl-iisc/locformer-SGOL
   bibtex:
 
 - paper: "Minimizing Layerwise Activation Norm Improves Generalization in Federated Learning"
@@ -114,8 +114,8 @@
   pub: Winter Conference on Applications of Computer Vision (WACV), 2024
   type: conference
   project_page:
-  paper_link: 
-  code_link: 
+  paper_link: https://openaccess.thecvf.com/content/WACV2024/papers/Yashwanth_Minimizing_Layerwise_Activation_Norm_Improves_Generalization_in_Federated_Learning_WACV_2024_paper.pdf
+  code_link: https://github.com/vcl-iisc/fedMAN
   bibtex: 
 
 - paper: "Improving Domain Adaptation through Class Aware Frequency Transformation" 
