@@ -79,7 +79,7 @@
   type: conference
   project_page:
   paper_link: https://arxiv.org/pdf/2211.01579
-  code_link: 
+  code_link: https://github.com/vcl-iisc/data-free-black-box-defense
   bibtex:
 
 - paper: "Sketch-guided Image Inpainting with Partial Discrete Diffusion Process" 
@@ -123,7 +123,7 @@
   pub: International Journal of Computer Vision (IJCV), 131, 2888–2907 (2023)
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/2407.19551
   code_link: 
   bibtex:
   
@@ -132,7 +132,7 @@
   pub: Multimedia Tools and Applications [In Press]
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/2212.00749
   code_link: 
   bibtex:
 
@@ -140,8 +140,8 @@
   author: A. Tripathi, R. Singh, A. Chakraborty, P. Shenoy
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
   type: conference
-  project_page: https://arxiv.org/abs/2211.07277
-  paper_link: 
+  project_page: https://iiscaditaytripathi.github.io/eleas/ 
+  paper_link: https://arxiv.org/abs/2211.07277
   code_link: 
   bibtex:
 
@@ -150,7 +150,7 @@
   pub: Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) (Oral)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://dl.acm.org/doi/10.1145/3571600.3571655
   code_link: 
   bibtex: 
 
@@ -159,7 +159,7 @@
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
   project_page: https://iiscaditaytripathi.github.io/sgl/
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/2211.01969
   code_link: https://github.com/IISCAditayTripathi/Scene-graph-localization
   bibtex: 
   
@@ -167,35 +167,35 @@
   author: V. Kumar, R. Lal, H. Patil, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://sites.google.com/view/conmix-vcl
+  paper_link: https://arxiv.org/pdf/2211.03876
+  code_link: https://github.com/vcl-iisc/CoNMix
   bibtex: 
 
 - paper: "DE-CROP: Data-efficient Certified Robustness for Pretrained Classifiers"
   author: G. K. Nayak, R. Rawal, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2023
   type: conference
-  project_page:
-  paper_link: 
-  code_link:
+  project_page: https://sites.google.com/view/decrop
+  paper_link: https://arxiv.org/pdf/2210.08929
+  code_link: https://github.com/vcl-iisc/data-efficient-certified-robustness
   bibtex:
 
-- paper: Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems
+- paper: "Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems"
   author: G. K. Nayak*, R. Rawal*, R. Lal*, H. Patil, A. Chakraborty (* Jointly first authored)
   pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2022
   type: conference
   project_page: https://sites.google.com/view/sample-adv-trustworthy/home
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/2205.02604
   code_link: https://github.com/vcl-iisc/Trustworthy_systems
   bibtex: https://github.com/vcl-iisc/Trustworthy_systems/blob/master/biblography.tex
 
-- paper: Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data
+- paper: "Mining Data Impressions from Deep Models as Substitute for the Unavailable Training Data"
   author: G. K. Nayak, M. K. Reddy, S. Jain, A. Chakraborty
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (2022)
   type: journal
   project_page:
-  paper_link: https://ieeexplore.ieee.org/document/9540299
+  paper_link: https://arxiv.org/pdf/2101.06069
   code_link: 
   bibtex:
 
@@ -204,17 +204,17 @@
   pub: 'Frontiers in Neuroscience (2022) 15 (2021): 853.'
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/1911.09722
   code_link: 
   bibtex:
 
-- paper: Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation
+- paper: "Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation"
   author: J. N. Kundu, S. Seth, Y. M. Pradyumna, V. Jampani, A. Chakraborty, R. Venkatesh Babu
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://sites.google.com/view/mrp-net
+  paper_link: https://openaccess.thecvf.com/content/CVPR2022/papers/Kundu_Uncertainty-Aware_Adaptation_for_Self-Supervised_3D_Human_Pose_Estimation_CVPR_2022_paper.pdf
+  code_link: https://drive.google.com/drive/folders/1BaUjMMvXEpbBoq-S-tk6-_q4fSPm26lP
   bibtex:
 
 - paper: 'DAD: Data-free Adversarial Defense at Test Time'
@@ -223,7 +223,7 @@
   type: conference
   project_page: https://sites.google.com/view/dad-wacv22
   paper_link: https://openaccess.thecvf.com/content/WACV2022/papers/Nayak_DAD_Data-Free_Adversarial_Defense_at_Test_Time_WACV_2022_paper.pdf
-  code_link: 
+  code_link: https://github.com/vcl-iisc/data_free_adversarial_defense
   bibtex:
 
 - paper: Non-local Latent Relation Distillation for Self-Adaptive 3D Human Pose Estimation
