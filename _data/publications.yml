@@ -14,44 +14,44 @@
   author: R. Banerjee, S. Koti, G. Singh, A. Chakraborty, G. Gurrala, B. Jagyasi and Y. Simmhan
   pub: IEEE Conference on eScience (eScience), 2025 [Accepted]
   type: conference
-  project_page:
-  paper_link:
-  code_link:
-  bibtex:
+  project_page: 
+  paper_link: 
+  code_link: 
+  bibtex: 
 
 - paper: "Adaptive Self-Distillation for Minimizing Client Drift in Heterogeneous Federated Learning"
   author: M. Yashwanth, G. K. Nayak, A. Singh, Y. Simmhan, A. Chakraborty
   pub: Transactions on Machine Learning Research (TMLR) [Accepted]
   type: journal
-  project_page:
-  paper_link:
-  code_link:
+  project_page: https://www.youtube.com/watch?v=6ld6AKLsmY0
+  paper_link: https://arxiv.org/pdf/2305.19600
+  code_link: https://github.com/vcl-iisc/fed-adaptive-self-distillation
   bibtex:
 
 - paper: "DAD++: Improved Data-free Test Time Adversarial Defense"
   author: G. K. Nayak, I. Khatri, S. Randive, R. Rawal, A. Chakraborty
   pub: Neurocomputing [In press]
   type: journal
-  project_page:
-  paper_link:
-  code_link:
+  project_page: 
+  paper_link: https://arxiv.org/pdf/2309.05132
+  code_link: https://github.com/vcl-iisc/Improved-Data-free-Test-Time-Adversarial-Defense
   bibtex:
 
 - paper: "CARL: Cost-optimized Online Container Placement on VMs using Adversarial Reinforcement Learning"
   author: P. S. Vinayak, S. S. Mallick, J. Lakshmi, A. Chakraborty, Y. Simmhan
   pub: IEEE Transactions on Cloud Computing (TCC) [Accepted]
   type: journal
-  project_page:
-  paper_link:
+  project_page: 
+  paper_link: https://ieeexplore.ieee.org/document/10839070
   code_link:
   bibtex:
 
 - paper: "An Unsupervised Group Detection Method for Understanding Group Dynamics in Crowds"
   author: N. Choubey, A. Verma, A. Chakraborty
-  pub: Physica A:Statistical Mechanics and its Applications 655 (2024):130195
+  pub: Physica A: Statistical Mechanics and its Applications 655 (2024):130195
   type: journal
-  project_page:
-  paper_link:
+  project_page: 
+  paper_link: https://www.sciencedirect.com/science/article/pii/S0378437124007040?via%3Dihub
   code_link:
   bibtex:
 
@@ -60,7 +60,7 @@
   pub: International Conference on Pattern Recognition (ICPR), 2024
   type: conference
   project_page:
-  paper_link:
+  paper_link: https://link.springer.com/chapter/10.1007/978-3-031-78113-1_28
   code_link:
   bibtex:
 
@@ -68,8 +68,8 @@
   author: A. Tripathi, P. Shenoy, A. Chakraborty
   pub: European Conference on Computer Vision (ECCV), 2024
   type: conference
-  project_page:
-  paper_link:
+  project_page: https://youtu.be/_a9g1qA6XJI?si=aTXyBFVoP5CrRSxi
+  paper_link: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07587.pdf
   code_link:
   bibtex:
 
@@ -78,7 +78,7 @@
   pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2024
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/2211.01579
   code_link: 
   bibtex:
 
@@ -87,8 +87,8 @@
   pub: IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPR-W), 2024
   type: conference
   project_page:
-  paper_link: 
-  code_link: 
+  paper_link: https://arxiv.org/pdf/2404.11949
+  code_link: https://github.com/vl2g/Sketch-Inpainting
   bibtex:
 
 - paper: "Robust Few-shot Learning Without Using any Adversarial Samples" 
