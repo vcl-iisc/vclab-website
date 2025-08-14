@@ -89,7 +89,16 @@ details > summary {
 
 
 
+.flick-word {
+  color: #1a73e8; /* your desired hex text color */
+  animation: flickerHighlight 1.2s ease-in-out 1; /* runs once */
+}
 
+@keyframes flickerHighlight {
+  0%, 100% { background-color: transparent; }
+  20%, 40%, 60%, 80% { background-color: rgba(26, 115, 232, 0.2); }
+  10%, 30%, 50%, 70%, 90% { background-color: transparent; }
+}
 
 
 // details > p {
