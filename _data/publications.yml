@@ -312,7 +312,7 @@
   pub: International Conference on Computer Vision Workshops (ICCV-W), 2021
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/papers/Vinod_Multi-Domain_Conditional_Image_Translation_Translating_Driving_Datasets_From_Clear-Weather_to_ICCVW_2021_paper.pdf
   code_link: 
   bibtex:
 
@@ -330,7 +330,7 @@
   pub: International Conference on Image Processing (ICIP), 2021
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/9506769
   code_link: 
   bibtex:
 
@@ -338,7 +338,7 @@
   author:  G. K. Nayak*, M. K. Reddy*, A. Chakraborty (* Jointly first authored)
   pub: Winter Conference on Applications of Computer Vision (WACV), 2021
   type: conference
-  project_page:
+  project_page: https://www.youtube.com/watch?v=7qiLHdr1iLk
   paper_link: https://openaccess.thecvf.com/content/WACV2021/papers/Nayak_Effectiveness_of_Arbitrary_Transfer_Sets_for_Data-Free_Knowledge_Distillation_WACV_2021_paper.pdf
   code_link: 
   bibtex:
@@ -348,7 +348,7 @@
   pub: Proceedings of the Sixth International Conference of Transportation Research Group of India (CTRG).
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://link.springer.com/chapter/10.1007/978-981-19-4204-4_18
   code_link: 
   bibtex:
 
@@ -357,7 +357,7 @@
   pub: International Conference of Pattern Recognition Systems (ICPRS), 2021
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/9569015
   code_link: 
   bibtex:
 
@@ -366,7 +366,7 @@
   pub: Soft Computing for Problem Solving (SocProS), Advances in Intelligent Systems and Computing, 2021.
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://link.springer.com/chapter/10.1007/978-981-16-2712-5_36
   code_link: 
   bibtex:
 
@@ -375,7 +375,7 @@
   pub: British Machine Vision Conference (BMVC), 2020 (Oral)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://www.bmvc2020-conference.com/assets/papers/0423.pdf
   code_link: 
   bibtex:
 
@@ -393,7 +393,7 @@
   pub: European Conference on Computer Vision (ECCV), 2020 (Spotlight)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/2008.06551
   code_link: 
   bibtex:
 
@@ -401,9 +401,9 @@
   author: J. N. Kundu*, S. Seth*, V. Jampani, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
   pub: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020 (Oral)
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://sites.google.com/view/pgp-human
+  paper_link: https://openaccess.thecvf.com/content_CVPR_2020/papers/Kundu_Self-Supervised_3D_Human_Pose_Estimation_via_Part_Guided_Novel_Image_CVPR_2020_paper.pdf
+  code_link: https://drive.google.com/drive/folders/11TamTxe_U5e1TFzJurM3zLXwTJ1ZtxDF
   bibtex:
 
 - paper: "Kinematic-Structure-Preserved Representation for Unsupervised 3D Human Pose Estimation"
@@ -429,7 +429,7 @@
   pub: Winter Conference on Applications of Computer Vision (WACV), 2020
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://openaccess.thecvf.com/content_WACV_2020/papers/Aggarwal_Text-based_Person_Search_via_Attribute-aided_Matching_WACV_2020_paper.pdf
   code_link: 
   bibtex:
 
@@ -438,7 +438,7 @@
   pub: Winter Conference on Applications of Computer Vision (WACV), 2020 
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://openaccess.thecvf.com/content_WACV_2020/papers/Ramanathan_QUICKSAL_A_small_and_sparse_visual_saliency_model_for_efficient_WACV_2020_paper.pdf
   code_link: 
   bibtex:
 
@@ -447,7 +447,7 @@
   pub: International Conference on Computer Vision (ICCV), 2019 (Oral)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://openaccess.thecvf.com/content_ICCV_2019/papers/Singh_From_Strings_to_Things_Knowledge-Enabled_VQA_Model_That_Can_Read_ICCV_2019_paper.pdf
   code_link: 
   bibtex:
 
@@ -464,8 +464,8 @@
   author: A. Mishra, S. Shekhar, A. K. Singh, A. Chakraborty
   pub: International Conference on Document Analysis and Recognition (ICDAR), 2019 
   type: conference
-  project_page:
-  paper_link: 
+  project_page: https://ocr-vqa.github.io/
+  paper_link: https://anandmishra22.github.io/files/mishra-OCR-VQA.pdf
   code_link: 
   bibtex:
 
@@ -483,7 +483,7 @@
   pub: Computer Vision and Pattern Recognition Workshops (Deep Vision), pp. 27-36, 2019
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Pahuja_Enhancing_Salient_Object_Segmentation_Through_Attention_CVPRW_2019_paper.pdf
   code_link: 
   bibtex:
 
@@ -492,7 +492,7 @@
   pub: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 2472-2476, 2019 (Oral)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://klnavaneet.github.io/files/06-all-for-one.pdf
   code_link: 
   bibtex:
 
@@ -501,7 +501,7 @@
   pub: IEEE International Symposium on Circuits and Systems (ISCAS), 2019
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/8702581
   code_link: 
   bibtex:
 
@@ -510,7 +510,7 @@
   pub: NCVPRIPG, 2017 (Oral)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://link.springer.com/chapter/10.1007/978-981-13-0020-2_7
   code_link: 
   bibtex:
 
@@ -519,7 +519,7 @@
   pub: IEEE Transactions on Circuits and Systems for Video Technology (2017) 27(3):484-498
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/7583680
   code_link: 
   bibtex:
 
@@ -528,7 +528,7 @@
   pub: IEEE/ ACM Transactions on Computational Biology and Bioinformatics (2017) 14(2):457-467
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://pubmed.ncbi.nlm.nih.gov/26887008/
   code_link: 
   bibtex:
 
@@ -537,7 +537,7 @@
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence (2016) 38(9):1859-1871
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/7299668
   code_link: 
   bibtex:
 
@@ -546,7 +546,7 @@
   pub: Medical Image Analysis (2015) 19(1):149-163
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://www.sciencedirect.com/science/article/pii/S1361841514001467
   code_link: 
   bibtex:
 
@@ -555,7 +555,7 @@
   pub: 'PLoS ONE (2015) 10(5): e0125825'
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/1406.1476
   code_link: 
   bibtex:
 
@@ -564,7 +564,7 @@
   pub: Frontiers in Neuroinformatics (2014) 8(00034)
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2014.00034/full
   code_link: 
   bibtex:
 
@@ -573,7 +573,7 @@
   pub: 'PLoS ONE (2013) 8(8): e67202'
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://vcg.ece.ucr.edu/sites/default/files/2019-02/2013b.pdf
   code_link: 
   bibtex:
 
@@ -582,7 +582,7 @@
   pub: 'Molecular Plant (2011) 4(5): 922-931'
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://www.sciencedirect.com/science/article/pii/S1674205214607772?via%3Dihub
   code_link: 
   bibtex:
 
@@ -591,7 +591,7 @@
   pub: Winter Conference on Applications of Computer Vision (WACV), 2016
   type: conference
   project_page:
-  paper_link: 
+  paper_link: http://www.hamedkiani.com/uploads/5/1/8/8/51882963/176.pdf
   code_link: 
   bibtex:
 
@@ -600,7 +600,7 @@
   pub: International Conference on Image Processing (ICIP), 2016
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://vcg.ece.ucr.edu/sites/default/files/2019-02/icip2016_timeforecast.pdf
   code_link: 
   bibtex:
 
@@ -609,7 +609,7 @@
   pub: European Conference on Computer Vision (ECCV), 2014
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://vcg.ece.ucr.edu/sites/default/files/2019-02/eccv2014-2.pdf
   code_link: 
   bibtex:
 
@@ -618,7 +618,7 @@
   pub: Asian Conference on Computer Vision (ACCV), 2014.
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://rdcu.be/eAN9w
   code_link: 
   bibtex:
 
@@ -627,7 +627,7 @@
   pub: IEEE International Conference on Image Processing (ICIP), 2014.
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://ieeexplore.ieee.org/document/7025090
   code_link: 
   bibtex:
 
@@ -636,7 +636,7 @@
   pub: International Symposium on Biomedical Imaging (ISBI), 2013
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://vcg.engr.ucr.edu/sites/default/files/2019-02/isbi2013_katya.pdf
   code_link: 
   bibtex:
 
@@ -645,7 +645,7 @@
   pub: International Conference on Bioinformatics and Biomedicine (BIBM), 2011 (Oral)
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://vcg.ece.ucr.edu/sites/default/files/2019-02/bibm11-anirban.pdf
   code_link: 
   bibtex:
 
@@ -654,7 +654,7 @@
   pub: Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), 2010.
   type: conference
   project_page:
-  paper_link: 
+  paper_link: https://dl.acm.org/doi/10.1145/1924559.1924584
   code_link: 
   bibtex:
 
@@ -665,7 +665,7 @@
   pub: Video Bioinformatics, Springer International Publishing, 2015
   type: Book Chapters
   project_page:
-  paper_link: 
+  paper_link: https://link.springer.com/chapter/10.1007/978-3-319-23724-4_12
   code_link: 
   bibtex:
 
@@ -674,6 +674,6 @@
   pub: 'Plant Signalling Networks: Methods and Protocols, Springer Protocols 2012'
   type: Book Chapters
   project_page:
-  paper_link: 
+  paper_link: https://link.springer.com/protocol/10.1007/978-1-61779-809-2_18
   code_link: 
   bibtex:
