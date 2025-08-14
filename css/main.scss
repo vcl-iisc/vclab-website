@@ -63,6 +63,37 @@ details > summary {
   // cursor: pointer;
 }
 
+
+
+
+
+
+/* Subtle concrete/contrast gray page background */
+html, body {
+  background-color: #f2f2f2; /* tweak: #efefef or #ececec for slightly darker */
+}
+
+/* Thin red line at the very top */
+.top-accent {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;          /* “single line”; change to 2px if you want thinner */
+  background: #d90429;  /* red; swap to #ff0000 for pure red */
+  z-index: 10000;
+}
+
+/* Prevent the bar from overlapping your navbar/hero by adding top padding */
+body {
+  padding-top: 4px;   /* match .top-accent height */
+}
+
+
+
+
+
+
 // details > p {
 //   border-radius: 0 0 10px 10px;
 //   background-color: #ddd;
