@@ -230,9 +230,9 @@
   author: J. N. Kundu, S. Seth, A. Jamkhandi, Y. M. Pradyumna, V. Jampani, A. Chakraborty, R. Venkatesh Babu
   pub: Advances in Neural Information Processing Systems (NeurIPS), 2021.
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://sites.google.com/view/sa3dhp
+  paper_link: https://proceedings.neurips.cc/paper/2021/file/018b59ce1fd616d874afad0f44ba338d-Paper.pdf
+  code_link: https://drive.google.com/drive/folders/1FG_YiHaG9njF6CBKjNkDWPwUBGAYvKay
   bibtex:
 
 - paper: 'MMD-ReID: A Simple but Effective Solution for Visible-Thermal Person ReID'
@@ -244,12 +244,12 @@
   code_link: https://github.com/vcl-iisc/MMD-ReID
   bibtex:   
 
-- paper: Robust Gait Based Human Identification on Incomplete and Multi-view Sequences
+- paper: "Robust Gait Based Human Identification on Incomplete and Multi-view Sequences"
   author: U. Shreemali, A. Chakraborty
   pub: 'Multimedia Tools and Applications (2020) 80(7): 10141-10166.'
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://link.springer.com/article/10.1007/s11042-020-10132-z
   code_link: 
   bibtex:
 
@@ -258,16 +258,16 @@
   pub: 'Multimedia Tools and Applications (2020) 79(3): 2473-2493.'
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://link.springer.com/article/10.1007/s11042-019-08388-1
   code_link: 
   bibtex:
 
-- paper: Operator-in-the-Loop Deep Sequential Multi-Camera Feature Fusion for Person Re-Identification
+- paper: "Operator-in-the-Loop Deep Sequential Multi-Camera Feature Fusion for Person Re-Identification"
   author: K. L. Navaneet, R. K. Sarvadevabhatla, S. Shekhar, R. Venkatesh Babu
   pub: 'IEEE Transactions on Information Forensics & Security (2019) 15: 2375-2385'
   type: journal
   project_page:
-  paper_link: 
+  paper_link: https://arxiv.org/pdf/1807.07295
   code_link: 
   bibtex:
 
@@ -275,18 +275,18 @@
   author: A. Lakshmi, A. Chakraborty, C. S. Thakur
   pub: 'Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery (2019) 9(4): p.e1310.'
   type:  journal
-  project_page:
-  paper_link: 
+  project_page: 
+  paper_link: https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1310
   code_link: 
   bibtex:
 
-- paper: Pose Transformation and Radial Distance Clustering for Unsupervised Person Re-identification
+- paper: "Pose Transformation and Radial Distance Clustering for Unsupervised Person Re-identification"
   author: S. Seth, A. Sonth, A. Chakraborty
   pub: British Machine Vision Conference (BMVC), 2021
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://sites.google.com/view/posereid/home
+  paper_link: https://www.bmvc2021-virtualconference.com/assets/papers/1502.pdf
+  code_link: https://drive.google.com/file/d/104QBu0j07gmqxaP9bYf6fklQn90DRsK4/view
   bibtex:
 
 - paper: Incremental Learning for Animal Pose Estimation using RBF k-DPP
@@ -410,9 +410,9 @@
   author: J. N. Kundu*, S. Seth*, R. M. Venkatesh*, R. Mugalodi, R. Venkatesh Babu, A. Chakraborty (* Jointly first authored)
   pub: Conference of the American Association for Artificial Intelligence (AAAI), 2020 (Oral)
   type: conference
-  project_page:
-  paper_link: 
-  code_link: 
+  project_page: https://sites.google.com/view/ksp-human
+  paper_link: https://arxiv.org/pdf/2006.14107
+  code_link: https://drive.google.com/drive/folders/1aN_OvIGmnPG6YMiFN5k73xcUOWouwFf8
   bibtex:
 
 - paper: 'DeGAN : Data-enriching GAN for retrieving Representative Samples from a Trained Classifier'
