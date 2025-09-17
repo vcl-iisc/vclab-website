@@ -9,7 +9,15 @@
 
 
 ################### Coferences and Journals ###################
-
+- paper: "FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation"
+  author: M Yashwanth, Sampath Koti, Arunabh Singh, Shyam Marjit, Anirban Chakraborty.
+  pub: Winter Conference on Applications of Computer Vision (WACV), 2025 [Accepted]
+  type: conference
+  project_page: 
+  paper_link: [Coming Soon]
+  code_link: 
+  bibtex: 
+  
 - paper: "Optimizing Federated Learning for Scalable Power-demand Forecasting in Microgrids"
   author: R. Banerjee, S. Koti, G. Singh, A. Chakraborty, G. Gurrala, B. Jagyasi and Y. Simmhan
   pub: IEEE Conference on eScience (eScience), 2025 [Accepted, Best paper finalist]
