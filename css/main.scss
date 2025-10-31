@@ -101,6 +101,41 @@ details > summary {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+/* new utilities for the homepage layout */
+.row.home-flex {
+  display: flex;
+  align-items: flex-start;   /* keep items top-aligned */
+  flex-wrap: wrap;           /* allow responsive stacking on small screens */
+}
+
+/* ensure bootstrap column children behave as expected */
+.row.home-flex > .col-sm-7,
+.row.home-flex > .col-sm-5 {
+  display: block;
+}
+
+/* nudge the right column down so the Latest News header aligns with the carousel */
+.row.home-flex > #newsid {
+  padding-top: 48px; /* adjust this value to taste (try 32px, 48px, 64px) */
+  box-sizing: border-box;
+}
+
+/* if contact is below news inside the same column, you can target inner panels */
+.row.home-flex > #newsid .panel,
+.row.home-flex > #newsid .well {
+  box-sizing: border-box;
+}
+
 // details > p {
 //   border-radius: 0 0 10px 10px;
 //   background-color: #ddd;
