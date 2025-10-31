@@ -29,19 +29,19 @@ Outcome: Gradient inversion attack in ViT prompt tuning.
 
 🔗 Contact person for more details: M. Yashwanth (Mail: <a href="mailto:yashwanthm@iisc.ac.in">yashwanthm@iisc.ac.in</a>)
 
+<br>
 
 #### ✨ Project Title-4: "Federated Aggregation via EPO Search for Multi-objective learning"
 Details: In multi-objective optimization, the solution can converge to different points on the Pareto front depending upon the preferences given to various objectives. This idea has been extended to federated learning, where each client carries out multi-objective optimization (MOO) over a shared set of tasks via EPO (Exact Pareto Optimal) search. However, the clients may not share the set of tasks. Therefore, it is more reasonable to view each client as a separate lone objective and let the server conduct an EPO search over its model parameters to satisfy each client’s preferences (some modeled utility). However, the present EPO search methods show slow convergence against traditional FL methods due to gradient ascent and descent steps, and a fast-converging EPO search algorithm is an open problem.
 
 🔗 Contact person for more details: M. Yashwanth (Mail: <a href="mailto:yashwanthm@iisc.ac.in">yashwanthm@iisc.ac.in</a>)
 
-
+<br>
 
 #### ✨ Project Title-5: "Towards Robust MultiModal Large Language Modelling"
 Details: Develop a Multimodal LLM robust and generalisable towards any visual modality, not just natural images. Current MLLMs fail to generalize to modalities like sketches, segmentation maps, edge maps etc. 1) Exploration and analysis: how good are current MLLMs? 2) Developing training regimes which force models to prefer shape:  3) Benchmarking: have we reduced texture bias? Does that allow us to transfer to unseen modalities? How well do we do on unseen classes?
 
 Expected Outcome: A practical recipe which gives us more robust MLLMs, which not only allows us to use MLLMs on relatively special modalities like thermal images, depth maps etc, but also improves open-set performance (on unseen classes) since we now have shape-to-shape correspondence.
-
 
 🔗 Contact person for more details: Rishi Gupta (Mail: <a href="mailto:shyam.marjit@iisc.ac.in">rishig@iisc.ac.in</a>)
 
