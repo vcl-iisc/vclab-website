@@ -54,7 +54,19 @@
 
 ########################## Project Assistants ##########################
 
+- name: Dheeraj Baiju
+  photo: dheeraj_baiju.png
+  position: Project Assistant
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/dheeraj-baiju-714192347/
+  past: Software Engineer at Myntra
 
+- name: Anuj Shikarkhane
+  photo: anuj_shikarkhane.png
+  position: Project Assistant
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/anuj-shikarkhane-b12323223/
+  past: BITS Pilani, Goa Campus
 
 - name: Ruthvik Bokkasam
   photo: ruthvik_bokkasam.png
@@ -68,7 +80,7 @@
   position: Project Assistant
   year: 2024-Present
   linkedin: https://www.linkedin.com/in/arunabh-singh-637a931b9/
-  past: BITS Pilani Hyderabad Campus
+  past: BITS Pilani, Hyderabad Campus
   
 ############################### Interns ###############################
 
