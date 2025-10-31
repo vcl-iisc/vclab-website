@@ -111,39 +111,36 @@ details > summary {
 
 
 
-/* homepage two-column flex container */
+/* home alignment - plain CSS version (safe to drop into css/*.css) */
 .row.home-flex {
   display: flex;
   align-items: flex-start;
   flex-wrap: wrap;
 }
 
-/* ensure bootstrap col children behave as expected */
 .row.home-flex > .col-sm-7,
 .row.home-flex > .col-sm-5 {
   display: block;
 }
 
-/* desktop: push the right column down slightly so Latest News aligns with carousel */
 @media (min-width: 768px) {
   .row.home-flex > #newsid {
-    padding-top: 48px; /* adjust value to taste; 32-64px range is common */
+    padding-top: 48px;
     box-sizing: border-box;
   }
 }
 
-/* small screens: remove the top padding so the stacked layout is tight */
 @media (max-width: 767.98px) {
   .row.home-flex > #newsid {
     padding-top: 0;
   }
 }
 
-/* optional: ensure inner panels don't overflow */
 .row.home-flex > #newsid .panel,
 .row.home-flex > #newsid .well {
   box-sizing: border-box;
 }
+
 
 
 // details > p {
