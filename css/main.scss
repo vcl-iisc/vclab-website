@@ -123,16 +123,33 @@ details > summary {
   display: block;
 }
 
+// @media (min-width: 768px) {
+//   .row.home-flex > #newsid {
+//     padding-top: 48px;
+//     box-sizing: border-box;
+//   }
+// }
+
+// @media (max-width: 767.98px) {
+//   .row.home-flex > #newsid {
+//     padding-top: 0;
+//   }
+// }
+
 @media (min-width: 768px) {
-  .row.home-flex > #newsid {
-    padding-top: 48px;
+  /* assumes carousel sits inside #homeid #carousel */
+  /* this uses CSS only; but height must be known — we set min-height via CSS var fallback */
+  #newsid {
+    /* start with a reasonable top-nudge */
+    padding-top: 32px;
+    min-height: 420px; /* tweak to match your carousel height; change as needed */
     box-sizing: border-box;
   }
 }
-
 @media (max-width: 767.98px) {
-  .row.home-flex > #newsid {
+  #newsid {
     padding-top: 0;
+    min-height: auto;
   }
 }
 
