@@ -87,6 +87,10 @@ details > summary {
   font-weight: 500;
 }
 
+.row.text-center .accent-text {
+  margin-bottom: 2px;   /* ↓ reduced from ~6px → 2px */
+}
+
 
 
 .flick-word {
