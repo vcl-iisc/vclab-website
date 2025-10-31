@@ -91,6 +91,15 @@ details > summary {
   margin-bottom: 0px;   /* ↓ reduced from ~6px → 2px */
 }
 
+.row.home-flex {
+  margin-top: 0px;     /* remove top gap before the two-column section */
+}
+
+#newsid {
+  padding-top: 4px;             /* fine-tune internal padding if needed */
+}
+
+
 
 
 .flick-word {
