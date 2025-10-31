@@ -111,30 +111,40 @@ details > summary {
 
 
 
-/* new utilities for the homepage layout */
+/* homepage two-column flex container */
 .row.home-flex {
   display: flex;
-  align-items: flex-start;   /* keep items top-aligned */
-  flex-wrap: wrap;           /* allow responsive stacking on small screens */
+  align-items: flex-start;
+  flex-wrap: wrap;
 }
 
-/* ensure bootstrap column children behave as expected */
+/* ensure bootstrap col children behave as expected */
 .row.home-flex > .col-sm-7,
 .row.home-flex > .col-sm-5 {
   display: block;
 }
 
-/* nudge the right column down so the Latest News header aligns with the carousel */
-.row.home-flex > #newsid {
-  padding-top: 48px; /* adjust this value to taste (try 32px, 48px, 64px) */
-  box-sizing: border-box;
+/* desktop: push the right column down slightly so Latest News aligns with carousel */
+@media (min-width: 768px) {
+  .row.home-flex > #newsid {
+    padding-top: 48px; /* adjust value to taste; 32-64px range is common */
+    box-sizing: border-box;
+  }
 }
 
-/* if contact is below news inside the same column, you can target inner panels */
+/* small screens: remove the top padding so the stacked layout is tight */
+@media (max-width: 767.98px) {
+  .row.home-flex > #newsid {
+    padding-top: 0;
+  }
+}
+
+/* optional: ensure inner panels don't overflow */
 .row.home-flex > #newsid .panel,
 .row.home-flex > #newsid .well {
   box-sizing: border-box;
 }
+
 
 // details > p {
 //   border-radius: 0 0 10px 10px;
