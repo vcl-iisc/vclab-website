@@ -59,7 +59,7 @@ Reference papers: [GS‑LRM (transformer LRM)](https://arxiv.org/abs/2404.19702)
 
 <br>
 
-#### ✨ Project Title-7: "Scene‑Scale and Memory‑Bounded Feed‑Forward 3DGS"
+#### ✨ Project Title-7: "Blur Robust Feed‑Forward GS"
 Details: Learn camera‑aware features and exposure‑time models so a feed‑forward network can reconstruct sharp Gaussians from defocus/motion‑blurred and rolling‑shutter video without per‑scene optimization.
 
 Reference papers: [DOF‑GS (defocus modeling)](https://arxiv.org/abs/2405.17351)
