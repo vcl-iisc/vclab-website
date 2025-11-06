@@ -6,7 +6,7 @@ sitemap: false
 permalink: /mtech_projects/
 ---
 
-### Please fill in the form [here](https://forms.gle/jCFfV8u8tSPtGGd36) by uploading your detailed CV and a statement of purpose.
+### Please fill in the form [here](https://forms.gle/jCFfV8u8tSPtGGd36) by uploading your detailed CV and a statement of purpose. This form will be open until 15th November.
 
 <br>
 
