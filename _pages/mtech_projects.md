@@ -78,3 +78,5 @@ Expected learning outcomes: Hands-on Knowledge of transformers, blur modelling, 
 
 
 <br>
+
+**What are we looking for in applicants:** The ideal candidates should be conversant in fundamental mathematical topics such as probability and statistics, linear algebra, multivariable calculus, convex optimization etc. They must be proficient in Python, NumPy/SciPy, Scikit-learn and should possess at least beginner's knowledge in PyTorch or TensorFlow. Prior hands-on experience with machine learning and/or computer vision projects will be highly desirable.
