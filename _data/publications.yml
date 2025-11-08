@@ -11,23 +11,22 @@
 ################### Coferences and Journals ###################
 
 - paper: "O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model"
-  author: R. Gupta, M. Karuppasamy, S. Marjit, A. Tripathi, A. Chakraborty
-  pub: AAAI Conference on Artificial Intelligence (AAAI), 2026 [Accepted]
-  type: conference
-  project_page: 
+  author: "R. Gupta, M. Karuppasamy, S. Marjit, A. Tripathi, A. Chakraborty"
+  pub: "AAAI Conference on Artificial Intelligence (AAAI), 2026 [Accepted]"
+  type: "conference"
+  project_page: ""
   paper_link: "Coming Soon"
-  code_link: 
-  bibtex:
-
+  code_link: ""
+  bibtex: ""
 
 - paper: "FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation"
-  author: M Yashwanth, S. Koti, A. Singh, S. Marjit, A. Chakraborty
-  pub: Winter Conference on Applications of Computer Vision (WACV), 2025 [Accepted]
-  type: conference
-  project_page: 
+  author: "M. Yashwanth, S. Koti, A. Singh, S. Marjit, A. Chakraborty"
+  pub: "Winter Conference on Applications of Computer Vision (WACV), 2025 [Accepted]"
+  type: "conference"
+  project_page: ""
   paper_link: "Coming Soon"
-  code_link: 
-  bibtex: 
+  code_link: ""
+  bibtex: ""
   
 - paper: "Optimizing Federated Learning for Scalable Power-demand Forecasting in Microgrids"
   author: R. Banerjee, S. Koti, G. Singh, A. Chakraborty, G. Gurrala, B. Jagyasi and Y. Simmhan
