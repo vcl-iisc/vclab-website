@@ -9,8 +9,19 @@
 
 
 ################### Coferences and Journals ###################
+
+- paper: "O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model"
+  author: R. Gupta, M. Karuppasamy, S. Marjit, A. Tripathi, A. Chakraborty
+  pub: AAAI Conference on Artificial Intelligence (AAAI), 2026 [Accepted]
+  type: conference
+  project_page: 
+  paper_link: [Coming Soon]
+  code_link: 
+  bibtex:
+
+
 - paper: "FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation"
-  author: M Yashwanth, Sampath Koti, Arunabh Singh, Shyam Marjit, Anirban Chakraborty.
+  author: M Yashwanth, S. Koti, A. Singh, S. Marjit, A. Chakraborty
   pub: Winter Conference on Applications of Computer Vision (WACV), 2025 [Accepted]
   type: conference
   project_page: 
