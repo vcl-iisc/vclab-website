@@ -16,7 +16,7 @@
   type: "conference"
   project_page: "https://vcl-iisc.github.io/O3SLM/"
   paper_link: "Coming Soon"
-  code_link: ""
+  code_link: "https://github.com/vcl-iisc/O3SLM_code"
   bibtex: ""
 
 - paper: "FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation"
@@ -25,7 +25,7 @@
   type: "conference"
   project_page: "https://vcl-iisc.github.io/FedSCAl"
   paper_link: "Coming Soon"
-  code_link: ""
+  code_link: "https://github.com/vcl-iisc/SCAl"
   bibtex: ""
   
 - paper: "Optimizing Federated Learning for Scalable Power-demand Forecasting in Microgrids"
