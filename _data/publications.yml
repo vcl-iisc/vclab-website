@@ -8,7 +8,16 @@
   bibtex: 
 
 
-################### Coferences and Journals ###################
+################### Conferences and Journals ###################
+
+- paper: "Prompt Estimation from Prototypes for Federated Prompt Tuning of Vision Transformers"
+  author: "M. Yashwanth, S. Ghosh, A. Tripathi, A. Chakraborty"
+  pub: "Transactions on Machine Learning Research (TMLR) [Accepted]"
+  type: "journal"
+  project_page: ""
+  paper_link: "https://openreview.net/pdf?id=gO1CpPRj6A"
+  code_link: ""
+  bibtex: ""
 
 - paper: "O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model"
   author: "R. Gupta, M. Karuppasamy, S. Marjit, A. Tripathi, A. Chakraborty"
@@ -39,7 +48,7 @@
 
 - paper: "Adaptive Self-Distillation for Minimizing Client Drift in Heterogeneous Federated Learning"
   author: M. Yashwanth, G. K. Nayak, A. Singh, Y. Simmhan, A. Chakraborty
-  pub: Transactions on Machine Learning Research (TMLR) [Accepted]
+  pub: Transactions on Machine Learning Research (TMLR)
   type: journal
   project_page: https://www.youtube.com/watch?v=6ld6AKLsmY0
   paper_link: https://arxiv.org/pdf/2305.19600
