@@ -48,9 +48,19 @@
   google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=nCG3kQkAAAAJ
 
 
+- name: Ritik Kumar Badiya
+  research_area: Federated learning
+  photo: ritik_badiya.jpg 
+  position: M. Tech.
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/ritik-kumar-badiya-6428661b4/
 
-
-
+- name: Tamaghna Mandal
+  research_area: In-Context Learning in VLM
+  photo: tamaghna_mandal.jpg 
+  position: M. Tech.
+  year: 2025-Present
+  linkedin: https://www.linkedin.com/in/tamaghna-mandal-150a23260/
 
 ########################## Project Assistants ##########################
 
