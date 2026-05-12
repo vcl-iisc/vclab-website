@@ -51,16 +51,24 @@
 - name: Ritik Kumar Badiya
   research_area: Federated learning
   photo: ritik_badiya.jpg 
-  position: M. Tech.
+  position: M. Tech. (CDS)
   year: 2025-Present
   linkedin: https://www.linkedin.com/in/ritik-kumar-badiya-6428661b4/
 
 - name: Tamaghna Mandal
   research_area: In-Context Learning in VLM
   photo: tamaghna_mandal.jpg 
-  position: M. Tech.
+  position: M. Tech. (CDS)
   year: 2025-Present
   linkedin: https://www.linkedin.com/in/tamaghna-mandal-150a23260/
+
+  # - name: Batakala Ashok
+  # research_area: Reshaping humans in video
+  # photo: batakala-ashok.jpg
+  # position: M. Tech. (CDS)
+  # year: 2022-24
+  # affiliation: Data Scientist at Netradyne
+  # url: https://ashokbatakala.github.io/
 
 ########################## Project Assistants ##########################
 
