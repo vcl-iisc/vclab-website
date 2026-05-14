@@ -37,7 +37,8 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% elsif member.linkedin %}
+    {% endif %}
+    {% if member.url == nil and member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
@@ -117,7 +118,8 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% elsif member.linkedin %}
+    {% endif %}
+    {% if member.url == nil and member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
@@ -165,7 +167,8 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% elsif member.linkedin %}
+    {% endif %}
+    {% if member.url == nil and member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
@@ -214,7 +217,8 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% elsif member.linkedin %}
+    {% endif %}
+    {% if member.url == nil and member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
@@ -261,7 +265,8 @@ permalink: /team/
   <ul class="list-inline list-unstyled">
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% elsif member.linkedin %}
+    {% endif %}
+    {% if member.url == nil and member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
