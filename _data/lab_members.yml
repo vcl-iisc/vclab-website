@@ -58,6 +58,13 @@
   google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=nCG3kQkAAAAJ
 
 
+- name: Anish Chaudhary
+  research_area: Composed Image Retrieval
+  photo: anish_chaudhary.jpg 
+  position: M. Tech. (CDS)
+  year: 2025-Present
+  # url: https://in.url.com/in/arkahaldi
+
 - name: Ritik Kumar Badiya
   research_area: Federated learning
   photo: ritik_badiya.jpg 
