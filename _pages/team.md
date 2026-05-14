@@ -286,6 +286,8 @@ permalink: /team/
     {% endif %}
     {% if member.url %}
       <li><b><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i><br>{{ work_type }}: <i>{{ member.worked_on }}</i></li>
+    {% elsif member.linkedin %}
+      <li><b><a href="{{ member.linkedin }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i><br>{{ work_type }}: <i>{{ member.worked_on }}</i></li>
     {% else %}
       <li><b>{{ member.name }}</b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i><br>{{ work_type }}: <i>{{ member.worked_on }}</i></li>
     {% endif %}
@@ -300,6 +302,8 @@ permalink: /team/
   {% if member.position=="Project Assistant" %}
     {% if member.url %}
       <li><b><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
+    {% elsif member.linkedin %}
+      <li><b><a href="{{ member.linkedin }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
     {% else %}
       <li><b>{{ member.name }}</b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
     {% endif %}
@@ -314,6 +318,8 @@ permalink: /team/
   {% if member.position=="Intern" %}
     {% if member.url %}
       <li><b><a href="{{ member.url }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
+    {% elsif member.linkedin %}
+      <li><b><a href="{{ member.linkedin }}" target="_blank">{{ member.name }}</a></b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
     {% else %}
       <li><b>{{ member.name }}</b>, {{ member.position }} ({{ member.year }}), Current: <i>{{ member.affiliation}}</i> </li>
     {% endif %}
