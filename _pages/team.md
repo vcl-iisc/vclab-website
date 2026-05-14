@@ -27,20 +27,15 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left; padding: 5px" />
 
 
-  <h4><b>{{ member.name }}</b></h4>
+  <h4><b>{% if member.url %}<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</b></h4>
 
   <i><b>{{ member.info }}</b></i>
   <i><br><b>{{ member.affl }}</b></i>
   <i><br>E-Mail: {{ member.email }}</i>
   
   <ul class="list-inline list-unstyled">
-    <!-- Twitter -->
-    {% if member.url %}
-        <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% else %}
-        {% if member.linkedin %}
-            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
-        {% endif %}
+    {% if member.url == nil and member.linkedin %}
+        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -111,18 +106,13 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
-  <h5><b>{{ member.name }} </b></h5>
+  <h5><b>{% if member.url %}<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</b></h5>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
   Research Area: <i>{{ member.research_area }} <br></i>
   <ul class="list-inline list-unstyled">
-    <!-- Twitter -->
-    {% if member.url %}
-        <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% else %}
-        {% if member.linkedin %}
-            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
-        {% endif %}
+    {% if member.url == nil and member.linkedin %}
+        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -161,18 +151,13 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
-  <h5><b>{{ member.name }} </b></h5>
+  <h5><b>{% if member.url %}<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</b></h5>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
   Research Area: <i>{{ member.research_area }} <br></i>
   <ul class="list-inline list-unstyled">
-    <!-- Twitter -->
-    {% if member.url %}
-        <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% else %}
-        {% if member.linkedin %}
-            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
-        {% endif %}
+    {% if member.url == nil and member.linkedin %}
+        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -211,19 +196,14 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
-  <h5><b>{{ member.name }} </b></h5>
+  <h5><b>{% if member.url %}<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</b></h5>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
   Past: <i>{{ member.past }} <br></i>
 
   <ul class="list-inline list-unstyled">
-    <!-- Twitter -->
-    {% if member.url %}
-        <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% else %}
-        {% if member.linkedin %}
-            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
-        {% endif %}
+    {% if member.url == nil and member.linkedin %}
+        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -262,17 +242,13 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
-  <h5><b>{{ member.name }} </b></h5>
+  <h5><b>{% if member.url %}<a href="{{ member.url }}" target="_blank">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</b></h5>
 
   <i>{{ member.position }} ({{ member.year }}) <br></i>
 
   <ul class="list-inline list-unstyled">
-    {% if member.url %}
-        <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% else %}
-        {% if member.linkedin %}
-            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
-        {% endif %}
+    {% if member.url == nil and member.linkedin %}
+        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
