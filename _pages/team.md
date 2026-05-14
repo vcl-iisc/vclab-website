@@ -37,9 +37,10 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    {% if member.url == nil and member.linkedin %}
-        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+    {% else %}
+        {% if member.linkedin %}
+            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+        {% endif %}
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -118,9 +119,10 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    {% if member.url == nil and member.linkedin %}
-        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+    {% else %}
+        {% if member.linkedin %}
+            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+        {% endif %}
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -167,9 +169,10 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    {% if member.url == nil and member.linkedin %}
-        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+    {% else %}
+        {% if member.linkedin %}
+            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+        {% endif %}
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -217,9 +220,10 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    {% if member.url == nil and member.linkedin %}
-        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+    {% else %}
+        {% if member.linkedin %}
+            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+        {% endif %}
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
@@ -265,9 +269,10 @@ permalink: /team/
   <ul class="list-inline list-unstyled">
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    {% if member.url == nil and member.linkedin %}
-        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+    {% else %}
+        {% if member.linkedin %}
+            <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+        {% endif %}
     {% endif %}
     {% if member.google_scholar %}
         <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
