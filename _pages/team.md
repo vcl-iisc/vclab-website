@@ -8,10 +8,10 @@ permalink: /team/
 
 # Group Members
 
- **We are looking for new PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are looking for new PostDocs, PhD students, Master students, Project Assistants and Interns to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-##### Jump to [Convenor](#lab-head), [PhD/Masters student](#phd-masters-student), [Research Project Assistants](#research-project-assistants), [Alumni](#alumni)
+##### Jump to [Convenor](#lab-head), [PostDocs](#postdocs), [PhD/Masters student](#phd-masters-student), [Research Project Assistants](#research-project-assistants), [Alumni](#alumni)
 
 ## Convenor
 {% assign number_printed = 0 %}
@@ -37,9 +37,7 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    <!-- Linkedin -->
-    {% if member.linkedin %}
+    {% elsif member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
@@ -97,7 +95,55 @@ permalink: /team/
 
 ## Current Members
 
-### PhD/Master's Students
+<h3 id="postdocs">PostDocs</h3>
+
+{% assign number_printed = 0 %}
+{% for member in site.data.lab_members %}
+{% if member.position=="PostDoc" %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="37%" style="float: left; padding: 5px" />
+  <h5><b>{{ member.name }} </b></h5>
+
+  <i>{{ member.position }} ({{ member.year }}) <br></i>
+  Research Area: <i>{{ member.research_area }} <br></i>
+  <ul class="list-inline list-unstyled">
+    <!-- Twitter -->
+    {% if member.url %}
+        <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
+    {% elsif member.linkedin %}
+        <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
+    {% endif %}
+    {% if member.google_scholar %}
+        <li><a target="blank" href="{{member.google_scholar}}"><i class="fa-lg fab fa-google"></i></a></li>
+    {% endif %}
+  </ul>
+
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<br>
+
+<h3 id="phd-masters-student">PhD/Master's Students</h3>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.lab_members %}
@@ -119,9 +165,7 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    <!-- Linkedin -->
-    {% if member.linkedin %}
+    {% elsif member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
@@ -170,9 +214,7 @@ permalink: /team/
     <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    <!-- Linkedin -->
-    {% if member.linkedin %}
+    {% elsif member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
@@ -217,12 +259,9 @@ permalink: /team/
   <i>{{ member.position }} ({{ member.year }}) <br></i>
 
   <ul class="list-inline list-unstyled">
-    <!-- Twitter -->
     {% if member.url %}
         <li><a target="blank" href="{{member.url}}"><i class="fa-lg fas fa-globe  "></i></a></li>
-    {% endif %}
-    <!-- Linkedin -->
-    {% if member.linkedin %}
+    {% elsif member.linkedin %}
         <li><a target="blank" href="{{member.linkedin}}"><i class="fa-lg fab fa-linkedin"></i></a></li>
     {% endif %}
     {% if member.google_scholar %}
