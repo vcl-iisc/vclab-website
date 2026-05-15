@@ -8,6 +8,13 @@
   url: https://sadimanna.github.io/
 
 
+- name: Dr. Appan Rakaraddi
+  research_area: Visual Grounding in VLMs
+  photo: appan_rakaraddi.jpg 
+  position: PostDoc
+  year: 2025-Present
+  url: https://www.linkedin.com/in/appan-rakaraddi-597905136/
+
 ############################ PHD STUDENTS ############################
 
 - name: M. Yashwanth
@@ -61,6 +68,13 @@
 - name: Anish Chaudhary
   research_area: Composed Image Retrieval
   photo: anish_chaudhary.jpg 
+  position: M. Tech. (CDS)
+  year: 2025-Present
+  url: https://in.linkedin.com/in/anish-chaudhary-b6035a21a
+
+- name: Anay Loya
+  research_area: Sketch based Animation Creation
+  photo: anay_loya.jpg
   position: M. Tech. (CDS)
   year: 2025-Present
   # url: https://in.url.com/in/arkahaldi
