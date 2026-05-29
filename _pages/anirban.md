@@ -5,7 +5,7 @@ permalink: /anirban/
 sitemap: false
 excerpt: "Anirban Chakraborty - Associate Professor, VCLab"
 image: AnirbanChakraborty.png
-role: "Associate Professor"
+#role: "Associate Professor"
 category: faculty
 social:
   google-scholar: "https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en"
@@ -17,8 +17,6 @@ education:
   - "B.E., Electrical Engineering, Jadavpur University"
 ---
 
-# Anirban Chakraborty
-
 I am an Associate Professor in the [Department of Computational and Data Sciences (CDS)](http://cds.iisc.ac.in), Indian Institute of Science, Bangalore and the convenor of the [Visual Computing Lab (VCL)](http://visual-computing.in). From December 2016 to June 2017, I worked as a researcher at Robert Bosch Research and Technology Centre, India. Prior to that, I was a research fellow in the [Rapid-Rich Object Search (ROSE)](https://www.ntu.edu.sg/rose) Lab at Nanyang Technological University, Singapore working on large-scale, deployable video surveillance systems. From October 2014 to November 2015, I worked as a post-doctoral fellow in the A*STAR-NUS [Clinical Imaging Research Centre](http://www.circ.nus.edu.sg) at National University of Singapore. I completed my Ph.D. in Electrical Engineering from the [University of California, Riverside](http://www.ucr.edu) under the supervision of [Prof. Amit K. Roy-Chowdhury](https://vcg.engr.ucr.edu/amit) in August 2014. I obtained my M.S. from the same institute in 2010 and prior to that, my bachelors in Electrical Engineering from [Jadavpur University](http://www.jaduniv.edu.in), Kolkata, India.
 
 Contact
@@ -26,7 +24,7 @@ Contact
 - Convenor, [Visual Computing Lab](http://visual-computing.in)
 - Room no. 205, Department of Computational and Data Sciences (CDS), Indian Institute of Science (IISc), Bangalore, India 560012
 - E-mail: anirban@iisc.ac.in
-- [Google Scholar](https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en) • [LinkedIn](https://sg.linkedin.com/in/anirban-chakraborty-629a1833) • [CV]()
+- [Google Scholar](https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en)   • [LinkedIn](https://sg.linkedin.com/in/anirban-chakraborty-629a1833)   • [CV]()
 
 ## Research Interests
 
