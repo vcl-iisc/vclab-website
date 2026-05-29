@@ -1,49 +1,42 @@
 ---
+layout: member
 title: "Anirban Chakraborty"
-layout: homelay
-excerpt: "Anirban Chakraborty - Associate Professor, VCLab"
-sitemap: false
 permalink: /anirban/
+sitemap: false
+excerpt: "Anirban Chakraborty - Associate Professor, VCLab"
+image: AnirbanChakraborty.png
+role: "Associate Professor"
+category: faculty
+social:
+  google-scholar: "https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en"
+  linkedin: "https://sg.linkedin.com/in/anirban-chakraborty-629a1833"
+  website: ""
+education:
+  - "Ph.D., Electrical Engineering, University of California, Riverside (2014)"
+  - "M.S., University of California, Riverside (2010)"
+  - "B.E., Electrical Engineering, Jadavpur University"
 ---
 
 # Anirban Chakraborty
 
-<div class="row">
-<div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/AnirbanChakraborty.png" width="100%" style="border-radius: 8px;" />
-  <br/><br/>
-  <b>Associate Professor</b><br/>
-  Convenor, <a href="http://visual-computing.in">Visual Computing Lab</a><br/>
-  Room no. 205<br/>
-  <a href="http://cds.iisc.ac.in">Department of Computational and Data Sciences (CDS)</a><br/>
-  <a href="http://www.iisc.ac.in">Indian Institute of Science (IISc)</a><br/>
-  Bangalore, India 560012<br/>
-  <br/>
-  <b>E-mail:</b> <firstname>@iisc.ac.in
-  <br/><br/>
-  <a href="https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en" target="_blank">[Google Scholar]</a>
-  <a href="https://sg.linkedin.com/in/anirban-chakraborty-629a1833" target="_blank">[LinkedIn]</a>
-  <a href="" target="_blank">[CV]</a>
+I am an Associate Professor in the [Department of Computational and Data Sciences (CDS)](http://cds.iisc.ac.in), Indian Institute of Science, Bangalore and the convenor of the [Visual Computing Lab (VCL)](http://visual-computing.in). From December 2016 to June 2017, I worked as a researcher at Robert Bosch Research and Technology Centre, India. Prior to that, I was a research fellow in the [Rapid-Rich Object Search (ROSE)](https://www.ntu.edu.sg/rose) Lab at Nanyang Technological University, Singapore working on large-scale, deployable video surveillance systems. From October 2014 to November 2015, I worked as a post-doctoral fellow in the A*STAR-NUS [Clinical Imaging Research Centre](http://www.circ.nus.edu.sg) at National University of Singapore. I completed my Ph.D. in Electrical Engineering from the [University of California, Riverside](http://www.ucr.edu) under the supervision of [Prof. Amit K. Roy-Chowdhury](https://vcg.engr.ucr.edu/amit) in August 2014. I obtained my M.S. from the same institute in 2010 and prior to that, my bachelors in Electrical Engineering from [Jadavpur University](http://www.jaduniv.edu.in), Kolkata, India.
 
-<div class="col-sm-8">
-  <p>
-  I am an Associate Professor in the <a href="http://cds.iisc.ac.in">Department of Computational and Data Sciences (CDS)</a>, Indian Institute of Science, Bangalore and the convenor of the <a href="http://visual-computing.in">Visual Computing Lab (VCL)</a>. From December'16 to June'17, I worked as a researcher at Robert Bosch Research and Technology Centre, India. Prior to that, I was a research fellow in the <a href="https://www.ntu.edu.sg/rose">Rapid-Rich Object Search (ROSE)</a> Lab at Nanyang Technological University, Singapore working on large scale, deployable video surveillance systems. From October'14 to November'15, I worked as a post-doctoral fellow in the A*STAR-NUS <a href="http://www.circ.nus.edu.sg">Clinical Imaging Research Centre</a> at National University of Singapore. I completed my Ph.D. in Electrical Engineering from <a href="http://www.ucr.edu">University of California, Riverside</a> under the supervision of <a href="https://vcg.engr.ucr.edu/amit">Prof. Amit K. Roy-Chowdhury</a> in August, 2014. I obtained my M.S. from the same institute in 2010 and prior to that, my bachelors in Electrical Engineering from <a href="http://www.jaduniv.edu.in">Jadavpur University</a>, Kolkata, India.
-  </p>
+Contact
 
-  <h2>Research Interests</h2>
-  <p>
-  I am interested in developing novel computer vision and machine learning algorithms to solve visual analysis problems arising from diverse real-world applications. Majority of my current research can be categorized into three major thematic areas:
-  </p>
-  <ul>
-    <li><b>Data-efficient &amp; Privacy-preserving Deep Learning:</b> zero-shot/few-shot knowledge distillation, continual learning, source-free/unsupervised domain adaptation, data-free adversarial defense, federated learning under data heterogeneity etc.</li>
-    <li><b>Cross-modal Computer Vision:</b> text-based image retrieval, sketch-guided localization, scene-graph generation, visual question answering etc.</li>
-    <li><b>Perceiving Humans and their Actions:</b> robust and scalable person-reidentification, video anomaly detection, human gait and pose analysis etc.</li>
-  </ul>
-  <p>In the past, I have worked on biological and medical image analysis problems (e.g., registration, cell segmentation, spatio-temporal cell tracking, cell and tissue resolution 3D reconstruction of confocal image stacks, analysis of clinical MR and CT images etc.). I am also interested in data-association problems on graphs and their applications to visual analytics tasks.</p>
-</div>
-</div>
+- Convenor, [Visual Computing Lab](http://visual-computing.in)
+- Room no. 205, Department of Computational and Data Sciences (CDS), Indian Institute of Science (IISc), Bangalore, India 560012
+- E-mail: anirban@iisc.ac.in
+- [Google Scholar](https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en) • [LinkedIn](https://sg.linkedin.com/in/anirban-chakraborty-629a1833) • [CV]()
 
----
+## Research Interests
+
+I am interested in developing novel computer vision and machine learning algorithms to solve visual analysis problems arising from diverse real-world applications. Majority of my current research can be categorized into three major thematic areas:
+
+- **Data-efficient & Privacy-preserving Deep Learning:** zero-shot/few-shot knowledge distillation, continual learning, source-free/unsupervised domain adaptation, data-free adversarial defense, federated learning under data heterogeneity, etc.
+- **Cross-modal Computer Vision:** text-based image retrieval, sketch-guided localization, scene-graph generation, visual question answering, etc.
+- **Perceiving Humans and their Actions:** robust and scalable person-reidentification, video anomaly detection, human gait and pose analysis, etc.
+
+In the past, I have worked on biological and medical image analysis problems (e.g., registration, cell segmentation, spatio-temporal cell tracking, cell and tissue resolution 3D reconstruction of confocal image stacks, analysis of clinical MR and CT images, etc.). I am also interested in data-association problems on graphs and their applications to visual analytics tasks.
 
 ## Journal Publications
 
