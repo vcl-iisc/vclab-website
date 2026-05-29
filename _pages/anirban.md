@@ -1,6 +1,6 @@
 ---
 title: "Anirban Chakraborty"
-layout: member
+layout: homelay
 excerpt: "Anirban Chakraborty - Associate Professor, VCLab"
 sitemap: false
 permalink: /anirban/
