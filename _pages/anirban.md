@@ -9,7 +9,7 @@ permalink: /anirban/
 # Anirban Chakraborty
 
 <div class="row">
-<div class="col-sm-3">
+<div class="col-sm-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/AnirbanChakraborty.png" width="100%" style="border-radius: 8px;" />
   <br/><br/>
   <b>Associate Professor</b><br/>
@@ -27,7 +27,7 @@ permalink: /anirban/
   <a href="https://visual-computing.in/" target="_blank">[Visual Computing Lab]</a>
 </div>
 
-<div class="col-sm-9">
+<div class="col-sm-8">
   <p>
   I am an Associate Professor in the <a href="http://cds.iisc.ac.in">Department of Computational and Data Sciences (CDS)</a>, Indian Institute of Science, Bangalore and the convenor of the <a href="http://visual-computing.in">Visual Computing Lab (VCL)</a>. From December'16 to June'17, I worked as a researcher at Robert Bosch Research and Technology Centre, India. Prior to that, I was a research fellow in the <a href="https://www.ntu.edu.sg/rose">Rapid-Rich Object Search (ROSE)</a> Lab at Nanyang Technological University, Singapore working on large scale, deployable video surveillance systems. From October'14 to November'15, I worked as a post-doctoral fellow in the A*STAR-NUS <a href="http://www.circ.nus.edu.sg">Clinical Imaging Research Centre</a> at National University of Singapore. I completed my Ph.D. in Electrical Engineering from <a href="http://www.ucr.edu">University of California, Riverside</a> under the supervision of <a href="https://vcg.engr.ucr.edu/amit">Prof. Amit K. Roy-Chowdhury</a> in August, 2014. I obtained my M.S. from the same institute in 2010 and prior to that, my bachelors in Electrical Engineering from <a href="http://www.jaduniv.edu.in">Jadavpur University</a>, Kolkata, India.
   </p>
