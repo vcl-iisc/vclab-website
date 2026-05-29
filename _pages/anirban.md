@@ -19,13 +19,11 @@ permalink: /anirban/
   <a href="http://www.iisc.ac.in">Indian Institute of Science (IISc)</a><br/>
   Bangalore, India 560012<br/>
   <br/>
-  <b>E-mail:</b> anirban [at] iisc [dot] ac [dot] in
+  <b>E-mail:</b> <firstname>@iisc.ac.in
   <br/><br/>
   <a href="https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en" target="_blank">[Google Scholar]</a>
   <a href="https://sg.linkedin.com/in/anirban-chakraborty-629a1833" target="_blank">[LinkedIn]</a>
-  <a href="https://anirbanchakraborty.github.io/cv/Curriculum_Vitae.pdf" target="_blank">[CV]</a>
-  <a href="https://visual-computing.in/" target="_blank">[Visual Computing Lab]</a>
-</div>
+  <a href="" target="_blank">[CV]</a>
 
 <div class="col-sm-8">
   <p>
