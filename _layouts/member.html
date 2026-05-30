@@ -16,7 +16,7 @@ layout: default
         <!-- Avatar -->
         <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ page.image }}"
              class="img-circle"
-             style="filter: grayscale(100%); max-width: 200px;"/>
+             style="{% if page.custom_colors %}max-width: 200px;{% else %}filter: grayscale(100%); max-width: 200px;{% endif %}"/>
 
         <!-- Name & Role -->
         <h1>{{ page.title }}</h1>
@@ -71,3 +71,11 @@ layout: default
         {{ content }}
     </div>
 </div>
+
+{% if page.custom_colors %}
+<style>
+  .member-page h1, .member-page h3, .member-page p, .member-page li {
+    color: #333;
+  }
+</style>
+{% endif %}

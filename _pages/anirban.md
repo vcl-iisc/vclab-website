@@ -7,6 +7,7 @@ excerpt: "Anirban Chakraborty - Associate Professor, VCLab"
 image: AnirbanChakraborty.png
 #role: "Associate Professor"
 category: faculty
+custom_colors: true
 social:
   google-scholar: "https://scholar.google.co.in/citations?user=NtAsZK-2HjcC&hl=en"
   linkedin: "https://sg.linkedin.com/in/anirban-chakraborty-629a1833"
