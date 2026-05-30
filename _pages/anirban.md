@@ -13,8 +13,8 @@ social:
   linkedin: "https://sg.linkedin.com/in/anirban-chakraborty-629a1833"
   webpage: ""
 education:
-  - Ph.D., Electrical Engineering, UC Riverside
-  - M.S., Electrical Engineering, UC Riverside
+  - Ph.D., Electrical Engineering, University of California, Riverside
+  - M.S., Electrical Engineering, University of California, Riverside
   - B.E., Electrical Engineering, Jadavpur University
 ---
 
