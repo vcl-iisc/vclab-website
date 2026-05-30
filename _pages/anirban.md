@@ -13,7 +13,9 @@ social:
   webpage: ""
 education:
   Ph.D., Electrical Engineering, UC Riverside
+
   M.S., Electrical Engineering, UC Riverside
+  
   B.E., Electrical Engineering, Jadavpur University
 ---
 
