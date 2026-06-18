@@ -184,3 +184,23 @@ details > summary {
 // details[open] > summary {
 //   background-color: #ccf;
 // }
+
+/* Flair tags for news items */
+.flair {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-style: italic;
+  margin-right: 0.35rem;
+  font-weight: 600;
+}
+.flair.flair-celebration {
+  color: #e74c3c; /* red/orange; change as desired */
+}
+
+.flair .flair-icon {
+  width: 1em;
+  height: 1em;
+  flex: 0 0 auto;
+  vertical-align: middle;
+}
