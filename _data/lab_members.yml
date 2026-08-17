@@ -8,13 +8,6 @@
   url: https://sadimanna.github.io/
 
 
-- name: Dr. Appan Rakaraddi
-  research_area: Visual Grounding in VLMs
-  photo: appan_rakaraddi.jpg 
-  position: PostDoc
-  year: 2025-Present
-  url: https://www.linkedin.com/in/appan-rakaraddi-597905136/
-
 ############################ PHD STUDENTS ############################
 
 - name: M. Yashwanth
@@ -110,12 +103,7 @@
   url: https://www.url.com/in/dheerajbaiju/
   past: Software Engineer at Myntra
 
-- name: Anuj Shikarkhane
-  photo: anuj_shikarkhane.png
-  position: Project Assistant
-  year: 2025-Present
-  url: https://www.url.com/in/anuj-shikarkhane-b12323223/
-  past: BITS Pilani, Goa Campus
+
 
 - name: Navdeep Singh Jakhar
   photo: navdeep.jpeg
@@ -124,30 +112,8 @@
   url: https://www.url.com/in/navdeepjakhar/
   past: ISRO
   
-- name: Ruthvik Bokkasam
-  photo: ruthvik_bokkasam.png
-  position: Project Assistant
-  year: 2024-Present
-  url: https://www.url.com/in/ruthvik-bokkasam-97021b215
-  past: CVIT, IIITH
 
-- name: Arunabh Singh
-  photo: arunabh_singh.png
-  position: Project Assistant
-  year: 2024-Present
-  url: https://www.url.com/in/arunabh-singh-637a931b9/
-  past: BITS Pilani, Hyderabad Campus
   
 ############################### Interns ###############################
 
-- name: Akhil Sakthieswaran
-  photo: akhil_akthieswaran.jpeg
-  position: Intern
-  year: 2025-Present
-  url: https://www.url.com/in/akhil-sakthieswaran
 
-- name: Arnav Samal
-  photo: arnav_samal.jpeg
-  position: Intern
-  year: 2026-Present
-  url: https://www.url.com/in/arnavsamal/
