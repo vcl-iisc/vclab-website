@@ -10,6 +10,16 @@
 
 ################### Conferences and Journals ###################
 
+- paper: "DynEval: Holistic Evaluations of T2I Generative Models in the Wild"
+  author: "S. Marjit, D. Baiju, A. Shikarkhane, A. Sakthieswaran, A. Paul, A. Chakraborty"
+  pub: "19th European Conference on Computer Vision (ECCV), 2026 [Accepted]"
+  type: "conference"
+  project_page: "https://vcl-iisc.github.io/dyneval/"
+  paper_link: "https://arxiv.org/pdf/2607.11199"
+  code_link: "https://github.com/vcl-iisc/dyneval_code"
+  bibtex: ""
+  
+
 - paper: "Prompt Estimation from Prototypes for Federated Prompt Tuning of Vision Transformers"
   author: "M. Yashwanth, S. Ghosh, A. Tripathi, A. Chakraborty"
   pub: "Transactions on Machine Learning Research (TMLR) [with J2C certification]"
@@ -24,7 +34,7 @@
   pub: "AAAI Conference on Artificial Intelligence (AAAI), 2026 [Accepted]"
   type: "conference"
   project_page: "https://vcl-iisc.github.io/O3SLM/"
-  paper_link: "Coming Soon"
+  paper_link: "https://arxiv.org/abs/2511.14368"
   code_link: "https://github.com/vcl-iisc/O3SLM_code"
   bibtex: ""
 
