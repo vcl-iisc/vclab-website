@@ -41,7 +41,7 @@
 
 - paper: "DynEval: Holistic Evaluations of T2I Generative Models in the Wild"
   author: "S. Marjit, D. Baiju, A. Shikarkhane, A. Sakthieswaran, A. Paul, A. Chakraborty"
-  pub: "19th European Conference on Computer Vision (ECCV), 2026 [Accepted]"
+  pub: "19th European Conference on Computer Vision (ECCV), 2026"
   type: "conference"
   project_page: "https://vcl-iisc.github.io/dyneval/"
   paper_link: "https://arxiv.org/pdf/2607.11199"
@@ -60,7 +60,7 @@
 
 - paper: "O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model"
   author: "R. Gupta, M. Karuppasamy, S. Marjit, A. Tripathi, A. Chakraborty"
-  pub: "AAAI Conference on Artificial Intelligence (AAAI), 2026 [Accepted]"
+  pub: "AAAI Conference on Artificial Intelligence (AAAI), 2026"
   type: "conference"
   project_page: "https://vcl-iisc.github.io/O3SLM/"
   paper_link: "https://arxiv.org/abs/2511.14368"
@@ -69,7 +69,7 @@
 
 - paper: "FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation"
   author: "M. Yashwanth, S. Koti, A. Singh, S. Marjit, A. Chakraborty"
-  pub: "Winter Conference on Applications of Computer Vision (WACV), 2025 [Accepted]"
+  pub: "Winter Conference on Applications of Computer Vision (WACV), 2025"
   type: "conference"
   project_page: "https://vcl-iisc.github.io/FedSCAl"
   paper_link: "Coming Soon"
@@ -78,7 +78,7 @@
   
 - paper: "Optimizing Federated Learning for Scalable Power-demand Forecasting in Microgrids"
   author: R. Banerjee, S. Koti, G. Singh, A. Chakraborty, G. Gurrala, B. Jagyasi and Y. Simmhan
-  pub: IEEE Conference on eScience (eScience), 2025 [Accepted, Best paper finalist]
+  pub: IEEE Conference on eScience (eScience), 2025 [Best paper finalist]
   type: conference
   project_page: 
   paper_link: https://arxiv.org/pdf/2508.08022
