@@ -11,6 +11,15 @@
 ################### Conferences and Journals ###################
 
 
+- paper: "Federated Learning by Utility-Constrained Stochastic Aggregation for Improving Rational Participation"
+  author: "M. Yashwanth, Arunabh Singh, Ashok Nayak, Sai Kiran Bulusu, Anirban Chakraborty"
+  pub: "Conference on Neural Information Processing Systems 2026 [Accepted]"
+  type: "conference"
+  project_page: ""
+  paper_link: "https://arxiv.org/abs/2605.18020"
+  code_link: ""
+  bibtex: ""
+
 - paper: "Breaking the Privacy Promise: Gradient Inversion Attacks on Federated Low-Rank Adapted Vision Transformers"
   author: "Ritik Kumar Badiya, Siladittya Manna, Ashmit Sinha, M Yashwanth, Anirban Chakraborty"
   pub: "IEEE/CVF Winter Conference on Applications of Computer Vision 2027 [Accepted]"
