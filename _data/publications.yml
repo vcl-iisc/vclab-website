@@ -10,6 +10,17 @@
 
 ################### Conferences and Journals ###################
 
+
+- paper: "SurfScaff3D: Bridging Geometric and Semantic Representations for LLM-based 3D Object Generation"
+  author: "Anay Loya, Rishi Gupta, Arnav Samal, Anirban Chakraborty"
+  pub: "IEEE/CVF Winter Conference on Applications of Computer Vision 2027 [Accepted]"
+  type: "conference"
+  project_page: ""
+  paper_link: ""
+  code_link: ""
+  bibtex: ""
+  
+
 - paper: "DynEval: Holistic Evaluations of T2I Generative Models in the Wild"
   author: "S. Marjit, D. Baiju, A. Shikarkhane, A. Sakthieswaran, A. Paul, A. Chakraborty"
   pub: "19th European Conference on Computer Vision (ECCV), 2026 [Accepted]"
