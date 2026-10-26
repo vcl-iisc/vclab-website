@@ -10,6 +10,14 @@
 
 ################### Conferences and Journals ###################
 
+- paper: "CAReFuseNet: Cross Attention Fusion Network for Referring Camouflaged Object Detection"
+  author: "Sekhar Mandalaparthi, Arup Dasgupta, Anirban Chakraborty"
+  pub: "Transactions on Machine Learning Research (TMLR) [Accepted]"
+  type: "journal"
+  project_page: "https://vcl-iisc.github.io/CAReFuseNet/"
+  paper_link: ""
+  code_link: "https://github.com/vcl-iisc/CAReFuseNet_code"
+  bibtex: ""
 
 - paper: "Federated Learning by Utility-Constrained Stochastic Aggregation for Improving Rational Participation"
   author: "M. Yashwanth, Arunabh Singh, Ashok Nayak, Sai Kiran Bulusu, Anirban Chakraborty"
