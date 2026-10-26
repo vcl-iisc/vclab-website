@@ -11,7 +11,7 @@
 ################### Conferences and Journals ###################
 
 - paper: "CAReFuseNet: Cross Attention Fusion Network for Referring Camouflaged Object Detection"
-  author: "Sekhar Mandalaparthi, Arup Dasgupta, Anirban Chakraborty"
+  author: "S. Mandalaparthi, A. Dasgupta, A. Chakraborty"
   pub: "Transactions on Machine Learning Research (TMLR) [Accepted]"
   type: "journal"
   project_page: "https://vcl-iisc.github.io/CAReFuseNet/"
@@ -20,7 +20,7 @@
   bibtex: ""
 
 - paper: "Federated Learning by Utility-Constrained Stochastic Aggregation for Improving Rational Participation"
-  author: "M. Yashwanth, Arunabh Singh, Ashok Nayak, Sai Kiran Bulusu, Anirban Chakraborty"
+  author: "M. Yashwanth, A. Singh, A. Nayak, S. Bulusu, A. Chakraborty"
   pub: "Conference on Neural Information Processing Systems 2026 [Accepted]"
   type: "conference"
   project_page: ""
@@ -29,7 +29,7 @@
   bibtex: ""
 
 - paper: "Breaking the Privacy Promise: Gradient Inversion Attacks on Federated Low-Rank Adapted Vision Transformers"
-  author: "Ritik Kumar Badiya, Siladittya Manna, Ashmit Sinha, M Yashwanth, Anirban Chakraborty"
+  author: "R. K. Badiya, S. Manna, A. Sinha, M. Yashwanth, A. Chakraborty"
   pub: "IEEE/CVF Winter Conference on Applications of Computer Vision 2027 [Accepted]"
   type: "conference"
   project_page: ""
@@ -38,7 +38,7 @@
   bibtex: ""
 
 - paper: "SurfScaff3D: Bridging Geometric and Semantic Representations for LLM-based 3D Object Generation"
-  author: "Anay Loya, Rishi Gupta, Arnav Samal, Anirban Chakraborty"
+  author: "A. Loya, R. Gupta, A. Samal, A. Chakraborty"
   pub: "IEEE/CVF Winter Conference on Applications of Computer Vision 2027 [Accepted]"
   type: "conference"
   project_page: ""
@@ -47,7 +47,7 @@
   bibtex: ""
 
 - paper: "Image Classifiers are Efficient Self-Supervised Video Representation Learners"
-  author: "Owais Iqbal, Sudipta Sarkar, Shyam Marjit, Omprakash Chakraborty, Anirban Chakraborty, Abir Das"
+  author: "O. Iqbal, S. Sarkar, S. Marjit, O. Chakraborty, A. Chakraborty, A. Das"
   pub: "British Machine Vision Conference (BMVC) 2026 [Accepted]"
   type: "conference"
   project_page: "https://cvir.github.io/projects/videomsn"
@@ -57,7 +57,7 @@
   
 
 - paper: "DynEval: Holistic Evaluations of T2I Generative Models in the Wild"
-  author: "S. Marjit, D. Baiju, A. Shikarkhane, A. Sakthieswaran, A. Paul, A. Chakraborty"
+  author: "S. Marjit, D. Baiju, A. Shikarkhane, A. Sakthieswaran, S. Paul, A. Chakraborty"
   pub: "19th European Conference on Computer Vision (ECCV), 2026"
   type: "conference"
   project_page: "https://vcl-iisc.github.io/dyneval/"
