@@ -66,6 +66,15 @@
   code_link: ""
   bibtex: ""
 
+- paper: "Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks"
+  author: "A. Sharma, P. Naman, R. Banerjee, P. Pansari, S. Gawali, M. Arya, S. Chandra, A. Josephraj, R. Ramesh, P. Rathore A. Chakraborty, R. Krishnapuram, V. Kovvali, Y. Simmhan"
+  pub: "IEEE 26th International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW), 2026 [TCSC SCALE Challenge Winner]"
+  type: "conference"
+  project_page: ""
+  paper_link: "10.1109/CCGridW69005.2026.00027"
+  code_link: ""
+  bibtex: ""
+
 - paper: "O3SLM: Open Weight, Open Data, and Open Vocabulary Sketch-Language Model"
   author: "R. Gupta, M. Karuppasamy, S. Marjit, A. Tripathi, A. Chakraborty"
   pub: "AAAI Conference on Artificial Intelligence (AAAI), 2026"
