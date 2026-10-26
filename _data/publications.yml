@@ -45,6 +45,15 @@
   paper_link: ""
   code_link: ""
   bibtex: ""
+
+- paper: "Image Classifiers are Efficient Self-Supervised Video Representation Learners"
+  author: "Owais Iqbal, Sudipta Sarkar, Shyam Marjit, Omprakash Chakraborty, Anirban Chakraborty, Abir Das"
+  pub: "British Machine Vision Conference (BMVC) 2026 [Accepted]"
+  type: "conference"
+  project_page: "https://cvir.github.io/projects/videomsn"
+  paper_link: "https://arxiv.org/pdf/2609.40347"
+  code_link: "https://github.com/CVIR/VideoMSN"
+  bibtex: ""
   
 
 - paper: "DynEval: Holistic Evaluations of T2I Generative Models in the Wild"
