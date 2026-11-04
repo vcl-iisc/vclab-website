@@ -8,7 +8,6 @@ permalink: /mtech_projects_26/
 
 ### Please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSf4DDd8DcH01tJhQGfGy4P8tFDrFMSYkaRxyIv6yqdw0uYHTg/viewform?usp=dialog) by uploading your detailed CV and a statement of purpose. This form will be open until 15th November.
 
-<br>
 <div style="padding: 15px; border: 1px solid #d0d7de; border-radius: 8px; background-color: #f6f8fa;">
 
 **What are we looking for in applicants:**
