@@ -62,7 +62,7 @@ MoE: [https://arxiv.org/abs/2503.07137](https://arxiv.org/abs/2503.07137)<br>
 <br>
 
 #### ✨ Project Title-3: `Agentic Model Surgery for VLMs`
-🔎 Details: Agentic model surgery treats a vision-language model's (VLM) weights and training code as programs that a frontier agent can read, write and verify, using only a budget of forward passes and probe images it generates itself. Where prior work tunes a training run (Reactive Optimizers) or removes a failure mode from a language model (Weight-Space Programming), this area asks the agent to add missing visual skills, move skills between models, repair models during deployment, forget targeted concepts, and audit models from their weights alone. Its central claim, and the hook for a CVPR paper, is that for vision an agent can write new, human-readable capability into a VLM without gradient training.
+🔎 Details: Agentic model surgery treats a vision-language model's (VLM) weights and training code as programs that a frontier agent can read, write and verify, using only a budget of forward passes and probe images it generates itself. Where prior work tunes a training run (Reactive Optimizers) or removes a failure mode from a language model (Weight-Space Programming), this area asks the agent to add missing visual skills, move skills between models, repair models during deployment, forget targeted concepts, and audit models from their weights alone. Its central claim is that for vision an agent can write new, human-readable capability into a VLM without gradient training.
 
 📖 Suggested reading:<br>
 Sparks of Weight-Space Programming: [https://rikiyat.github.io/blog/weight-space-programming/](https://rikiyat.github.io/blog/weight-space-programming/)<br>
@@ -119,7 +119,13 @@ ShapeCraft: [https://arxiv.org/pdf/2510.17603](https://arxiv.org/pdf/2510.17603)
 Articraft: [https://arxiv.org/pdf/2605.15187](https://arxiv.org/pdf/2605.15187)<br>
 
 
-🔗 Contact person for more details: Anay Loya (Mail: <a href="mailto:anayloya@iisc.ac.in">anayloya@iisc.ac.in</a>) and Soumya Panja (Mail: <a href="mailto:anayloya@iisc.ac.in">anayloya@iisc.ac.in</a>)
+🔗 Contact person for more details: Anay Loya (Mail: <a href="mailto:anayloya@iisc.ac.in">anayloya@iisc.ac.in</a>) and Soumya Panja (Mail: <a href="mailto:soumyapanja@iisc.ac.in">soumyapanja@iisc.ac.in</a>)
 
 
-**What are we looking for in applicants:** The ideal candidates should be conversant in fundamental mathematical topics such as probability and statistics, linear algebra, multivariable calculus, convex optimization etc. They must be proficient in Python, NumPy/SciPy, Scikit-learn and should possess at least beginner's knowledge in PyTorch or TensorFlow. Prior hands-on experience with machine learning and/or computer vision projects will be highly desirable.
+<div style="padding: 15px; border: 1px solid #d0d7de; border-radius: 8px; background-color: #f6f8fa;">
+
+**What are we looking for in applicants:**
+
+The ideal candidates should be conversant in fundamental mathematical topics such as probability and statistics, linear algebra, multivariable calculus, convex optimization etc. They must be proficient in Python, NumPy/SciPy, Scikit-learn and should possess at least beginner's knowledge in PyTorch or TensorFlow. Prior hands-on experience with machine learning and/or computer vision projects will be highly desirable.
+
+</div>
