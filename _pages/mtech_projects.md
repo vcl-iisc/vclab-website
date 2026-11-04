@@ -128,5 +128,21 @@ Articraft: [https://arxiv.org/pdf/2605.15187](https://arxiv.org/pdf/2605.15187)<
 
 🔗 Contact person for more details: Anay Loya (Mail: <a href="mailto:anayloya@iisc.ac.in">anayloya@iisc.ac.in</a>) and Soumya Panja (Mail: <a href="mailto:soumyapanja@iisc.ac.in">soumyapanja@iisc.ac.in</a>)
 
+#### ✨ Project Title-8: `When Does Memorization Get Cheaper? A Fisher-Geometry View`
+
+🔎 Details: Neural networks can fit almost anything, even random labels. A recent paper, Fisher Information and the Geometry of Memorization in Neural Networks (Bernstein et al., NeurIPS 2026) shows that you can tell apart two things inside a trained network using Fisher information: the general patterns it learns, and the individual examples it just memorizes. These live in different directions of the weights. An older paper, Measuring the Intrinsic Dimension of Objective Landscapes (Li et al., ICLR 2018), noticed something strange: the more examples a network memorizes, the cheaper each new one becomes. Nobody has explained why yet. In this project we want to understand how a trained network makes room for new examples it can only memorize. Does each example need its own space in the weights, or can examples share it? And can we predict this cost just by looking at the Fisher information of the trained network, before training on the new examples? <br>
+So far this has only been studied for networks trained from scratch. We also want to look at fine-tuning and especially PEFT methods that only allow small, restricted updates, and see whether memorizing new data there comes at the cost of forgetting what the model already knew. 
+
+
+
+📖 Suggested reading:<br>
+D. T. Bernstein, C. Goddard, L. Di Carlo, V. Ngampruetikorn, D. J. Schwab. Fisher Information and the Geometry of Memorization in Neural Networks. NeurIPS 2026.<br>
+C. Li, H. Farkhoor, R. Liu, J. Yosinski. Measuring the Intrinsic Dimension of Objective Landscapes. ICLR 2018.<br>
+C. Zhang, S. Bengio, M. Hardt, B. Recht, O. Vinyals. Understanding Deep Learning Requires Rethinking Generalization. ICLR 2017.<br>
+J. Attri, F. Guth. Memorization in Image Classification: Test Set Behavior and Scaling Laws. arXiv 2026.<br>
+J. Martens. New Insights and Perspectives on the Natural Gradient Method. JMLR 2020. (Good background on Fisher information.)<br>
+
+
+🔗 Contact person for more details: Shraddha Chavan (Mail: <a href="mailto:shraddha99.iisc@iisc.ac.in">shraddha99.iisc@gmail.com</a>)
 
 
