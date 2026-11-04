@@ -14,9 +14,9 @@ permalink: /mtech_projects_26/
 Details: Developing a physics-grounded video generation framework that lifts 2D scenes into 3D representations to model realistic object and agent interactions. The framework enforces physical constraints to ensure plausible dynamics, preserves object geometry, and maintains object and agent fidelity across generated frames.
 
 📖 Suggested reading:<br>
-Perpetual Wonder: https://arxiv.org/abs/2602.04876<br>
-Code Video Model: https://code-video-model.github.io/tech_report.pdf<br>
-PHYSLDM: https://arxiv.org/pdf/2610.07609<br>
+Perpetual Wonder: [https://arxiv.org/abs/2602.04876](https://arxiv.org/abs/2602.04876)<br>
+Code Video Model: [https://code-video-model.github.io/tech_report.pdf](https://code-video-model.github.io/tech_report.pdf)<br>
+PHYSLDM: [https://arxiv.org/pdf/2610.07609](https://arxiv.org/pdf/2610.07609)<br>
 <div align="center">
   <video width="100%" controls autoplay muted loop>
     <source src="https://code-video-model.github.io/static/demo/Demo_CodeVideoModel_New.mp4" type="video/mp4">
