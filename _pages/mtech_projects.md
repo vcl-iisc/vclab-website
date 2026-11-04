@@ -17,18 +17,21 @@ Details: Developing a physics-grounded video generation framework that lifts 2D 
 Perpetual Wonder: [https://arxiv.org/abs/2602.04876](https://arxiv.org/abs/2602.04876)<br>
 Code Video Model: [https://code-video-model.github.io/tech_report.pdf](https://code-video-model.github.io/tech_report.pdf)<br>
 PHYSLDM: [https://arxiv.org/pdf/2610.07609](https://arxiv.org/pdf/2610.07609)<br>
-<!-- <div align="center">
+
+Video Demonstrations from `Code Video Model` and `Perpetual Wonder` works.
+
+<div align="center">
   <video width="100%" controls autoplay muted loop>
     <source src="https://code-video-model.github.io/static/demo/Demo_CodeVideoModel_New.mp4" type="video/mp4">
   </video>
-</div> -->
-Video Demonstrations from ```Code Video Model''' and ```Perpetual Wonder''' works.
+</div>
+
 
 <table>
   <tr>
     <td width="50%">
       <video width="100%" controls autoplay muted loop>
-        <source src="https://code-video-model.github.io/static/demo/Demo_CodeVideoModel_New.mp4" type="video/mp4">
+        <source src="https://johnzhan2023.github.io/PerpetualWonder/assets/quality_result/flower.mp4" type="video/mp4">
       </video>
     </td>
     <td width="50%">
