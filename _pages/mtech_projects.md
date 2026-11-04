@@ -3,7 +3,7 @@ title: "MTech Projects"
 layout: default
 excerpt: "VCLab, CDS, IISc"
 sitemap: false
-permalink: /mtech_projects/
+permalink: /mtech_projects_26/
 ---
 
 ### Please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSf4DDd8DcH01tJhQGfGy4P8tFDrFMSYkaRxyIv6yqdw0uYHTg/viewform?usp=dialog) by uploading your detailed CV and a statement of purpose. This form will be open until 15th November.
