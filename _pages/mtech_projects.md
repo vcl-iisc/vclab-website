@@ -13,10 +13,10 @@ permalink: /mtech_projects_26/
 #### ✨ Project Title-1: "Physics-Grounded and Geometry-Preserving Video Generation"
 Details: Developing a physics-grounded video generation framework that lifts 2D scenes into 3D representations to model realistic object and agent interactions. The framework enforces physical constraints to ensure plausible dynamics, preserves object geometry, and maintains object and agent fidelity across generated frames.
 
-📖 Suggested reading:
-Perpetual Wonder: https://arxiv.org/abs/2602.04876
-Code Video Model: https://code-video-model.github.io/tech_report.pdf
-PHYSLDM: https://arxiv.org/pdf/2610.07609
+📖 Suggested reading:<br>
+Perpetual Wonder: https://arxiv.org/abs/2602.04876<br>
+Code Video Model: https://code-video-model.github.io/tech_report.pdf<br>
+PHYSLDM: https://arxiv.org/pdf/2610.07609<br>
 
 
 🔗 Contact person for more details: Kunsh Taneja (Mail: <a href="mailto:kunshtaneja@iisc.ac.in">kunshtaneja@iisc.ac.in</a>) and Shyam Marjit (Mail: <a href="mailto:shyammarjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
