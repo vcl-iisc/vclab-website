@@ -9,6 +9,14 @@ permalink: /mtech_projects_26/
 ### Please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSf4DDd8DcH01tJhQGfGy4P8tFDrFMSYkaRxyIv6yqdw0uYHTg/viewform?usp=dialog) by uploading your detailed CV and a statement of purpose. This form will be open until 15th November.
 
 <br>
+<div style="padding: 15px; border: 1px solid #d0d7de; border-radius: 8px; background-color: #f6f8fa;">
+
+**What are we looking for in applicants:**
+
+The ideal candidates should be conversant in fundamental mathematical topics such as probability and statistics, linear algebra, multivariable calculus, convex optimization etc. They must be proficient in Python, NumPy/SciPy, Scikit-learn and should possess at least beginner's knowledge in PyTorch or TensorFlow. Prior hands-on experience with machine learning and/or computer vision projects will be highly desirable.
+
+</div>
+<br>
 
 #### ✨ Project Title-1: `Physics-Grounded and Geometry-Preserving Video Generation`
 🔎 Details: Developing a physics-grounded video generation framework that lifts 2D scenes into 3D representations to model realistic object and agent interactions. The framework enforces physical constraints to ensure plausible dynamics, preserves object geometry, and maintains object and agent fidelity across generated frames.
@@ -122,10 +130,4 @@ Articraft: [https://arxiv.org/pdf/2605.15187](https://arxiv.org/pdf/2605.15187)<
 🔗 Contact person for more details: Anay Loya (Mail: <a href="mailto:anayloya@iisc.ac.in">anayloya@iisc.ac.in</a>) and Soumya Panja (Mail: <a href="mailto:soumyapanja@iisc.ac.in">soumyapanja@iisc.ac.in</a>)
 
 
-<div style="padding: 15px; border: 1px solid #d0d7de; border-radius: 8px; background-color: #f6f8fa;">
 
-**What are we looking for in applicants:**
-
-The ideal candidates should be conversant in fundamental mathematical topics such as probability and statistics, linear algebra, multivariable calculus, convex optimization etc. They must be proficient in Python, NumPy/SciPy, Scikit-learn and should possess at least beginner's knowledge in PyTorch or TensorFlow. Prior hands-on experience with machine learning and/or computer vision projects will be highly desirable.
-
-</div>
