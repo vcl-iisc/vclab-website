@@ -11,7 +11,7 @@ permalink: /mtech_projects_26/
 <br>
 
 #### ✨ Project Title-1: `Physics-Grounded and Geometry-Preserving Video Generation`
-Details: Developing a physics-grounded video generation framework that lifts 2D scenes into 3D representations to model realistic object and agent interactions. The framework enforces physical constraints to ensure plausible dynamics, preserves object geometry, and maintains object and agent fidelity across generated frames.
+🔎 Details: Developing a physics-grounded video generation framework that lifts 2D scenes into 3D representations to model realistic object and agent interactions. The framework enforces physical constraints to ensure plausible dynamics, preserves object geometry, and maintains object and agent fidelity across generated frames.
 
 📖 Suggested reading:<br>
 Perpetual Wonder: [https://arxiv.org/abs/2602.04876](https://arxiv.org/abs/2602.04876)<br>
@@ -48,11 +48,15 @@ Video Demonstrations from 'Code Video Model' and 'Perpetual Wonder' works.
 
 <br>
 
-#### ✨ Project Title-2: "AudioLLM: On-the-fly interactive audio unmixing and editing"
-Details: Inspired by [SegLLM](https://berkeley-hipie.github.io/segllm.github.io/), this project aims to design an interactive video-to-audio editing chatbot system that processes videos (real-world and synthetic) containing audio. The goal is to decompose the input audio into multiple object-centric audio tracks (refer to this [paper](https://arxiv.org/abs/2506.20995)) and associate each track with its corresponding visual object in the video. The chatbot further enables fine-grained editing of these object-centric audio components, allowing users to modify them individually or collectively according to their preferences.
+#### ✨ Project Title-2: `Mixture-of-Experts Architectures for Universal Multimodal Embedding Models`
+🔎 Details: Universal embedding models today are mostly dense VLMs fine-tuned with contrastive loss. They trade capacity across modalities and tasks, and gains on one task (e.g. visual document retrieval) often cost another (e.g. text-only retrieval). MoE offers a way to add capacity where modalities and tasks conflict without raising per-query inference cost.
+
+📖 Suggested reading:<br>
+MoEMB: [https://arxiv.org/pdf/2609.08663](https://arxiv.org/pdf/2609.08663)<br>
+MoE: [https://arxiv.org/abs/2503.07137](https://arxiv.org/abs/2503.07137)<br>
 
 
-🔗 Contact person for more details: Shyam Marjit (Mail: <a href="mailto:shyam.marjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
+🔗 Contact person for more details: Anish Chaudhary (Mail: <a href="mailto:anishc@iisc.ac.in">anishc@iisc.ac.in</a>)
 
 
 <br>
