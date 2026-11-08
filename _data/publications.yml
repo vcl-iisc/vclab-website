@@ -32,10 +32,10 @@
   author: "R. K. Badiya, S. Manna, A. Sinha, M. Yashwanth, A. Chakraborty"
   pub: "IEEE/CVF Winter Conference on Applications of Computer Vision 2027 [Accepted]"
   type: "conference"
-  project_page: ""
+  project_page: "https://vcl-iisc.github.io/lora_gia_trpe/"
   paper_link: ""
-  code_link: ""
-  bibtex: ""
+  code_link: "https://github.com/vcl-iisc/lora_gia_trpe_code"
+  bibtex: "https://vcl-iisc.github.io/lora_gia_trpe/#bibtex"
 
 - paper: "SurfScaff3D: Bridging Geometric and Semantic Representations for LLM-based 3D Object Generation"
   author: "A. Loya, R. Gupta, A. Samal, A. Chakraborty"
