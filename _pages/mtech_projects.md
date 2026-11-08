@@ -3,80 +3,144 @@ title: "MTech Projects"
 layout: default
 excerpt: "VCLab, CDS, IISc"
 sitemap: false
-permalink: /mtech_projects/
+permalink: /mtech_projects_26/
 ---
 
-### Please fill in the form [here](https://forms.gle/jCFfV8u8tSPtGGd36) by uploading your detailed CV and a statement of purpose. This form will be open until 15th November.
+### Please fill in the form [here](https://docs.google.com/forms/d/e/1FAIpQLSf4DDd8DcH01tJhQGfGy4P8tFDrFMSYkaRxyIv6yqdw0uYHTg/viewform?usp=dialog) by uploading your detailed CV and a statement of purpose. This form will be open until 15th November.
+
+<div style="padding: 15px; border: 1px solid #d0d7de; border-radius: 8px; background-color: #f6f8fa;">
+
+**What are we looking for in applicants:**
+
+The ideal candidates should be conversant in fundamental mathematical topics such as probability and statistics, linear algebra, multivariable calculus, convex optimization etc. They must be proficient in Python, NumPy/SciPy, Scikit-learn and should possess at least beginner's knowledge in PyTorch or TensorFlow. Prior hands-on experience with machine learning and/or computer vision projects will be highly desirable.
+
+</div>
+<br>
+
+#### ✨ Project Title-1: `Physics-Grounded and Geometry-Preserving Video Generation`
+🔎 Details: Developing a physics-grounded video generation framework that lifts 2D scenes into 3D representations to model realistic object and agent interactions. The framework enforces physical constraints to ensure plausible dynamics, preserves object geometry, and maintains object and agent fidelity across generated frames.
+
+📖 Suggested reading:<br>
+Perpetual Wonder: [https://arxiv.org/abs/2602.04876](https://arxiv.org/abs/2602.04876)<br>
+Code Video Model: [https://code-video-model.github.io/tech_report.pdf](https://code-video-model.github.io/tech_report.pdf)<br>
+PHYSLDM: [https://arxiv.org/pdf/2610.07609](https://arxiv.org/pdf/2610.07609)<br>
+
+Video Demonstrations from 'Code Video Model' and 'Perpetual Wonder' works.
+
+<div align="center">
+  <video width="100%" controls autoplay muted loop>
+    <source src="https://code-video-model.github.io/static/demo/Demo_CodeVideoModel_New.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+<table>
+  <tr>
+    <td width="50%">
+      <video width="100%" controls autoplay muted loop>
+        <source src="https://johnzhan2023.github.io/PerpetualWonder/assets/quality_result/flower.mp4" type="video/mp4">
+      </video>
+    </td>
+    <td width="50%">
+      <video width="100%" controls autoplay muted loop>
+        <source src="https://johnzhan2023.github.io/PerpetualWonder/assets/quality_result/tea_pot.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</table>
+
+
+
+🔗 Contact person for more details: Kunsh Taneja (Mail: <a href="mailto:kunshtaneja@iisc.ac.in">kunshtaneja@iisc.ac.in</a>) and Shyam Marjit (Mail: <a href="mailto:shyammarjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
 
 <br>
 
-#### ✨ Project Title-1: "FrameEdit: In-Context Temporal Frame Generation via LLM–Diffusion Fusion"
-Details: Extending the capabilities of [GenHowTo](https://arxiv.org/abs/2312.07322) and [ShowHowTo](https://arxiv.org/abs/2412.01987), we aim to generate the n’th frame from given initial frames while ensuring temporal and structural consistency aligned with given new action prompts. We frame this as an in-context editing problem, leveraging fused Autoregressive LLMs and Generative Diffusion Transformers inspired by [Jenus-Pro](https://arxiv.org/abs/2501.17811), [OmniGen](https://arxiv.org/abs/2409.11340), and [OmniGen-v2](https://arxiv.org/abs/2506.18871), with significant potential for applications such as robotics, AR, VR, etc.
+#### ✨ Project Title-2: `Mixture-of-Experts Architectures for Universal Multimodal Embedding Models`
+🔎 Details: Universal embedding models today are mostly dense VLMs fine-tuned with contrastive loss. They trade capacity across modalities and tasks, and gains on one task (e.g. visual document retrieval) often cost another (e.g. text-only retrieval). MoE offers a way to add capacity where modalities and tasks conflict without raising per-query inference cost.
 
-🔗 Contact person for more details: Shyam Marjit (Mail: <a href="mailto:shyam.marjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
-
-<br>
-
-#### ✨ Project Title-2: "AudioLLM: On-the-fly interactive audio unmixing and editing"
-Details: Inspired by [SegLLM](https://berkeley-hipie.github.io/segllm.github.io/), this project aims to design an interactive video-to-audio editing chatbot system that processes videos (real-world and synthetic) containing audio. The goal is to decompose the input audio into multiple object-centric audio tracks (refer to this [paper](https://arxiv.org/abs/2506.20995)) and associate each track with its corresponding visual object in the video. The chatbot further enables fine-grained editing of these object-centric audio components, allowing users to modify them individually or collectively according to their preferences.
+📖 Suggested reading:<br>
+MoEMB: [https://arxiv.org/pdf/2609.08663](https://arxiv.org/pdf/2609.08663)<br>
+MoE: [https://arxiv.org/abs/2503.07137](https://arxiv.org/abs/2503.07137)<br>
 
 
-🔗 Contact person for more details: Shyam Marjit (Mail: <a href="mailto:shyam.marjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
-
-
-<br>
-
-#### ✨ Project Title-3: "Gradient Inversion Attacks in Parameter-Efficient Prompt Tuning of Vision Transformers"
-Details: In Federated Learning (FL), the clients share their model gradients with the server. The server aggregates the model gradients and performs the model update, and broadcasts the new updated model to clients in the subsequent rounds. It has been shown in traditional training that when the gradients of the parameters are shared, the data can be reconstructed. This has been shown in the context of LoRa training very recently. This reconstruction problem is open in the context of prompt tuning of Vision transformers (ViT).
-Outcome: Gradient inversion attack in ViT prompt tuning.
-
-🔗 Contact person for more details: M. Yashwanth (Mail: <a href="mailto:yashwanthm@iisc.ac.in">yashwanthm@iisc.ac.in</a>)
-
-<br>
-
-#### ✨ Project Title-4: "Federated Aggregation via EPO Search for Multi-objective learning"
-Details: In multi-objective optimization, the solution can converge to different points on the Pareto front depending upon the preferences given to various objectives. This idea has been extended to federated learning, where each client carries out multi-objective optimization (MOO) over a shared set of tasks via EPO (Exact Pareto Optimal) search. However, the clients may not share the set of tasks. Therefore, it is more reasonable to view each client as a separate lone objective and let the server conduct an EPO search over its model parameters to satisfy each client’s preferences (some modeled utility). However, the present EPO search methods show slow convergence against traditional FL methods due to gradient ascent and descent steps, and a fast-converging EPO search algorithm is an open problem.
-
-🔗 Contact person for more details: M. Yashwanth (Mail: <a href="mailto:yashwanthm@iisc.ac.in">yashwanthm@iisc.ac.in</a>)
-
-<br>
-
-#### ✨ Project Title-5: "Towards Robust MultiModal Large Language Modelling"
-Details: Develop a Multimodal LLM robust and generalisable towards any visual modality, not just natural images. Current MLLMs fail to generalize to modalities like sketches, segmentation maps, edge maps, etc. 1) Exploration and analysis: how good are current MLLMs? 2) Developing training regimes which force models to prefer shape:  3) Benchmarking: have we reduced texture bias? Does that allow us to transfer to unseen modalities? How well do we do on unseen classes?
-
-Expected Outcome: A practical recipe which gives us more robust MLLMs, which not only allows us to use MLLMs on relatively special modalities like thermal images, depth maps etc, but also improves open-set performance (on unseen classes) since we now have shape-to-shape correspondence.
-
-🔗 Contact person for more details: Rishi Gupta (Mail: <a href="mailto:rishig@iisc.ac.in">rishig@iisc.ac.in</a>)
-
-
-<br>
-
-#### ✨ Project Title-6: "Scene‑Scale and Memory‑Bounded Feed‑Forward 3DGS"
-Details: Predict large‑scene Gaussians under (i) tight memory by sparse tokens, token merging, and (ii) on‑the‑fly pruning/compression while preserving quality. We may also explore distillation techniques to reduce the size of the model while preserving quality.
-
-Expected learning outcomes: Hands-on Knowledge of transformers, knowledge distillation, and Gaussian Splatting
-
-Reference papers: [GS‑LRM (transformer LRM)](https://arxiv.org/abs/2404.19702), [GeoLRM (geometry‑aware LRM)](https://neurips.cc/virtual/2024/poster/94280), [Long‑LRM](https://arxiv.org/html/2410.12781v2), and [FreeSplat (redundancy reduction)](https://arxiv.org/pdf/2405.17958).
-
-🔗 Contact person for more details: Sai Dharma (Mail: <a href="mailto:dharmasai@iisc.ac.in">dharmasai@iisc.ac.in</a>)
-
-<br>
-
-#### ✨ Project Title-7: "Blur Robust Feed‑Forward GS"
-Details: Learn camera‑aware features and exposure‑time models so a feed‑forward network can reconstruct sharp Gaussians from defocus/motion‑blurred and rolling‑shutter video without per‑scene optimization.
-
-Reference papers: [DOF‑GS (defocus modeling)](https://arxiv.org/abs/2405.17351)
-[Gaussian Splatting on the Move](https://arxiv.org/abs/2403.13327)
-[BAD‑Gaussians (bundle‑adjusted deblur)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03633.pdf)
-[BARD‑GS (dynamic blur)](https://openaccess.thecvf.com/content/CVPR2025/papers/Lu_BARD-GS_Blur-Aware_Reconstruction_of_Dynamic_Scenes_via_Gaussian_Splatting_CVPR_2025_paper.pdf)
-[MoBGS (motion deblurring for dynamic 3DGS)](https://arxiv.org/abs/2504.15122)
-etc.
-
-Expected learning outcomes: Hands-on Knowledge of transformers, blur modelling, and Gaussian Splatting.
-
-🔗 Contact person for more details: Sai Dharma (Mail: <a href="mailto:dharmasai@iisc.ac.in">dharmasai@iisc.ac.in</a>)
+🔗 Contact person for more details: Anish Chaudhary (Mail: <a href="mailto:anishc@iisc.ac.in">anishc@iisc.ac.in</a>)
 
 
 <br>
 
-**What are we looking for in applicants:** The ideal candidates should be conversant in fundamental mathematical topics such as probability and statistics, linear algebra, multivariable calculus, convex optimization etc. They must be proficient in Python, NumPy/SciPy, Scikit-learn and should possess at least beginner's knowledge in PyTorch or TensorFlow. Prior hands-on experience with machine learning and/or computer vision projects will be highly desirable.
+#### ✨ Project Title-3: `Agentic Model Surgery for VLMs`
+🔎 Details: Agentic model surgery treats a vision-language model's (VLM) weights and training code as programs that a frontier agent can read, write and verify, using only a budget of forward passes and probe images it generates itself. Where prior work tunes a training run (Reactive Optimizers) or removes a failure mode from a language model (Weight-Space Programming), this area asks the agent to add missing visual skills, move skills between models, repair models during deployment, forget targeted concepts, and audit models from their weights alone. Its central claim is that for vision an agent can write new, human-readable capability into a VLM without gradient training.
+
+📖 Suggested reading:<br>
+Sparks of Weight-Space Programming: [https://rikiyat.github.io/blog/weight-space-programming/](https://rikiyat.github.io/blog/weight-space-programming/)<br>
+Reactive Optimizers: [https://arxiv.org/pdf/2609.08663](https://arxiv.org/pdf/2609.08663)<br>
+
+🔗 Contact person for more details: Shyam Marjit (Mail: <a href="mailto:shyammarjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
+
+<br>
+
+#### ✨ Project Title-4: `Gradient Inversion Attacks on Vision-Language Models under Federated Parameter Efficient Fine-Tuning Framework`
+
+🔎 Details: Early gradient inversion attacks on Vision-Language Models (VLMs) focused primarily on simple classification tasks using fixed category templates. Modern frameworks like MMGIA expand to complex tasks such as image captioning and medical report generation, but they rely on alternating two-stage optimization loops that require hundreds to thousands of backpropagation iterations, creating a severe computational time bottleneck. Crucially, existing methods assume full-parameter fine-tuning, leaving gradient inversion under Parameter-Efficient Fine-Tuning (PEFT), such as LoRA, which dominates resource-constrained FL, entirely unexplored. We intend to investigate a compelling research direction: To what extent are multimodal Vision-Language Models (VLMs) vulnerable to gradient inversion attacks when fine-tuned using Parameter-Efficient Fine-Tuning (PEFT) on single or dual modalities in Federated Learning?
+
+📖 Suggested reading:<br>
+MMGIA: [https://ijcai.org/proceedings/2025/886](https://ijcai.org/proceedings/2025/886)<br>
+DAGER: [https://arxiv.org/pdf/2405.15586](https://arxiv.org/pdf/2405.15586)<br>
+GIAS: [https://arxiv.org/pdf/2110.14962](https://arxiv.org/pdf/2110.14962)<br>
+
+🔗 Contact person for more details: Dr. Siladittya Manna (Mail: <a href="mailto:siladittyam@iisc.ac.in">siladittyam@iisc.ac.in</a>) and Ritik Kumar Badiya (Mail: <a href="mailto:ritikbadiya@iisc.ac.in">ritikbadiya@iisc.ac.in</a>)
+
+<br>
+
+#### ✨ Project Title-5: `Federated Learning with Noisy Labels`
+
+🔎 Details: Despite advances in federated learning with noisy labels, existing approaches often address label-noise estimation, sample correction, and client-aware aggregation without fully accounting for their interplay with severe non-IID data distributions. In particular, distinguishing client-specific annotation corruption from legitimate distributional heterogeneity remains challenging, potentially leading to erroneous label correction or the suppression of informative clients. This research will address this gap by jointly estimating label reliability and client heterogeneity and incorporating these estimates into noise-aware local optimization and global aggregation, without requiring clean server-side data or sharing raw data.
+
+📖 Suggested reading:<br>
+Federated learning with noisy labels Survey: [https://www.sciencedirect.com/science/article/pii/S0893608026003503](https://www.sciencedirect.com/science/article/pii/S0893608026003503)<br>
+
+🔗 Contact person for more details: Dr. Siladittya Manna (Mail: <a href="mailto:siladittyam@iisc.ac.in">siladittyam@iisc.ac.in</a>)
+
+
+<br>
+
+#### ✨ Project Title-6: `Foley-Evaluation Metric`
+
+🔎 Details: For video-to-audio generation, causality between visual events and their corresponding sounds should be preserved. This project aims to develop a metric that evaluates whether the generated sound is causally triggered by the event occurring in the video, rather than merely being associated with or conditioned on the presence of that event.
+
+📖 Suggested reading:<br>
+AVBench: [https://arxiv.org/pdf/2605.24652](https://arxiv.org/pdf/2605.24652)<br>
+Foley Bench: [https://arxiv.org/pdf/2511.13219](https://arxiv.org/pdf/2511.13219)<br>
+
+🔗 Contact person for more details: Akanksha Sharma (Mail: <a href="mailto:akanksha1@iisc.ac.in">akanksha1@iisc.ac.in</a>) and Ishan Tiwari (Mail: <a href="mailto:ishan.tiwari.it.jsr@gmail.com">ishan.tiwari.it.jsr@gmail.com</a>)
+
+<br>
+
+#### ✨ Project Title-7: `Towards Efficient Text/Image-to-3D Generation and Editing`
+
+🔎 Details: Today’s 3D generators, from diffusion models to code-writing language agents, produce objects and scenes that look plausible but are costly, hard to verify and prone to structural or physical errors. This work aims to generate 3D content that is affordable, physically valid and decomposed into meaningful semantic parts that can be moved or edited easily.
+
+
+📖 Suggested reading:<br>
+ShapeCraft: [https://arxiv.org/pdf/2510.17603](https://arxiv.org/pdf/2510.17603)<br>
+Articraft: [https://arxiv.org/pdf/2605.15187](https://arxiv.org/pdf/2605.15187)<br>
+
+
+🔗 Contact person for more details: Anay Loya (Mail: <a href="mailto:anayloya@iisc.ac.in">anayloya@iisc.ac.in</a>) and Soumya Panja (Mail: <a href="mailto:soumyapanja@iisc.ac.in">soumyapanja@iisc.ac.in</a>)
+
+<br>
+
+#### ✨ Project Title-8: `When Does Memorization Get Cheaper? A Fisher-Geometry View`
+
+🔎 Details: Neural networks can fit almost anything, even random labels. Recent work shows that Fisher information can separate what a trained network generalizes from what it memorizes: the two occupy different directions in weight space. Yet a curious observation is not well understood: the more examples a network memorizes, the cheaper each new one appears to become. This project aims to understand how a trained network makes room for examples it can only memorize (whether they need their own capacity or can share it) through the geometry of Fisher information. The ideas can be extended to fine-tuning and parameter-efficient methods such as LoRA.  
+
+
+
+📖 Suggested reading:<br>
+Fisher information and the geometry of memorization in neural networks, NeurIPS’26  https://arxiv.org/pdf/2610.16161<br>
+Measuring the Intrinsic Dimension of Objective Landscapes, ICLR’18 https://arxiv.org/pdf/1804.08838<br>
+
+
+🔗 Contact person for more details: Shraddha Chavan (Mail: <a href="mailto:shraddha99.iisc@iisc.ac.in">shraddha99.iisc@gmail.com</a>)
+
+
