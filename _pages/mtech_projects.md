@@ -25,7 +25,11 @@ Perpetual Wonder: [https://arxiv.org/abs/2602.04876](https://arxiv.org/abs/2602.
 Code Video Model: [https://code-video-model.github.io/tech_report.pdf](https://code-video-model.github.io/tech_report.pdf)<br>
 PHYSLDM: [https://arxiv.org/pdf/2610.07609](https://arxiv.org/pdf/2610.07609)<br>
 
+🔗 Contact person for more details: Kunsh Taneja (Mail: <a href="mailto:kunshtaneja@iisc.ac.in">kunshtaneja@iisc.ac.in</a>) and Shyam Marjit (Mail: <a href="mailto:shyammarjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>) <br>
+
 Video Demonstrations from 'Code Video Model' and 'Perpetual Wonder' works.
+
+
 
 <div align="center">
   <video width="100%" controls autoplay muted loop>
@@ -51,7 +55,6 @@ Video Demonstrations from 'Code Video Model' and 'Perpetual Wonder' works.
 
 
 
-🔗 Contact person for more details: Kunsh Taneja (Mail: <a href="mailto:kunshtaneja@iisc.ac.in">kunshtaneja@iisc.ac.in</a>) and Shyam Marjit (Mail: <a href="mailto:shyammarjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
 
 <br>
 
@@ -73,7 +76,7 @@ MoE: [https://arxiv.org/abs/2503.07137](https://arxiv.org/abs/2503.07137)<br>
 
 📖 Suggested reading:<br>
 Sparks of Weight-Space Programming: [https://rikiyat.github.io/blog/weight-space-programming/](https://rikiyat.github.io/blog/weight-space-programming/)<br>
-Reactive Optimizers: [https://arxiv.org/pdf/2609.08663](https://arxiv.org/pdf/2609.08663)<br>
+Reactive Optimizers: [https://xingjianbai.com/reactive-optimizers/](https://xingjianbai.com/reactive-optimizers/)<br>
 
 🔗 Contact person for more details: Shyam Marjit (Mail: <a href="mailto:shyammarjit@iisc.ac.in">shyammarjit@iisc.ac.in</a>)
 
